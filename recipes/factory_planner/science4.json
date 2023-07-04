@@ -1,0 +1,1764 @@
+{
+    "mod_version": "1.1.60",
+    "export_modset": {
+        "base": "1.1.74",
+        "gvv": "0.5.1",
+        "creative-mod": "1.8.0",
+        "flib": "0.12.4",
+        "FNEI": "0.4.1",
+        "helmod": "0.12.14",
+        "factoryplanner": "1.1.60"
+    },
+    "subfactories": [
+        {
+            "name": "science5-matrix",
+            "timescale": 60,
+            "notes": "",
+            "Product": {
+                "objects": [
+                    {
+                        "proto": {
+                            "name": "utility-science-pack",
+                            "simplified": true,
+                            "type": "item"
+                        },
+                        "amount": 60,
+                        "required_amount": {
+                            "defined_by": "amount",
+                            "amount": 60,
+                            "belt_proto": false
+                        },
+                        "top_level": true,
+                        "class": "Product"
+                    }
+                ],
+                "class": "Collection"
+            },
+            "Byproduct": {
+                "objects": {},
+                "class": "Collection"
+            },
+            "Ingredient": {
+                "objects": [
+                    {
+                        "proto": {
+                            "name": "copper-plate",
+                            "simplified": true,
+                            "type": "item"
+                        },
+                        "amount": 2990,
+                        "required_amount": {
+                            "defined_by": "amount",
+                            "amount": 0,
+                            "belt_proto": false
+                        },
+                        "top_level": true,
+                        "class": "Ingredient"
+                    },
+                    {
+                        "proto": {
+                            "name": "iron-plate",
+                            "simplified": true,
+                            "type": "item"
+                        },
+                        "amount": 2000,
+                        "required_amount": {
+                            "defined_by": "amount",
+                            "amount": 0,
+                            "belt_proto": false
+                        },
+                        "top_level": true,
+                        "class": "Ingredient"
+                    },
+                    {
+                        "proto": {
+                            "name": "coal",
+                            "simplified": true,
+                            "type": "item"
+                        },
+                        "amount": 230,
+                        "required_amount": {
+                            "defined_by": "amount",
+                            "amount": 0,
+                            "belt_proto": false
+                        },
+                        "top_level": true,
+                        "class": "Ingredient"
+                    },
+                    {
+                        "proto": {
+                            "name": "water",
+                            "simplified": true,
+                            "type": "fluid"
+                        },
+                        "amount": 11543.589743589744,
+                        "required_amount": {
+                            "defined_by": "amount",
+                            "amount": 0,
+                            "belt_proto": false
+                        },
+                        "top_level": true,
+                        "class": "Ingredient"
+                    },
+                    {
+                        "proto": {
+                            "name": "crude-oil",
+                            "simplified": true,
+                            "type": "fluid"
+                        },
+                        "amount": 6410.25641025641,
+                        "required_amount": {
+                            "defined_by": "amount",
+                            "amount": 0,
+                            "belt_proto": false
+                        },
+                        "top_level": true,
+                        "class": "Ingredient"
+                    }
+                ],
+                "class": "Collection"
+            },
+            "matrix_free_items": {},
+            "top_floor": {
+                "Line": {
+                    "objects": [
+                        {
+                            "class": "Line",
+                            "recipe": {
+                                "proto": {
+                                    "name": "utility-science-pack",
+                                    "simplified": true,
+                                    "category": "crafting"
+                                },
+                                "production_type": "produce",
+                                "class": "Recipe"
+                            },
+                            "active": true,
+                            "done": false,
+                            "percentage": 100,
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-1",
+                                    "simplified": true,
+                                    "category": "crafting"
+                                },
+                                "force_limit": false,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": {},
+                                        "class": "Collection"
+                                    },
+                                    "module_count": 0,
+                                    "empty_slots": 0,
+                                    "class": "ModuleSet"
+                                },
+                                "class": "Machine",
+                                "count": 14.000000000000004
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "utility-science-pack",
+                                            "simplified": true,
+                                            "type": "item"
+                                        },
+                                        "amount": 60.000000000000014,
+                                        "top_level": false,
+                                        "class": "Product"
+                                    }
+                                ],
+                                "class": "Collection"
+                            },
+                            "Byproduct": {
+                                "objects": {},
+                                "class": "Collection"
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "processing-unit",
+                                            "simplified": true,
+                                            "type": "item"
+                                        },
+                                        "amount": 40.00000000000001,
+                                        "top_level": false,
+                                        "class": "Ingredient"
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "flying-robot-frame",
+                                            "simplified": true,
+                                            "type": "item"
+                                        },
+                                        "amount": 20.000000000000004,
+                                        "top_level": false,
+                                        "class": "Ingredient"
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "low-density-structure",
+                                            "simplified": true,
+                                            "type": "item"
+                                        },
+                                        "amount": 60.000000000000014,
+                                        "top_level": false,
+                                        "class": "Ingredient"
+                                    }
+                                ],
+                                "class": "Collection"
+                            }
+                        },
+                        {
+                            "class": "Line",
+                            "recipe": {
+                                "proto": {
+                                    "name": "processing-unit",
+                                    "simplified": true,
+                                    "category": "crafting-with-fluid"
+                                },
+                                "production_type": "produce",
+                                "class": "Recipe"
+                            },
+                            "active": true,
+                            "done": false,
+                            "percentage": 100,
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-2",
+                                    "simplified": true,
+                                    "category": "crafting-with-fluid"
+                                },
+                                "force_limit": false,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": {},
+                                        "class": "Collection"
+                                    },
+                                    "module_count": 0,
+                                    "empty_slots": 2,
+                                    "class": "ModuleSet"
+                                },
+                                "class": "Machine",
+                                "count": 8.888888888888891
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "processing-unit",
+                                            "simplified": true,
+                                            "type": "item"
+                                        },
+                                        "amount": 40.00000000000001,
+                                        "top_level": false,
+                                        "class": "Product"
+                                    }
+                                ],
+                                "class": "Collection"
+                            },
+                            "Byproduct": {
+                                "objects": {},
+                                "class": "Collection"
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "electronic-circuit",
+                                            "simplified": true,
+                                            "type": "item"
+                                        },
+                                        "amount": 800.0000000000001,
+                                        "top_level": false,
+                                        "class": "Ingredient"
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "advanced-circuit",
+                                            "simplified": true,
+                                            "type": "item"
+                                        },
+                                        "amount": 80.00000000000001,
+                                        "top_level": false,
+                                        "class": "Ingredient"
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "sulfuric-acid",
+                                            "simplified": true,
+                                            "type": "fluid"
+                                        },
+                                        "amount": 200.00000000000003,
+                                        "top_level": false,
+                                        "class": "Ingredient"
+                                    }
+                                ],
+                                "class": "Collection"
+                            }
+                        },
+                        {
+                            "class": "Line",
+                            "recipe": {
+                                "proto": {
+                                    "name": "flying-robot-frame",
+                                    "simplified": true,
+                                    "category": "crafting"
+                                },
+                                "production_type": "produce",
+                                "class": "Recipe"
+                            },
+                            "active": true,
+                            "done": false,
+                            "percentage": 100,
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-1",
+                                    "simplified": true,
+                                    "category": "crafting"
+                                },
+                                "force_limit": false,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": {},
+                                        "class": "Collection"
+                                    },
+                                    "module_count": 0,
+                                    "empty_slots": 0,
+                                    "class": "ModuleSet"
+                                },
+                                "class": "Machine",
+                                "count": 13.333333333333336
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "flying-robot-frame",
+                                            "simplified": true,
+                                            "type": "item"
+                                        },
+                                        "amount": 20.000000000000004,
+                                        "top_level": false,
+                                        "class": "Product"
+                                    }
+                                ],
+                                "class": "Collection"
+                            },
+                            "Byproduct": {
+                                "objects": {},
+                                "class": "Collection"
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "steel-plate",
+                                            "simplified": true,
+                                            "type": "item"
+                                        },
+                                        "amount": 20.000000000000004,
+                                        "top_level": false,
+                                        "class": "Ingredient"
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "battery",
+                                            "simplified": true,
+                                            "type": "item"
+                                        },
+                                        "amount": 40.00000000000001,
+                                        "top_level": false,
+                                        "class": "Ingredient"
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "electronic-circuit",
+                                            "simplified": true,
+                                            "type": "item"
+                                        },
+                                        "amount": 60.000000000000014,
+                                        "top_level": false,
+                                        "class": "Ingredient"
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "electric-engine-unit",
+                                            "simplified": true,
+                                            "type": "item"
+                                        },
+                                        "amount": 20.000000000000004,
+                                        "top_level": false,
+                                        "class": "Ingredient"
+                                    }
+                                ],
+                                "class": "Collection"
+                            }
+                        },
+                        {
+                            "class": "Line",
+                            "recipe": {
+                                "proto": {
+                                    "name": "low-density-structure",
+                                    "simplified": true,
+                                    "category": "crafting"
+                                },
+                                "production_type": "produce",
+                                "class": "Recipe"
+                            },
+                            "active": true,
+                            "done": false,
+                            "percentage": 100,
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-1",
+                                    "simplified": true,
+                                    "category": "crafting"
+                                },
+                                "force_limit": false,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": {},
+                                        "class": "Collection"
+                                    },
+                                    "module_count": 0,
+                                    "empty_slots": 0,
+                                    "class": "ModuleSet"
+                                },
+                                "class": "Machine",
+                                "count": 40
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "low-density-structure",
+                                            "simplified": true,
+                                            "type": "item"
+                                        },
+                                        "amount": 60,
+                                        "top_level": false,
+                                        "class": "Product"
+                                    }
+                                ],
+                                "class": "Collection"
+                            },
+                            "Byproduct": {
+                                "objects": {},
+                                "class": "Collection"
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "copper-plate",
+                                            "simplified": true,
+                                            "type": "item"
+                                        },
+                                        "amount": 1200,
+                                        "top_level": false,
+                                        "class": "Ingredient"
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "steel-plate",
+                                            "simplified": true,
+                                            "type": "item"
+                                        },
+                                        "amount": 120,
+                                        "top_level": false,
+                                        "class": "Ingredient"
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "plastic-bar",
+                                            "simplified": true,
+                                            "type": "item"
+                                        },
+                                        "amount": 300,
+                                        "top_level": false,
+                                        "class": "Ingredient"
+                                    }
+                                ],
+                                "class": "Collection"
+                            }
+                        },
+                        {
+                            "class": "Line",
+                            "recipe": {
+                                "proto": {
+                                    "name": "battery",
+                                    "simplified": true,
+                                    "category": "chemistry"
+                                },
+                                "production_type": "produce",
+                                "class": "Recipe"
+                            },
+                            "active": true,
+                            "done": false,
+                            "percentage": 100,
+                            "machine": {
+                                "proto": {
+                                    "name": "chemical-plant",
+                                    "simplified": true,
+                                    "category": "chemistry"
+                                },
+                                "force_limit": false,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": {},
+                                        "class": "Collection"
+                                    },
+                                    "module_count": 0,
+                                    "empty_slots": 3,
+                                    "class": "ModuleSet"
+                                },
+                                "class": "Machine",
+                                "count": 2.666666666666667
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "battery",
+                                            "simplified": true,
+                                            "type": "item"
+                                        },
+                                        "amount": 40.00000000000001,
+                                        "top_level": false,
+                                        "class": "Product"
+                                    }
+                                ],
+                                "class": "Collection"
+                            },
+                            "Byproduct": {
+                                "objects": {},
+                                "class": "Collection"
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "iron-plate",
+                                            "simplified": true,
+                                            "type": "item"
+                                        },
+                                        "amount": 40.00000000000001,
+                                        "top_level": false,
+                                        "class": "Ingredient"
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "copper-plate",
+                                            "simplified": true,
+                                            "type": "item"
+                                        },
+                                        "amount": 40.00000000000001,
+                                        "top_level": false,
+                                        "class": "Ingredient"
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "sulfuric-acid",
+                                            "simplified": true,
+                                            "type": "fluid"
+                                        },
+                                        "amount": 800.0000000000001,
+                                        "top_level": false,
+                                        "class": "Ingredient"
+                                    }
+                                ],
+                                "class": "Collection"
+                            }
+                        },
+                        {
+                            "class": "Line",
+                            "recipe": {
+                                "proto": {
+                                    "name": "electric-engine-unit",
+                                    "simplified": true,
+                                    "category": "crafting-with-fluid"
+                                },
+                                "production_type": "produce",
+                                "class": "Recipe"
+                            },
+                            "active": true,
+                            "done": false,
+                            "percentage": 100,
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-2",
+                                    "simplified": true,
+                                    "category": "crafting-with-fluid"
+                                },
+                                "force_limit": false,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": {},
+                                        "class": "Collection"
+                                    },
+                                    "module_count": 0,
+                                    "empty_slots": 2,
+                                    "class": "ModuleSet"
+                                },
+                                "class": "Machine",
+                                "count": 4.4444444444444455
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "electric-engine-unit",
+                                            "simplified": true,
+                                            "type": "item"
+                                        },
+                                        "amount": 20.000000000000004,
+                                        "top_level": false,
+                                        "class": "Product"
+                                    }
+                                ],
+                                "class": "Collection"
+                            },
+                            "Byproduct": {
+                                "objects": {},
+                                "class": "Collection"
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "electronic-circuit",
+                                            "simplified": true,
+                                            "type": "item"
+                                        },
+                                        "amount": 40.00000000000001,
+                                        "top_level": false,
+                                        "class": "Ingredient"
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "engine-unit",
+                                            "simplified": true,
+                                            "type": "item"
+                                        },
+                                        "amount": 20.000000000000004,
+                                        "top_level": false,
+                                        "class": "Ingredient"
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "lubricant",
+                                            "simplified": true,
+                                            "type": "fluid"
+                                        },
+                                        "amount": 300.00000000000006,
+                                        "top_level": false,
+                                        "class": "Ingredient"
+                                    }
+                                ],
+                                "class": "Collection"
+                            }
+                        },
+                        {
+                            "class": "Line",
+                            "recipe": {
+                                "proto": {
+                                    "name": "engine-unit",
+                                    "simplified": true,
+                                    "category": "advanced-crafting"
+                                },
+                                "production_type": "produce",
+                                "class": "Recipe"
+                            },
+                            "active": true,
+                            "done": false,
+                            "percentage": 100,
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-1",
+                                    "simplified": true,
+                                    "category": "advanced-crafting"
+                                },
+                                "force_limit": false,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": {},
+                                        "class": "Collection"
+                                    },
+                                    "module_count": 0,
+                                    "empty_slots": 0,
+                                    "class": "ModuleSet"
+                                },
+                                "class": "Machine",
+                                "count": 6.666666666666668
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "engine-unit",
+                                            "simplified": true,
+                                            "type": "item"
+                                        },
+                                        "amount": 20.000000000000004,
+                                        "top_level": false,
+                                        "class": "Product"
+                                    }
+                                ],
+                                "class": "Collection"
+                            },
+                            "Byproduct": {
+                                "objects": {},
+                                "class": "Collection"
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "steel-plate",
+                                            "simplified": true,
+                                            "type": "item"
+                                        },
+                                        "amount": 20.000000000000004,
+                                        "top_level": false,
+                                        "class": "Ingredient"
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "iron-gear-wheel",
+                                            "simplified": true,
+                                            "type": "item"
+                                        },
+                                        "amount": 20.000000000000004,
+                                        "top_level": false,
+                                        "class": "Ingredient"
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "pipe",
+                                            "simplified": true,
+                                            "type": "item"
+                                        },
+                                        "amount": 40.00000000000001,
+                                        "top_level": false,
+                                        "class": "Ingredient"
+                                    }
+                                ],
+                                "class": "Collection"
+                            }
+                        },
+                        {
+                            "class": "Line",
+                            "recipe": {
+                                "proto": {
+                                    "name": "advanced-circuit",
+                                    "simplified": true,
+                                    "category": "crafting"
+                                },
+                                "production_type": "produce",
+                                "class": "Recipe"
+                            },
+                            "active": true,
+                            "done": false,
+                            "percentage": 100,
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-1",
+                                    "simplified": true,
+                                    "category": "crafting"
+                                },
+                                "force_limit": false,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": {},
+                                        "class": "Collection"
+                                    },
+                                    "module_count": 0,
+                                    "empty_slots": 0,
+                                    "class": "ModuleSet"
+                                },
+                                "class": "Machine",
+                                "count": 16
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "advanced-circuit",
+                                            "simplified": true,
+                                            "type": "item"
+                                        },
+                                        "amount": 80,
+                                        "top_level": false,
+                                        "class": "Product"
+                                    }
+                                ],
+                                "class": "Collection"
+                            },
+                            "Byproduct": {
+                                "objects": {},
+                                "class": "Collection"
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "plastic-bar",
+                                            "simplified": true,
+                                            "type": "item"
+                                        },
+                                        "amount": 160,
+                                        "top_level": false,
+                                        "class": "Ingredient"
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "copper-cable",
+                                            "simplified": true,
+                                            "type": "item"
+                                        },
+                                        "amount": 320,
+                                        "top_level": false,
+                                        "class": "Ingredient"
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "electronic-circuit",
+                                            "simplified": true,
+                                            "type": "item"
+                                        },
+                                        "amount": 160,
+                                        "top_level": false,
+                                        "class": "Ingredient"
+                                    }
+                                ],
+                                "class": "Collection"
+                            }
+                        },
+                        {
+                            "class": "Line",
+                            "recipe": {
+                                "proto": {
+                                    "name": "electronic-circuit",
+                                    "simplified": true,
+                                    "category": "crafting"
+                                },
+                                "production_type": "produce",
+                                "class": "Recipe"
+                            },
+                            "active": true,
+                            "done": false,
+                            "percentage": 100,
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-1",
+                                    "simplified": true,
+                                    "category": "crafting"
+                                },
+                                "force_limit": false,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": {},
+                                        "class": "Collection"
+                                    },
+                                    "module_count": 0,
+                                    "empty_slots": 0,
+                                    "class": "ModuleSet"
+                                },
+                                "class": "Machine",
+                                "count": 17.666666666666668
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "electronic-circuit",
+                                            "simplified": true,
+                                            "type": "item"
+                                        },
+                                        "amount": 1060,
+                                        "top_level": false,
+                                        "class": "Product"
+                                    }
+                                ],
+                                "class": "Collection"
+                            },
+                            "Byproduct": {
+                                "objects": {},
+                                "class": "Collection"
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "iron-plate",
+                                            "simplified": true,
+                                            "type": "item"
+                                        },
+                                        "amount": 1060,
+                                        "top_level": false,
+                                        "class": "Ingredient"
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "copper-cable",
+                                            "simplified": true,
+                                            "type": "item"
+                                        },
+                                        "amount": 3180,
+                                        "top_level": false,
+                                        "class": "Ingredient"
+                                    }
+                                ],
+                                "class": "Collection"
+                            }
+                        },
+                        {
+                            "class": "Line",
+                            "recipe": {
+                                "proto": {
+                                    "name": "lubricant",
+                                    "simplified": true,
+                                    "category": "chemistry"
+                                },
+                                "production_type": "produce",
+                                "class": "Recipe"
+                            },
+                            "active": true,
+                            "done": false,
+                            "percentage": 100,
+                            "machine": {
+                                "proto": {
+                                    "name": "chemical-plant",
+                                    "simplified": true,
+                                    "category": "chemistry"
+                                },
+                                "force_limit": false,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": {},
+                                        "class": "Collection"
+                                    },
+                                    "module_count": 0,
+                                    "empty_slots": 3,
+                                    "class": "ModuleSet"
+                                },
+                                "class": "Machine",
+                                "count": 0.5000000000000002
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "lubricant",
+                                            "simplified": true,
+                                            "type": "fluid"
+                                        },
+                                        "amount": 300.0000000000001,
+                                        "top_level": false,
+                                        "class": "Product"
+                                    }
+                                ],
+                                "class": "Collection"
+                            },
+                            "Byproduct": {
+                                "objects": {},
+                                "class": "Collection"
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "heavy-oil",
+                                            "simplified": true,
+                                            "type": "fluid"
+                                        },
+                                        "amount": 300.0000000000001,
+                                        "top_level": false,
+                                        "class": "Ingredient"
+                                    }
+                                ],
+                                "class": "Collection"
+                            }
+                        },
+                        {
+                            "class": "Line",
+                            "recipe": {
+                                "proto": {
+                                    "name": "sulfuric-acid",
+                                    "simplified": true,
+                                    "category": "chemistry"
+                                },
+                                "production_type": "produce",
+                                "class": "Recipe"
+                            },
+                            "active": true,
+                            "done": false,
+                            "percentage": 100,
+                            "machine": {
+                                "proto": {
+                                    "name": "chemical-plant",
+                                    "simplified": true,
+                                    "category": "chemistry"
+                                },
+                                "force_limit": false,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": {},
+                                        "class": "Collection"
+                                    },
+                                    "module_count": 0,
+                                    "empty_slots": 3,
+                                    "class": "ModuleSet"
+                                },
+                                "class": "Machine",
+                                "count": 0.33333333333333337
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "sulfuric-acid",
+                                            "simplified": true,
+                                            "type": "fluid"
+                                        },
+                                        "amount": 1000.0000000000002,
+                                        "top_level": false,
+                                        "class": "Product"
+                                    }
+                                ],
+                                "class": "Collection"
+                            },
+                            "Byproduct": {
+                                "objects": {},
+                                "class": "Collection"
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "iron-plate",
+                                            "simplified": true,
+                                            "type": "item"
+                                        },
+                                        "amount": 20.000000000000004,
+                                        "top_level": false,
+                                        "class": "Ingredient"
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "sulfur",
+                                            "simplified": true,
+                                            "type": "item"
+                                        },
+                                        "amount": 100.00000000000001,
+                                        "top_level": false,
+                                        "class": "Ingredient"
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "water",
+                                            "simplified": true,
+                                            "type": "fluid"
+                                        },
+                                        "amount": 2000.0000000000005,
+                                        "top_level": false,
+                                        "class": "Ingredient"
+                                    }
+                                ],
+                                "class": "Collection"
+                            }
+                        },
+                        {
+                            "class": "Line",
+                            "recipe": {
+                                "proto": {
+                                    "name": "sulfur",
+                                    "simplified": true,
+                                    "category": "chemistry"
+                                },
+                                "production_type": "produce",
+                                "class": "Recipe"
+                            },
+                            "active": true,
+                            "done": false,
+                            "percentage": 100,
+                            "machine": {
+                                "proto": {
+                                    "name": "chemical-plant",
+                                    "simplified": true,
+                                    "category": "chemistry"
+                                },
+                                "force_limit": false,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": {},
+                                        "class": "Collection"
+                                    },
+                                    "module_count": 0,
+                                    "empty_slots": 3,
+                                    "class": "ModuleSet"
+                                },
+                                "class": "Machine",
+                                "count": 0.8333333333333328
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "sulfur",
+                                            "simplified": true,
+                                            "type": "item"
+                                        },
+                                        "amount": 99.99999999999996,
+                                        "top_level": false,
+                                        "class": "Product"
+                                    }
+                                ],
+                                "class": "Collection"
+                            },
+                            "Byproduct": {
+                                "objects": {},
+                                "class": "Collection"
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "water",
+                                            "simplified": true,
+                                            "type": "fluid"
+                                        },
+                                        "amount": 1499.9999999999993,
+                                        "top_level": false,
+                                        "class": "Ingredient"
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "petroleum-gas",
+                                            "simplified": true,
+                                            "type": "fluid"
+                                        },
+                                        "amount": 1499.9999999999993,
+                                        "top_level": false,
+                                        "class": "Ingredient"
+                                    }
+                                ],
+                                "class": "Collection"
+                            }
+                        },
+                        {
+                            "class": "Line",
+                            "recipe": {
+                                "proto": {
+                                    "name": "plastic-bar",
+                                    "simplified": true,
+                                    "category": "chemistry"
+                                },
+                                "production_type": "produce",
+                                "class": "Recipe"
+                            },
+                            "active": true,
+                            "done": false,
+                            "percentage": 100,
+                            "machine": {
+                                "proto": {
+                                    "name": "chemical-plant",
+                                    "simplified": true,
+                                    "category": "chemistry"
+                                },
+                                "force_limit": false,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": {},
+                                        "class": "Collection"
+                                    },
+                                    "module_count": 0,
+                                    "empty_slots": 3,
+                                    "class": "ModuleSet"
+                                },
+                                "class": "Machine",
+                                "count": 3.8333333333333335
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "plastic-bar",
+                                            "simplified": true,
+                                            "type": "item"
+                                        },
+                                        "amount": 460,
+                                        "top_level": false,
+                                        "class": "Product"
+                                    }
+                                ],
+                                "class": "Collection"
+                            },
+                            "Byproduct": {
+                                "objects": {},
+                                "class": "Collection"
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "coal",
+                                            "simplified": true,
+                                            "type": "item"
+                                        },
+                                        "amount": 230,
+                                        "top_level": false,
+                                        "class": "Ingredient"
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "petroleum-gas",
+                                            "simplified": true,
+                                            "type": "fluid"
+                                        },
+                                        "amount": 4600,
+                                        "top_level": false,
+                                        "class": "Ingredient"
+                                    }
+                                ],
+                                "class": "Collection"
+                            }
+                        },
+                        {
+                            "class": "Line",
+                            "recipe": {
+                                "proto": {
+                                    "name": "advanced-oil-processing",
+                                    "simplified": true,
+                                    "category": "oil-processing"
+                                },
+                                "production_type": "produce",
+                                "class": "Recipe"
+                            },
+                            "active": true,
+                            "done": false,
+                            "percentage": 100,
+                            "machine": {
+                                "proto": {
+                                    "name": "oil-refinery",
+                                    "simplified": true,
+                                    "category": "oil-processing"
+                                },
+                                "force_limit": false,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": {},
+                                        "class": "Collection"
+                                    },
+                                    "module_count": 0,
+                                    "empty_slots": 3,
+                                    "class": "ModuleSet"
+                                },
+                                "class": "Machine",
+                                "count": 5.3418803418803416
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "heavy-oil",
+                                            "simplified": true,
+                                            "type": "fluid"
+                                        },
+                                        "amount": 1602.5641025641025,
+                                        "top_level": false,
+                                        "class": "Product"
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "light-oil",
+                                            "simplified": true,
+                                            "type": "fluid"
+                                        },
+                                        "amount": 2884.6153846153848,
+                                        "top_level": false,
+                                        "class": "Product"
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "petroleum-gas",
+                                            "simplified": true,
+                                            "type": "fluid"
+                                        },
+                                        "amount": 3525.6410256410254,
+                                        "top_level": false,
+                                        "class": "Product"
+                                    }
+                                ],
+                                "class": "Collection"
+                            },
+                            "Byproduct": {
+                                "objects": {},
+                                "class": "Collection"
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "water",
+                                            "simplified": true,
+                                            "type": "fluid"
+                                        },
+                                        "amount": 3205.128205128205,
+                                        "top_level": false,
+                                        "class": "Ingredient"
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "crude-oil",
+                                            "simplified": true,
+                                            "type": "fluid"
+                                        },
+                                        "amount": 6410.25641025641,
+                                        "top_level": false,
+                                        "class": "Ingredient"
+                                    }
+                                ],
+                                "class": "Collection"
+                            }
+                        },
+                        {
+                            "class": "Line",
+                            "recipe": {
+                                "proto": {
+                                    "name": "iron-gear-wheel",
+                                    "simplified": true,
+                                    "category": "crafting"
+                                },
+                                "production_type": "produce",
+                                "class": "Recipe"
+                            },
+                            "active": true,
+                            "done": false,
+                            "percentage": 100,
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-1",
+                                    "simplified": true,
+                                    "category": "crafting"
+                                },
+                                "force_limit": false,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": {},
+                                        "class": "Collection"
+                                    },
+                                    "module_count": 0,
+                                    "empty_slots": 0,
+                                    "class": "ModuleSet"
+                                },
+                                "class": "Machine",
+                                "count": 0.3333333333333334
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "iron-gear-wheel",
+                                            "simplified": true,
+                                            "type": "item"
+                                        },
+                                        "amount": 20.000000000000007,
+                                        "top_level": false,
+                                        "class": "Product"
+                                    }
+                                ],
+                                "class": "Collection"
+                            },
+                            "Byproduct": {
+                                "objects": {},
+                                "class": "Collection"
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "iron-plate",
+                                            "simplified": true,
+                                            "type": "item"
+                                        },
+                                        "amount": 40.000000000000014,
+                                        "top_level": false,
+                                        "class": "Ingredient"
+                                    }
+                                ],
+                                "class": "Collection"
+                            }
+                        },
+                        {
+                            "class": "Line",
+                            "recipe": {
+                                "proto": {
+                                    "name": "pipe",
+                                    "simplified": true,
+                                    "category": "crafting"
+                                },
+                                "production_type": "produce",
+                                "class": "Recipe"
+                            },
+                            "active": true,
+                            "done": false,
+                            "percentage": 100,
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-1",
+                                    "simplified": true,
+                                    "category": "crafting"
+                                },
+                                "force_limit": false,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": {},
+                                        "class": "Collection"
+                                    },
+                                    "module_count": 0,
+                                    "empty_slots": 0,
+                                    "class": "ModuleSet"
+                                },
+                                "class": "Machine",
+                                "count": 0.6666666666666669
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "pipe",
+                                            "simplified": true,
+                                            "type": "item"
+                                        },
+                                        "amount": 40.000000000000014,
+                                        "top_level": false,
+                                        "class": "Product"
+                                    }
+                                ],
+                                "class": "Collection"
+                            },
+                            "Byproduct": {
+                                "objects": {},
+                                "class": "Collection"
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "iron-plate",
+                                            "simplified": true,
+                                            "type": "item"
+                                        },
+                                        "amount": 40.000000000000014,
+                                        "top_level": false,
+                                        "class": "Ingredient"
+                                    }
+                                ],
+                                "class": "Collection"
+                            }
+                        },
+                        {
+                            "class": "Line",
+                            "recipe": {
+                                "proto": {
+                                    "name": "copper-cable",
+                                    "simplified": true,
+                                    "category": "crafting"
+                                },
+                                "production_type": "produce",
+                                "class": "Recipe"
+                            },
+                            "active": true,
+                            "done": false,
+                            "percentage": 100,
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-1",
+                                    "simplified": true,
+                                    "category": "crafting"
+                                },
+                                "force_limit": false,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": {},
+                                        "class": "Collection"
+                                    },
+                                    "module_count": 0,
+                                    "empty_slots": 0,
+                                    "class": "ModuleSet"
+                                },
+                                "class": "Machine",
+                                "count": 29.166666666666668
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "copper-cable",
+                                            "simplified": true,
+                                            "type": "item"
+                                        },
+                                        "amount": 3500,
+                                        "top_level": false,
+                                        "class": "Product"
+                                    }
+                                ],
+                                "class": "Collection"
+                            },
+                            "Byproduct": {
+                                "objects": {},
+                                "class": "Collection"
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "copper-plate",
+                                            "simplified": true,
+                                            "type": "item"
+                                        },
+                                        "amount": 1750,
+                                        "top_level": false,
+                                        "class": "Ingredient"
+                                    }
+                                ],
+                                "class": "Collection"
+                            }
+                        },
+                        {
+                            "class": "Line",
+                            "recipe": {
+                                "proto": {
+                                    "name": "steel-plate",
+                                    "simplified": true,
+                                    "category": "smelting"
+                                },
+                                "production_type": "produce",
+                                "class": "Recipe"
+                            },
+                            "active": true,
+                            "done": false,
+                            "percentage": 100,
+                            "machine": {
+                                "proto": {
+                                    "name": "electric-furnace",
+                                    "simplified": true,
+                                    "category": "smelting"
+                                },
+                                "force_limit": false,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": {},
+                                        "class": "Collection"
+                                    },
+                                    "module_count": 0,
+                                    "empty_slots": 2,
+                                    "class": "ModuleSet"
+                                },
+                                "class": "Machine",
+                                "count": 21.333333333333336
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "steel-plate",
+                                            "simplified": true,
+                                            "type": "item"
+                                        },
+                                        "amount": 160.00000000000003,
+                                        "top_level": false,
+                                        "class": "Product"
+                                    }
+                                ],
+                                "class": "Collection"
+                            },
+                            "Byproduct": {
+                                "objects": {},
+                                "class": "Collection"
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "iron-plate",
+                                            "simplified": true,
+                                            "type": "item"
+                                        },
+                                        "amount": 800.0000000000001,
+                                        "top_level": false,
+                                        "class": "Ingredient"
+                                    }
+                                ],
+                                "class": "Collection"
+                            }
+                        },
+                        {
+                            "class": "Line",
+                            "recipe": {
+                                "proto": {
+                                    "name": "light-oil-cracking",
+                                    "simplified": true,
+                                    "category": "chemistry"
+                                },
+                                "production_type": "consume",
+                                "class": "Recipe"
+                            },
+                            "active": true,
+                            "done": false,
+                            "percentage": 100,
+                            "machine": {
+                                "proto": {
+                                    "name": "chemical-plant",
+                                    "simplified": true,
+                                    "category": "chemistry"
+                                },
+                                "force_limit": false,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": {},
+                                        "class": "Collection"
+                                    },
+                                    "module_count": 0,
+                                    "empty_slots": 3,
+                                    "class": "ModuleSet"
+                                },
+                                "class": "Machine",
+                                "count": 4.2905982905982905
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "petroleum-gas",
+                                            "simplified": true,
+                                            "type": "fluid"
+                                        },
+                                        "amount": 2574.358974358974,
+                                        "top_level": false,
+                                        "class": "Product"
+                                    }
+                                ],
+                                "class": "Collection"
+                            },
+                            "Byproduct": {
+                                "objects": {},
+                                "class": "Collection"
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "water",
+                                            "simplified": true,
+                                            "type": "fluid"
+                                        },
+                                        "amount": 3861.538461538461,
+                                        "top_level": false,
+                                        "class": "Ingredient"
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "light-oil",
+                                            "simplified": true,
+                                            "type": "fluid"
+                                        },
+                                        "amount": 3861.538461538461,
+                                        "top_level": false,
+                                        "class": "Ingredient"
+                                    }
+                                ],
+                                "class": "Collection"
+                            }
+                        },
+                        {
+                            "class": "Line",
+                            "recipe": {
+                                "proto": {
+                                    "name": "heavy-oil-cracking",
+                                    "simplified": true,
+                                    "category": "chemistry"
+                                },
+                                "production_type": "consume",
+                                "class": "Recipe"
+                            },
+                            "active": true,
+                            "done": false,
+                            "percentage": 100,
+                            "machine": {
+                                "proto": {
+                                    "name": "chemical-plant",
+                                    "simplified": true,
+                                    "category": "chemistry"
+                                },
+                                "force_limit": false,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": {},
+                                        "class": "Collection"
+                                    },
+                                    "module_count": 0,
+                                    "empty_slots": 3,
+                                    "class": "ModuleSet"
+                                },
+                                "class": "Machine",
+                                "count": 1.0854700854700854
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "light-oil",
+                                            "simplified": true,
+                                            "type": "fluid"
+                                        },
+                                        "amount": 976.9230769230769,
+                                        "top_level": false,
+                                        "class": "Product"
+                                    }
+                                ],
+                                "class": "Collection"
+                            },
+                            "Byproduct": {
+                                "objects": {},
+                                "class": "Collection"
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "water",
+                                            "simplified": true,
+                                            "type": "fluid"
+                                        },
+                                        "amount": 976.9230769230769,
+                                        "top_level": false,
+                                        "class": "Ingredient"
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "heavy-oil",
+                                            "simplified": true,
+                                            "type": "fluid"
+                                        },
+                                        "amount": 1302.5641025641025,
+                                        "top_level": false,
+                                        "class": "Ingredient"
+                                    }
+                                ],
+                                "class": "Collection"
+                            }
+                        }
+                    ],
+                    "class": "Collection"
+                },
+                "level": 1,
+                "class": "Floor"
+            },
+            "class": "Subfactory"
+        }
+    ]
+}

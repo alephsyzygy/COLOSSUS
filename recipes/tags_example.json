@@ -1,0 +1,33 @@
+{
+    "blueprint": {
+        "snap-to-grid": {
+            "x": 1,
+            "y": 1
+        },
+        "absolute-snapping": true,
+        "icons": [
+            {
+                "signal": {
+                    "type": "item",
+                    "name": "medium-electric-pole"
+                },
+                "index": 1
+            }
+        ],
+        "entities": [
+            {
+                "entity_number": 1,
+                "name": "medium-electric-pole",
+                "position": {
+                    "x": 0.5,
+                    "y": 0.5
+                },
+                "tags": {
+                    "example-tag": "test"
+                }
+            }
+        ],
+        "item": "blueprint",
+        "version": 281479276920832
+    }
+}

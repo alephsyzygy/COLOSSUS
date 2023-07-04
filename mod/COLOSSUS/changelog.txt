@@ -1,0 +1,11 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 2023-07-03
+  Major Features:
+    - Initial pre-release.
+    - Generate blueprints from planner mods automatically.
+    - Generate busses.
+    - Generate logistic networks.
+    - Support for clocked busses.
+    - Helmod integration.
+    - Limited Factory Planner integration (need to edit the mod directly).

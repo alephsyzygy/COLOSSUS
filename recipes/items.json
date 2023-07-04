@@ -1,0 +1,2474 @@
+{
+    "wooden-chest": {
+        "name": "wooden-chest",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "iron-chest": {
+        "name": "iron-chest",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "steel-chest": {
+        "name": "steel-chest",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "storage-tank": {
+        "name": "storage-tank",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "transport-belt": {
+        "name": "transport-belt",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "fast-transport-belt": {
+        "name": "fast-transport-belt",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "express-transport-belt": {
+        "name": "express-transport-belt",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "underground-belt": {
+        "name": "underground-belt",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "fast-underground-belt": {
+        "name": "fast-underground-belt",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "express-underground-belt": {
+        "name": "express-underground-belt",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "splitter": {
+        "name": "splitter",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "fast-splitter": {
+        "name": "fast-splitter",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "express-splitter": {
+        "name": "express-splitter",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "loader": {
+        "name": "loader",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "fast-loader": {
+        "name": "fast-loader",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "express-loader": {
+        "name": "express-loader",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "burner-inserter": {
+        "name": "burner-inserter",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "inserter": {
+        "name": "inserter",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "long-handed-inserter": {
+        "name": "long-handed-inserter",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "fast-inserter": {
+        "name": "fast-inserter",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "filter-inserter": {
+        "name": "filter-inserter",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "stack-inserter": {
+        "name": "stack-inserter",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "stack-filter-inserter": {
+        "name": "stack-filter-inserter",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "small-electric-pole": {
+        "name": "small-electric-pole",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "medium-electric-pole": {
+        "name": "medium-electric-pole",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "big-electric-pole": {
+        "name": "big-electric-pole",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "substation": {
+        "name": "substation",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "pipe": {
+        "name": "pipe",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "pipe-to-ground": {
+        "name": "pipe-to-ground",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "pump": {
+        "name": "pump",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "rail": {
+        "name": "rail",
+        "type": "rail-planner",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "train-stop": {
+        "name": "train-stop",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "rail-signal": {
+        "name": "rail-signal",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "rail-chain-signal": {
+        "name": "rail-chain-signal",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "locomotive": {
+        "name": "locomotive",
+        "type": "item-with-entity-data",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "cargo-wagon": {
+        "name": "cargo-wagon",
+        "type": "item-with-entity-data",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "fluid-wagon": {
+        "name": "fluid-wagon",
+        "type": "item-with-entity-data",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "artillery-wagon": {
+        "name": "artillery-wagon",
+        "type": "item-with-entity-data",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "car": {
+        "name": "car",
+        "type": "item-with-entity-data",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "tank": {
+        "name": "tank",
+        "type": "item-with-entity-data",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "spidertron": {
+        "name": "spidertron",
+        "type": "item-with-entity-data",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "spidertron-remote": {
+        "name": "spidertron-remote",
+        "type": "spidertron-remote",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "logistic-robot": {
+        "name": "logistic-robot",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "construction-robot": {
+        "name": "construction-robot",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "logistic-chest-active-provider": {
+        "name": "logistic-chest-active-provider",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "logistic-chest-passive-provider": {
+        "name": "logistic-chest-passive-provider",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "logistic-chest-storage": {
+        "name": "logistic-chest-storage",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "logistic-chest-buffer": {
+        "name": "logistic-chest-buffer",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "logistic-chest-requester": {
+        "name": "logistic-chest-requester",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "roboport": {
+        "name": "roboport",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "small-lamp": {
+        "name": "small-lamp",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "red-wire": {
+        "name": "red-wire",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "green-wire": {
+        "name": "green-wire",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "arithmetic-combinator": {
+        "name": "arithmetic-combinator",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "decider-combinator": {
+        "name": "decider-combinator",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "constant-combinator": {
+        "name": "constant-combinator",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "power-switch": {
+        "name": "power-switch",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "programmable-speaker": {
+        "name": "programmable-speaker",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "stone-brick": {
+        "name": "stone-brick",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "concrete": {
+        "name": "concrete",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "hazard-concrete": {
+        "name": "hazard-concrete",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "refined-concrete": {
+        "name": "refined-concrete",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "refined-hazard-concrete": {
+        "name": "refined-hazard-concrete",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "landfill": {
+        "name": "landfill",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "cliff-explosives": {
+        "name": "cliff-explosives",
+        "type": "capsule",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "dummy-steel-axe": {
+        "name": "dummy-steel-axe",
+        "type": "mining-tool",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "repair-pack": {
+        "name": "repair-pack",
+        "type": "repair-tool",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "blueprint": {
+        "name": "blueprint",
+        "type": "blueprint",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "deconstruction-planner": {
+        "name": "deconstruction-planner",
+        "type": "deconstruction-item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "upgrade-planner": {
+        "name": "upgrade-planner",
+        "type": "upgrade-item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "blueprint-book": {
+        "name": "blueprint-book",
+        "type": "blueprint-book",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "copy-paste-tool": {
+        "name": "copy-paste-tool",
+        "type": "copy-paste-tool",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "cut-paste-tool": {
+        "name": "cut-paste-tool",
+        "type": "copy-paste-tool",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "fp_cursor_blueprint": {
+        "name": "fp_cursor_blueprint",
+        "type": "blueprint",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "boiler": {
+        "name": "boiler",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "steam-engine": {
+        "name": "steam-engine",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "solar-panel": {
+        "name": "solar-panel",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "accumulator": {
+        "name": "accumulator",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "nuclear-reactor": {
+        "name": "nuclear-reactor",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "heat-pipe": {
+        "name": "heat-pipe",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "heat-exchanger": {
+        "name": "heat-exchanger",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "steam-turbine": {
+        "name": "steam-turbine",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "burner-mining-drill": {
+        "name": "burner-mining-drill",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "electric-mining-drill": {
+        "name": "electric-mining-drill",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "offshore-pump": {
+        "name": "offshore-pump",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "pumpjack": {
+        "name": "pumpjack",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "stone-furnace": {
+        "name": "stone-furnace",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "steel-furnace": {
+        "name": "steel-furnace",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "electric-furnace": {
+        "name": "electric-furnace",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "assembling-machine-1": {
+        "name": "assembling-machine-1",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "assembling-machine-2": {
+        "name": "assembling-machine-2",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "assembling-machine-3": {
+        "name": "assembling-machine-3",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "oil-refinery": {
+        "name": "oil-refinery",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "chemical-plant": {
+        "name": "chemical-plant",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "centrifuge": {
+        "name": "centrifuge",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "lab": {
+        "name": "lab",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "beacon": {
+        "name": "beacon",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "speed-module": {
+        "name": "speed-module",
+        "category": "speed",
+        "type": "module",
+        "consumption": 0.5,
+        "speed": 0.20000000298023,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "speed-module-2": {
+        "name": "speed-module-2",
+        "category": "speed",
+        "type": "module",
+        "consumption": 0.60000002384186,
+        "speed": 0.30000001192093,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "speed-module-3": {
+        "name": "speed-module-3",
+        "category": "speed",
+        "type": "module",
+        "consumption": 0.69999998807907,
+        "speed": 0.5,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "effectivity-module": {
+        "name": "effectivity-module",
+        "category": "effectivity",
+        "type": "module",
+        "consumption": -0.30000001192093,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "effectivity-module-2": {
+        "name": "effectivity-module-2",
+        "category": "effectivity",
+        "type": "module",
+        "consumption": -0.40000000596046,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "effectivity-module-3": {
+        "name": "effectivity-module-3",
+        "category": "effectivity",
+        "type": "module",
+        "consumption": -0.5,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "productivity-module": {
+        "name": "productivity-module",
+        "category": "productivity",
+        "type": "module",
+        "consumption": 0.40000000596046,
+        "speed": -0.050000000745058,
+        "productivity": 0.03999999910593,
+        "pollution": 0.050000000745058
+    },
+    "productivity-module-2": {
+        "name": "productivity-module-2",
+        "category": "productivity",
+        "type": "module",
+        "consumption": 0.60000002384186,
+        "speed": -0.10000000149012,
+        "productivity": 0.059999998658895,
+        "pollution": 0.070000000298023
+    },
+    "productivity-module-3": {
+        "name": "productivity-module-3",
+        "category": "productivity",
+        "type": "module",
+        "consumption": 0.80000001192093,
+        "speed": -0.15000000596046,
+        "productivity": 0.10000000149012,
+        "pollution": 0.10000000149012
+    },
+    "rocket-silo": {
+        "name": "rocket-silo",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "satellite": {
+        "name": "satellite",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "wood": {
+        "name": "wood",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "coal": {
+        "name": "coal",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "stone": {
+        "name": "stone",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "iron-ore": {
+        "name": "iron-ore",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "copper-ore": {
+        "name": "copper-ore",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "uranium-ore": {
+        "name": "uranium-ore",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "raw-fish": {
+        "name": "raw-fish",
+        "type": "capsule",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "iron-plate": {
+        "name": "iron-plate",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "copper-plate": {
+        "name": "copper-plate",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "solid-fuel": {
+        "name": "solid-fuel",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "steel-plate": {
+        "name": "steel-plate",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "plastic-bar": {
+        "name": "plastic-bar",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "sulfur": {
+        "name": "sulfur",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "battery": {
+        "name": "battery",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "explosives": {
+        "name": "explosives",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "crude-oil-barrel": {
+        "name": "crude-oil-barrel",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "heavy-oil-barrel": {
+        "name": "heavy-oil-barrel",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "light-oil-barrel": {
+        "name": "light-oil-barrel",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "lubricant-barrel": {
+        "name": "lubricant-barrel",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "petroleum-gas-barrel": {
+        "name": "petroleum-gas-barrel",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "sulfuric-acid-barrel": {
+        "name": "sulfuric-acid-barrel",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "water-barrel": {
+        "name": "water-barrel",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "copper-cable": {
+        "name": "copper-cable",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "iron-stick": {
+        "name": "iron-stick",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "iron-gear-wheel": {
+        "name": "iron-gear-wheel",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "empty-barrel": {
+        "name": "empty-barrel",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "electronic-circuit": {
+        "name": "electronic-circuit",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "advanced-circuit": {
+        "name": "advanced-circuit",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "processing-unit": {
+        "name": "processing-unit",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "engine-unit": {
+        "name": "engine-unit",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "electric-engine-unit": {
+        "name": "electric-engine-unit",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "flying-robot-frame": {
+        "name": "flying-robot-frame",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "rocket-control-unit": {
+        "name": "rocket-control-unit",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "low-density-structure": {
+        "name": "low-density-structure",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "rocket-fuel": {
+        "name": "rocket-fuel",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "rocket-part": {
+        "name": "rocket-part",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "nuclear-fuel": {
+        "name": "nuclear-fuel",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "uranium-235": {
+        "name": "uranium-235",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "uranium-238": {
+        "name": "uranium-238",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "uranium-fuel-cell": {
+        "name": "uranium-fuel-cell",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "used-up-uranium-fuel-cell": {
+        "name": "used-up-uranium-fuel-cell",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "automation-science-pack": {
+        "name": "automation-science-pack",
+        "type": "tool",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "logistic-science-pack": {
+        "name": "logistic-science-pack",
+        "type": "tool",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "military-science-pack": {
+        "name": "military-science-pack",
+        "type": "tool",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "chemical-science-pack": {
+        "name": "chemical-science-pack",
+        "type": "tool",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "production-science-pack": {
+        "name": "production-science-pack",
+        "type": "tool",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "utility-science-pack": {
+        "name": "utility-science-pack",
+        "type": "tool",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "space-science-pack": {
+        "name": "space-science-pack",
+        "type": "tool",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "coin": {
+        "name": "coin",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "pistol": {
+        "name": "pistol",
+        "type": "gun",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "submachine-gun": {
+        "name": "submachine-gun",
+        "type": "gun",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "tank-machine-gun": {
+        "name": "tank-machine-gun",
+        "type": "gun",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "vehicle-machine-gun": {
+        "name": "vehicle-machine-gun",
+        "type": "gun",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "tank-flamethrower": {
+        "name": "tank-flamethrower",
+        "type": "gun",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "shotgun": {
+        "name": "shotgun",
+        "type": "gun",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "combat-shotgun": {
+        "name": "combat-shotgun",
+        "type": "gun",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "rocket-launcher": {
+        "name": "rocket-launcher",
+        "type": "gun",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "flamethrower": {
+        "name": "flamethrower",
+        "type": "gun",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "land-mine": {
+        "name": "land-mine",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "artillery-wagon-cannon": {
+        "name": "artillery-wagon-cannon",
+        "type": "gun",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "spidertron-rocket-launcher-1": {
+        "name": "spidertron-rocket-launcher-1",
+        "type": "gun",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "spidertron-rocket-launcher-2": {
+        "name": "spidertron-rocket-launcher-2",
+        "type": "gun",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "spidertron-rocket-launcher-3": {
+        "name": "spidertron-rocket-launcher-3",
+        "type": "gun",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "spidertron-rocket-launcher-4": {
+        "name": "spidertron-rocket-launcher-4",
+        "type": "gun",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "tank-cannon": {
+        "name": "tank-cannon",
+        "type": "gun",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "firearm-magazine": {
+        "name": "firearm-magazine",
+        "type": "ammo",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "piercing-rounds-magazine": {
+        "name": "piercing-rounds-magazine",
+        "type": "ammo",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "uranium-rounds-magazine": {
+        "name": "uranium-rounds-magazine",
+        "type": "ammo",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "shotgun-shell": {
+        "name": "shotgun-shell",
+        "type": "ammo",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "piercing-shotgun-shell": {
+        "name": "piercing-shotgun-shell",
+        "type": "ammo",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "cannon-shell": {
+        "name": "cannon-shell",
+        "type": "ammo",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "explosive-cannon-shell": {
+        "name": "explosive-cannon-shell",
+        "type": "ammo",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "uranium-cannon-shell": {
+        "name": "uranium-cannon-shell",
+        "type": "ammo",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "explosive-uranium-cannon-shell": {
+        "name": "explosive-uranium-cannon-shell",
+        "type": "ammo",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "artillery-shell": {
+        "name": "artillery-shell",
+        "type": "ammo",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "rocket": {
+        "name": "rocket",
+        "type": "ammo",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "explosive-rocket": {
+        "name": "explosive-rocket",
+        "type": "ammo",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "atomic-bomb": {
+        "name": "atomic-bomb",
+        "type": "ammo",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "flamethrower-ammo": {
+        "name": "flamethrower-ammo",
+        "type": "ammo",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "grenade": {
+        "name": "grenade",
+        "type": "capsule",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "cluster-grenade": {
+        "name": "cluster-grenade",
+        "type": "capsule",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "poison-capsule": {
+        "name": "poison-capsule",
+        "type": "capsule",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "slowdown-capsule": {
+        "name": "slowdown-capsule",
+        "type": "capsule",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "defender-capsule": {
+        "name": "defender-capsule",
+        "type": "capsule",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "distractor-capsule": {
+        "name": "distractor-capsule",
+        "type": "capsule",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "destroyer-capsule": {
+        "name": "destroyer-capsule",
+        "type": "capsule",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "light-armor": {
+        "name": "light-armor",
+        "type": "armor",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "heavy-armor": {
+        "name": "heavy-armor",
+        "type": "armor",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "modular-armor": {
+        "name": "modular-armor",
+        "type": "armor",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "power-armor": {
+        "name": "power-armor",
+        "type": "armor",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "power-armor-mk2": {
+        "name": "power-armor-mk2",
+        "type": "armor",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "solar-panel-equipment": {
+        "name": "solar-panel-equipment",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "fusion-reactor-equipment": {
+        "name": "fusion-reactor-equipment",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "battery-equipment": {
+        "name": "battery-equipment",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "battery-mk2-equipment": {
+        "name": "battery-mk2-equipment",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "belt-immunity-equipment": {
+        "name": "belt-immunity-equipment",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "exoskeleton-equipment": {
+        "name": "exoskeleton-equipment",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "personal-roboport-equipment": {
+        "name": "personal-roboport-equipment",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "personal-roboport-mk2-equipment": {
+        "name": "personal-roboport-mk2-equipment",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "night-vision-equipment": {
+        "name": "night-vision-equipment",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "energy-shield-equipment": {
+        "name": "energy-shield-equipment",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "energy-shield-mk2-equipment": {
+        "name": "energy-shield-mk2-equipment",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "personal-laser-defense-equipment": {
+        "name": "personal-laser-defense-equipment",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "discharge-defense-equipment": {
+        "name": "discharge-defense-equipment",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "discharge-defense-remote": {
+        "name": "discharge-defense-remote",
+        "type": "capsule",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "stone-wall": {
+        "name": "stone-wall",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "gate": {
+        "name": "gate",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "gun-turret": {
+        "name": "gun-turret",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "laser-turret": {
+        "name": "laser-turret",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "flamethrower-turret": {
+        "name": "flamethrower-turret",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "artillery-turret": {
+        "name": "artillery-turret",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "artillery-targeting-remote": {
+        "name": "artillery-targeting-remote",
+        "type": "capsule",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "radar": {
+        "name": "radar",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "player-port": {
+        "name": "player-port",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "item-unknown": {
+        "name": "item-unknown",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "electric-energy-interface": {
+        "name": "electric-energy-interface",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "linked-chest": {
+        "name": "linked-chest",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "heat-interface": {
+        "name": "heat-interface",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "linked-belt": {
+        "name": "linked-belt",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "infinity-chest": {
+        "name": "infinity-chest",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "infinity-pipe": {
+        "name": "infinity-pipe",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "selection-tool": {
+        "name": "selection-tool",
+        "type": "selection-tool",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "item-with-inventory": {
+        "name": "item-with-inventory",
+        "type": "item-with-inventory",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "item-with-label": {
+        "name": "item-with-label",
+        "type": "item-with-label",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "item-with-tags": {
+        "name": "item-with-tags",
+        "type": "item-with-tags",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "simple-entity-with-force": {
+        "name": "simple-entity-with-force",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "simple-entity-with-owner": {
+        "name": "simple-entity-with-owner",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "burner-generator": {
+        "name": "burner-generator",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "fp_beacon_selector": {
+        "name": "fp_beacon_selector",
+        "type": "selection-tool",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_creative-chest": {
+        "name": "creative-mod_creative-chest",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_creative-provider-chest": {
+        "name": "creative-mod_creative-provider-chest",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_autofill-requester-chest": {
+        "name": "creative-mod_autofill-requester-chest",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_duplicating-chest": {
+        "name": "creative-mod_duplicating-chest",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_duplicating-provider-chest": {
+        "name": "creative-mod_duplicating-provider-chest",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_void-chest": {
+        "name": "creative-mod_void-chest",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_void-requester-chest": {
+        "name": "creative-mod_void-requester-chest",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_void-storage-chest": {
+        "name": "creative-mod_void-storage-chest",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_super-loader": {
+        "name": "creative-mod_super-loader",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_creative-cargo-wagon": {
+        "name": "creative-mod_creative-cargo-wagon",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_duplicating-cargo-wagon": {
+        "name": "creative-mod_duplicating-cargo-wagon",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_void-cargo-wagon": {
+        "name": "creative-mod_void-cargo-wagon",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_super-logistic-robot": {
+        "name": "creative-mod_super-logistic-robot",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_super-construction-robot": {
+        "name": "creative-mod_super-construction-robot",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_super-roboport": {
+        "name": "creative-mod_super-roboport",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_fluid-source": {
+        "name": "creative-mod_fluid-source",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_fluid-void": {
+        "name": "creative-mod_fluid-void",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_super-boiler": {
+        "name": "creative-mod_super-boiler",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_super-cooler": {
+        "name": "creative-mod_super-cooler",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_configurable-super-boiler": {
+        "name": "creative-mod_configurable-super-boiler",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_heat-source": {
+        "name": "creative-mod_heat-source",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_heat-void": {
+        "name": "creative-mod_heat-void",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_item-source": {
+        "name": "creative-mod_item-source",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_duplicator": {
+        "name": "creative-mod_duplicator",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_item-void": {
+        "name": "creative-mod_item-void",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_random-item-source": {
+        "name": "creative-mod_random-item-source",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_creative-lab": {
+        "name": "creative-mod_creative-lab",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_void-lab": {
+        "name": "creative-mod_void-lab",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_active-electric-energy-interface-output": {
+        "name": "creative-mod_active-electric-energy-interface-output",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_passive-electric-energy-interface": {
+        "name": "creative-mod_passive-electric-energy-interface",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_active-electric-energy-interface-input": {
+        "name": "creative-mod_active-electric-energy-interface-input",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_energy-source": {
+        "name": "creative-mod_energy-source",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_passive-energy-source": {
+        "name": "creative-mod_passive-energy-source",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_energy-void": {
+        "name": "creative-mod_energy-void",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_passive-energy-void": {
+        "name": "creative-mod_passive-energy-void",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_super-electric-pole": {
+        "name": "creative-mod_super-electric-pole",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_super-substation": {
+        "name": "creative-mod_super-substation",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_energy-absorption": {
+        "name": "creative-mod_energy-absorption",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_magic-wand-creator": {
+        "name": "creative-mod_magic-wand-creator",
+        "type": "selection-tool",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_magic-wand-healer": {
+        "name": "creative-mod_magic-wand-healer",
+        "type": "selection-tool",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_magic-wand-modifier": {
+        "name": "creative-mod_magic-wand-modifier",
+        "type": "selection-tool",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_enemy-object_behemoth-biter": {
+        "name": "creative-mod_enemy-object_behemoth-biter",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_enemy-object_behemoth-spitter": {
+        "name": "creative-mod_enemy-object_behemoth-spitter",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_enemy-object_behemoth-worm-turret": {
+        "name": "creative-mod_enemy-object_behemoth-worm-turret",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_enemy-object_big-biter": {
+        "name": "creative-mod_enemy-object_big-biter",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_enemy-object_big-spitter": {
+        "name": "creative-mod_enemy-object_big-spitter",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_enemy-object_big-worm-turret": {
+        "name": "creative-mod_enemy-object_big-worm-turret",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_enemy-object_biter-spawner": {
+        "name": "creative-mod_enemy-object_biter-spawner",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_enemy-object_medium-biter": {
+        "name": "creative-mod_enemy-object_medium-biter",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_enemy-object_medium-spitter": {
+        "name": "creative-mod_enemy-object_medium-spitter",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_enemy-object_medium-worm-turret": {
+        "name": "creative-mod_enemy-object_medium-worm-turret",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_enemy-object_small-biter": {
+        "name": "creative-mod_enemy-object_small-biter",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_enemy-object_small-spitter": {
+        "name": "creative-mod_enemy-object_small-spitter",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_enemy-object_small-worm-turret": {
+        "name": "creative-mod_enemy-object_small-worm-turret",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_enemy-object_spitter-spawner": {
+        "name": "creative-mod_enemy-object_spitter-spawner",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_super-radar": {
+        "name": "creative-mod_super-radar",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_super-radar-2": {
+        "name": "creative-mod_super-radar-2",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_alien-attractor-small": {
+        "name": "creative-mod_alien-attractor-small",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_alien-attractor-medium": {
+        "name": "creative-mod_alien-attractor-medium",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_alien-attractor-large": {
+        "name": "creative-mod_alien-attractor-large",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_super-beacon": {
+        "name": "creative-mod_super-beacon",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_super-speed-module": {
+        "name": "creative-mod_super-speed-module",
+        "category": "speed",
+        "type": "module",
+        "consumption": 0,
+        "speed": 2.5,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_super-effectivity-module": {
+        "name": "creative-mod_super-effectivity-module",
+        "category": "effectivity",
+        "type": "module",
+        "consumption": -2.5,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_super-productivity-module": {
+        "name": "creative-mod_super-productivity-module",
+        "category": "productivity",
+        "type": "module",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 2.5,
+        "pollution": 0
+    },
+    "creative-mod_super-clean-module": {
+        "name": "creative-mod_super-clean-module",
+        "category": "effectivity",
+        "type": "module",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": -2.5
+    },
+    "creative-mod_super-slow-module": {
+        "name": "creative-mod_super-slow-module",
+        "category": "speed",
+        "type": "module",
+        "consumption": 0,
+        "speed": -2.5,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_super-consumption-module": {
+        "name": "creative-mod_super-consumption-module",
+        "category": "effectivity",
+        "type": "module",
+        "consumption": 2.5,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_super-pollution-module": {
+        "name": "creative-mod_super-pollution-module",
+        "category": "effectivity",
+        "type": "module",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 2.5
+    },
+    "creative-mod_super-fusion-reactor-equipment": {
+        "name": "creative-mod_super-fusion-reactor-equipment",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    },
+    "creative-mod_super-personal-roboport-equipment": {
+        "name": "creative-mod_super-personal-roboport-equipment",
+        "type": "item",
+        "consumption": 0,
+        "speed": 0,
+        "productivity": 0,
+        "pollution": 0
+    }
+}

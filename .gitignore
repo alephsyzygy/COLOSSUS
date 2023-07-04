@@ -1,0 +1,8 @@
+__pycache__
+flowrate.txt
+.VSCode*
+*.prof
+profile*.txt
+clip.txt
+bak
+**/COLOSSUS_*.zip

@@ -1,0 +1,53 @@
+# Files
+
+- `custom_recipe` - a custom recipe
+- `optimizer` - optimizers for the final blueprint
+- `transformations` - various transformations
+- `bus/` - bus specific code
+- `bus/algorithms`
+- `bus/debug`
+- `bus/factoy`
+- `bus/flow_info`
+- `bus/post_processing`
+- `bus/recipe_factory`
+- `config/` - code for configuration
+- `config/config` - initial configuration
+- `config/full_config` - full configuration
+- `config/game_data` - all game data used by the code
+- `data_structures/` - data structures used by the mod
+- `data_structures/binaryheap`
+- `data_structures/cache`
+- `data_structures/disjointset`
+- `data_structures/graph`
+- `data_structures/interval_graph`
+- `data_structures/quadtree`
+- `data_structures/tree`
+- `factorio_objects/` - external representation of Factorio objects
+- `factorio_objects/blueprint` - code for reading and writing Factorio blueprints
+- `factorio_objects/entity` - represents a Factorio entity
+- `factorio_objects/item` - represents a Factorio item
+- `factorio_objects/recipe` - represents a Factorio recipe
+- `factorio_objects/signals` - represents Factorio signals
+- `factory_components/`
+- `factory_components/bundle` - a collecttion of lanes in a bus
+- `factory_components/lane` - a lane on the bus
+- `factory_components/tags` - tags for entities, rows, columns, and templates
+- `factory_components/template` - a bus template
+- `logistic/` - logistic network specific code
+- `logistic/fluid_bus`
+- `logistic/local_fluid_bus`
+- `logistic/logistic`
+- `planners/` - support for planning mods
+- `planners/factoryplanner` - Factory Planner integration
+- `planners/helmod` - Helmod integration
+- `schematic/`
+- `schematic/coord_table` - A 2D table
+- `schematic/diagram` - the diagram engine
+- `schematic/grid` - co-ordinate system functions
+- `schematic/iterator` - a 2D iterator (not used)
+- `schematic/primitive` - functions for dealing with primitive diagrams
+- `utils/` - various utils
+- `utils/logger` - a logger object
+- `utils/objects` - code for object orientation
+- `utils/serdes` - serialization and deserialization
+- `utils/utils` - various utilities

@@ -1,0 +1,1901 @@
+{
+    "clay-bricks": {
+        "name": "clay-bricks",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "nullius-refractory-brick",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 0.7,
+        "walking_speed_modifier": 1.399999999999999911182158029987476766109466552734375
+    },
+    "frozen-snow-0": {
+        "name": "frozen-snow-0",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 2,
+        "walking_speed_modifier": 0.8
+    },
+    "frozen-snow-1": {
+        "name": "frozen-snow-1",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 2,
+        "walking_speed_modifier": 0.8
+    },
+    "frozen-snow-2": {
+        "name": "frozen-snow-2",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 2,
+        "walking_speed_modifier": 0.8
+    },
+    "frozen-snow-3": {
+        "name": "frozen-snow-3",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 2,
+        "walking_speed_modifier": 0.8
+    },
+    "frozen-snow-4": {
+        "name": "frozen-snow-4",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 2,
+        "walking_speed_modifier": 0.8
+    },
+    "frozen-snow-5": {
+        "name": "frozen-snow-5",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 2,
+        "walking_speed_modifier": 0.8
+    },
+    "frozen-snow-6": {
+        "name": "frozen-snow-6",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 2,
+        "walking_speed_modifier": 0.8
+    },
+    "frozen-snow-7": {
+        "name": "frozen-snow-7",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 2,
+        "walking_speed_modifier": 0.8
+    },
+    "frozen-snow-8": {
+        "name": "frozen-snow-8",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 2,
+        "walking_speed_modifier": 0.8
+    },
+    "frozen-snow-9": {
+        "name": "frozen-snow-9",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 2,
+        "walking_speed_modifier": 0.8
+    },
+    "mineral-aubergine-dirt-1": {
+        "name": "mineral-aubergine-dirt-1",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-aubergine-dirt-2": {
+        "name": "mineral-aubergine-dirt-2",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-aubergine-dirt-3": {
+        "name": "mineral-aubergine-dirt-3",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-aubergine-dirt-4": {
+        "name": "mineral-aubergine-dirt-4",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-aubergine-dirt-5": {
+        "name": "mineral-aubergine-dirt-5",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-aubergine-dirt-6": {
+        "name": "mineral-aubergine-dirt-6",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-aubergine-sand-1": {
+        "name": "mineral-aubergine-sand-1",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 2,
+        "walking_speed_modifier": 0.8
+    },
+    "mineral-aubergine-sand-2": {
+        "name": "mineral-aubergine-sand-2",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 2,
+        "walking_speed_modifier": 0.8
+    },
+    "mineral-aubergine-sand-3": {
+        "name": "mineral-aubergine-sand-3",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 2,
+        "walking_speed_modifier": 0.8
+    },
+    "mineral-beige-dirt-1": {
+        "name": "mineral-beige-dirt-1",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "nullius-land-fill-limestone",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-beige-dirt-2": {
+        "name": "mineral-beige-dirt-2",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "nullius-land-fill-limestone",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-beige-dirt-3": {
+        "name": "mineral-beige-dirt-3",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "nullius-land-fill-limestone",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-beige-dirt-4": {
+        "name": "mineral-beige-dirt-4",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "nullius-land-fill-limestone",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-beige-dirt-5": {
+        "name": "mineral-beige-dirt-5",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "nullius-land-fill-limestone",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-beige-dirt-6": {
+        "name": "mineral-beige-dirt-6",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "nullius-land-fill-limestone",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-beige-sand-1": {
+        "name": "mineral-beige-sand-1",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "nullius-land-fill-sand",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 2,
+        "walking_speed_modifier": 0.8
+    },
+    "mineral-beige-sand-2": {
+        "name": "mineral-beige-sand-2",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 2,
+        "walking_speed_modifier": 0.8
+    },
+    "mineral-beige-sand-3": {
+        "name": "mineral-beige-sand-3",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 2,
+        "walking_speed_modifier": 0.8
+    },
+    "mineral-black-dirt-1": {
+        "name": "mineral-black-dirt-1",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-black-dirt-2": {
+        "name": "mineral-black-dirt-2",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-black-dirt-3": {
+        "name": "mineral-black-dirt-3",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-black-dirt-4": {
+        "name": "mineral-black-dirt-4",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-black-dirt-5": {
+        "name": "mineral-black-dirt-5",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-black-dirt-6": {
+        "name": "mineral-black-dirt-6",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-black-sand-1": {
+        "name": "mineral-black-sand-1",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 2,
+        "walking_speed_modifier": 0.8
+    },
+    "mineral-black-sand-2": {
+        "name": "mineral-black-sand-2",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 2,
+        "walking_speed_modifier": 0.8
+    },
+    "mineral-black-sand-3": {
+        "name": "mineral-black-sand-3",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 2,
+        "walking_speed_modifier": 0.8
+    },
+    "mineral-brown-dirt-1": {
+        "name": "mineral-brown-dirt-1",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "nullius-land-fill-bauxite",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-brown-dirt-2": {
+        "name": "mineral-brown-dirt-2",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "nullius-land-fill-bauxite",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-brown-dirt-3": {
+        "name": "mineral-brown-dirt-3",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "nullius-land-fill-bauxite",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-brown-dirt-4": {
+        "name": "mineral-brown-dirt-4",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "nullius-land-fill-bauxite",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-brown-dirt-5": {
+        "name": "mineral-brown-dirt-5",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "nullius-land-fill-bauxite",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-brown-dirt-6": {
+        "name": "mineral-brown-dirt-6",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "nullius-land-fill-bauxite",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-brown-sand-1": {
+        "name": "mineral-brown-sand-1",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 2,
+        "walking_speed_modifier": 0.8
+    },
+    "mineral-brown-sand-2": {
+        "name": "mineral-brown-sand-2",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "nullius-land-fill-iron",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 2,
+        "walking_speed_modifier": 0.8
+    },
+    "mineral-brown-sand-3": {
+        "name": "mineral-brown-sand-3",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 2,
+        "walking_speed_modifier": 0.8
+    },
+    "mineral-cream-dirt-1": {
+        "name": "mineral-cream-dirt-1",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "nullius-land-fill-sand",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-cream-dirt-2": {
+        "name": "mineral-cream-dirt-2",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "nullius-land-fill-sand",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-cream-dirt-3": {
+        "name": "mineral-cream-dirt-3",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-cream-dirt-4": {
+        "name": "mineral-cream-dirt-4",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-cream-dirt-5": {
+        "name": "mineral-cream-dirt-5",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-cream-dirt-6": {
+        "name": "mineral-cream-dirt-6",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-cream-sand-1": {
+        "name": "mineral-cream-sand-1",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "nullius-land-fill-sand",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 2,
+        "walking_speed_modifier": 0.8
+    },
+    "mineral-cream-sand-2": {
+        "name": "mineral-cream-sand-2",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "nullius-land-fill-sand",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 2,
+        "walking_speed_modifier": 0.8
+    },
+    "mineral-cream-sand-3": {
+        "name": "mineral-cream-sand-3",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "nullius-land-fill-sand",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 2,
+        "walking_speed_modifier": 0.8
+    },
+    "mineral-dustyrose-dirt-1": {
+        "name": "mineral-dustyrose-dirt-1",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-dustyrose-dirt-2": {
+        "name": "mineral-dustyrose-dirt-2",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-dustyrose-dirt-3": {
+        "name": "mineral-dustyrose-dirt-3",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-dustyrose-dirt-4": {
+        "name": "mineral-dustyrose-dirt-4",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-dustyrose-dirt-5": {
+        "name": "mineral-dustyrose-dirt-5",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-dustyrose-dirt-6": {
+        "name": "mineral-dustyrose-dirt-6",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-dustyrose-sand-1": {
+        "name": "mineral-dustyrose-sand-1",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 2,
+        "walking_speed_modifier": 0.8
+    },
+    "mineral-dustyrose-sand-2": {
+        "name": "mineral-dustyrose-sand-2",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 2,
+        "walking_speed_modifier": 0.8
+    },
+    "mineral-dustyrose-sand-3": {
+        "name": "mineral-dustyrose-sand-3",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 2,
+        "walking_speed_modifier": 0.8
+    },
+    "mineral-grey-dirt-1": {
+        "name": "mineral-grey-dirt-1",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "nullius-land-fill-gravel",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-grey-dirt-2": {
+        "name": "mineral-grey-dirt-2",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "nullius-land-fill-gravel",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-grey-dirt-3": {
+        "name": "mineral-grey-dirt-3",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "nullius-land-fill-gravel",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-grey-dirt-4": {
+        "name": "mineral-grey-dirt-4",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "nullius-land-fill-gravel",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-grey-dirt-5": {
+        "name": "mineral-grey-dirt-5",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "nullius-land-fill-gravel",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-grey-dirt-6": {
+        "name": "mineral-grey-dirt-6",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "nullius-land-fill-gravel",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-grey-sand-1": {
+        "name": "mineral-grey-sand-1",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "nullius-land-fill-gravel",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 2,
+        "walking_speed_modifier": 0.8
+    },
+    "mineral-grey-sand-2": {
+        "name": "mineral-grey-sand-2",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "nullius-land-fill-gravel",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 2,
+        "walking_speed_modifier": 0.8
+    },
+    "mineral-grey-sand-3": {
+        "name": "mineral-grey-sand-3",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "nullius-land-fill-gravel",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 2,
+        "walking_speed_modifier": 0.8
+    },
+    "mineral-purple-dirt-1": {
+        "name": "mineral-purple-dirt-1",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-purple-dirt-2": {
+        "name": "mineral-purple-dirt-2",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-purple-dirt-3": {
+        "name": "mineral-purple-dirt-3",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-purple-dirt-4": {
+        "name": "mineral-purple-dirt-4",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-purple-dirt-5": {
+        "name": "mineral-purple-dirt-5",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-purple-dirt-6": {
+        "name": "mineral-purple-dirt-6",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-purple-sand-1": {
+        "name": "mineral-purple-sand-1",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 2,
+        "walking_speed_modifier": 0.8
+    },
+    "mineral-purple-sand-2": {
+        "name": "mineral-purple-sand-2",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 2,
+        "walking_speed_modifier": 0.8
+    },
+    "mineral-purple-sand-3": {
+        "name": "mineral-purple-sand-3",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 2,
+        "walking_speed_modifier": 0.8
+    },
+    "mineral-red-dirt-1": {
+        "name": "mineral-red-dirt-1",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "nullius-land-fill-iron",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-red-dirt-2": {
+        "name": "mineral-red-dirt-2",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "nullius-land-fill-iron",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-red-dirt-3": {
+        "name": "mineral-red-dirt-3",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "nullius-land-fill-iron",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-red-dirt-4": {
+        "name": "mineral-red-dirt-4",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "nullius-land-fill-iron",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-red-dirt-5": {
+        "name": "mineral-red-dirt-5",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "nullius-land-fill-iron",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-red-dirt-6": {
+        "name": "mineral-red-dirt-6",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "nullius-land-fill-iron",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-red-sand-1": {
+        "name": "mineral-red-sand-1",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 2,
+        "walking_speed_modifier": 0.8
+    },
+    "mineral-red-sand-2": {
+        "name": "mineral-red-sand-2",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "nullius-land-fill-iron",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 2,
+        "walking_speed_modifier": 0.8
+    },
+    "mineral-red-sand-3": {
+        "name": "mineral-red-sand-3",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 2,
+        "walking_speed_modifier": 0.8
+    },
+    "mineral-tan-dirt-1": {
+        "name": "mineral-tan-dirt-1",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-tan-dirt-2": {
+        "name": "mineral-tan-dirt-2",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "nullius-land-fill-bauxite",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-tan-dirt-3": {
+        "name": "mineral-tan-dirt-3",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "nullius-land-fill-bauxite",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-tan-dirt-4": {
+        "name": "mineral-tan-dirt-4",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "nullius-land-fill-bauxite",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-tan-dirt-5": {
+        "name": "mineral-tan-dirt-5",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-tan-dirt-6": {
+        "name": "mineral-tan-dirt-6",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "nullius-land-fill-bauxite",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-tan-sand-1": {
+        "name": "mineral-tan-sand-1",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "nullius-land-fill-sand",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 2,
+        "walking_speed_modifier": 0.8
+    },
+    "mineral-tan-sand-2": {
+        "name": "mineral-tan-sand-2",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "nullius-land-fill-sand",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 2,
+        "walking_speed_modifier": 0.8
+    },
+    "mineral-tan-sand-3": {
+        "name": "mineral-tan-sand-3",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "nullius-land-fill-sand",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 2,
+        "walking_speed_modifier": 0.8
+    },
+    "mineral-violet-dirt-1": {
+        "name": "mineral-violet-dirt-1",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-violet-dirt-2": {
+        "name": "mineral-violet-dirt-2",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-violet-dirt-3": {
+        "name": "mineral-violet-dirt-3",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-violet-dirt-4": {
+        "name": "mineral-violet-dirt-4",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-violet-dirt-5": {
+        "name": "mineral-violet-dirt-5",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-violet-dirt-6": {
+        "name": "mineral-violet-dirt-6",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-violet-sand-1": {
+        "name": "mineral-violet-sand-1",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 2,
+        "walking_speed_modifier": 0.8
+    },
+    "mineral-violet-sand-2": {
+        "name": "mineral-violet-sand-2",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 2,
+        "walking_speed_modifier": 0.8
+    },
+    "mineral-violet-sand-3": {
+        "name": "mineral-violet-sand-3",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 2,
+        "walking_speed_modifier": 0.8
+    },
+    "mineral-white-dirt-1": {
+        "name": "mineral-white-dirt-1",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-white-dirt-2": {
+        "name": "mineral-white-dirt-2",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-white-dirt-3": {
+        "name": "mineral-white-dirt-3",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-white-dirt-4": {
+        "name": "mineral-white-dirt-4",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-white-dirt-5": {
+        "name": "mineral-white-dirt-5",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-white-dirt-6": {
+        "name": "mineral-white-dirt-6",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "mineral-white-sand-1": {
+        "name": "mineral-white-sand-1",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 2,
+        "walking_speed_modifier": 0.8
+    },
+    "mineral-white-sand-2": {
+        "name": "mineral-white-sand-2",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 2,
+        "walking_speed_modifier": 0.8
+    },
+    "mineral-white-sand-3": {
+        "name": "mineral-white-sand-3",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "nullius-land-fill-limestone",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 2,
+        "walking_speed_modifier": 0.8
+    },
+    "nullius-land-fill-bauxite": {
+        "name": "nullius-land-fill-bauxite",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "nullius-land-fill-bauxite",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 1.19999999999999996447286321199499070644378662109375,
+        "walking_speed_modifier": 1
+    },
+    "nullius-land-fill-iron": {
+        "name": "nullius-land-fill-iron",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "nullius-land-fill-iron",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 1.100000000000000088817841970012523233890533447265625,
+        "walking_speed_modifier": 1
+    },
+    "nullius-land-fill-limestone": {
+        "name": "nullius-land-fill-limestone",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "nullius-land-fill-limestone",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 1,
+        "walking_speed_modifier": 1
+    },
+    "nullius-land-fill-sand": {
+        "name": "nullius-land-fill-sand",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "nullius-land-fill-sand",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "volcanic-blue-heat-1": {
+        "name": "volcanic-blue-heat-1",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 2,
+        "walking_speed_modifier": 1
+    },
+    "volcanic-blue-heat-2": {
+        "name": "volcanic-blue-heat-2",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 4,
+        "walking_speed_modifier": 0.9
+    },
+    "volcanic-blue-heat-3": {
+        "name": "volcanic-blue-heat-3",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 8,
+        "walking_speed_modifier": 0.8
+    },
+    "volcanic-blue-heat-4": {
+        "name": "volcanic-blue-heat-4",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 16,
+        "walking_speed_modifier": 0.7
+    },
+    "volcanic-green-heat-1": {
+        "name": "volcanic-green-heat-1",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 2,
+        "walking_speed_modifier": 1
+    },
+    "volcanic-green-heat-2": {
+        "name": "volcanic-green-heat-2",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 4,
+        "walking_speed_modifier": 0.9
+    },
+    "volcanic-green-heat-3": {
+        "name": "volcanic-green-heat-3",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 8,
+        "walking_speed_modifier": 0.8
+    },
+    "volcanic-green-heat-4": {
+        "name": "volcanic-green-heat-4",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 16,
+        "walking_speed_modifier": 0.7
+    },
+    "volcanic-orange-heat-1": {
+        "name": "volcanic-orange-heat-1",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 2,
+        "walking_speed_modifier": 1
+    },
+    "volcanic-orange-heat-2": {
+        "name": "volcanic-orange-heat-2",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 4,
+        "walking_speed_modifier": 0.9
+    },
+    "volcanic-orange-heat-3": {
+        "name": "volcanic-orange-heat-3",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 8,
+        "walking_speed_modifier": 0.8
+    },
+    "volcanic-orange-heat-4": {
+        "name": "volcanic-orange-heat-4",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 16,
+        "walking_speed_modifier": 0.7
+    },
+    "volcanic-purple-heat-1": {
+        "name": "volcanic-purple-heat-1",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 2,
+        "walking_speed_modifier": 1
+    },
+    "volcanic-purple-heat-2": {
+        "name": "volcanic-purple-heat-2",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 4,
+        "walking_speed_modifier": 0.9
+    },
+    "volcanic-purple-heat-3": {
+        "name": "volcanic-purple-heat-3",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 8,
+        "walking_speed_modifier": 0.8
+    },
+    "volcanic-purple-heat-4": {
+        "name": "volcanic-purple-heat-4",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 16,
+        "walking_speed_modifier": 0.7
+    },
+    "stone-path": {
+        "name": "stone-path",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "stone-brick",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 0.8,
+        "walking_speed_modifier": 1.3000000000000000444089209850062616169452667236328125
+    },
+    "concrete": {
+        "name": "concrete",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "concrete",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 0.6,
+        "walking_speed_modifier": 1.5
+    },
+    "hazard-concrete-left": {
+        "name": "hazard-concrete-left",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "hazard-concrete",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 0.8,
+        "walking_speed_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "next_direction": "hazard-concrete-right"
+    },
+    "hazard-concrete-right": {
+        "name": "hazard-concrete-right",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "hazard-concrete",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 0.8,
+        "walking_speed_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "next_direction": "hazard-concrete-left"
+    },
+    "refined-concrete": {
+        "name": "refined-concrete",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "refined-concrete",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 0.5,
+        "walking_speed_modifier": 1.600000000000000088817841970012523233890533447265625
+    },
+    "refined-hazard-concrete-left": {
+        "name": "refined-hazard-concrete-left",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "refined-hazard-concrete",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 0.5,
+        "walking_speed_modifier": 1.600000000000000088817841970012523233890533447265625,
+        "next_direction": "refined-hazard-concrete-right"
+    },
+    "refined-hazard-concrete-right": {
+        "name": "refined-hazard-concrete-right",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "refined-hazard-concrete",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 0.5,
+        "walking_speed_modifier": 1.600000000000000088817841970012523233890533447265625,
+        "next_direction": "refined-hazard-concrete-left"
+    },
+    "landfill": {
+        "name": "landfill",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "nullius-land-fill-gravel",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 1,
+        "walking_speed_modifier": 1
+    },
+    "acid-refined-concrete": {
+        "name": "acid-refined-concrete",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 0.8,
+        "walking_speed_modifier": 1.5
+    },
+    "black-refined-concrete": {
+        "name": "black-refined-concrete",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "nullius-black-concrete",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 0.5,
+        "walking_speed_modifier": 1.600000000000000088817841970012523233890533447265625
+    },
+    "blue-refined-concrete": {
+        "name": "blue-refined-concrete",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "nullius-blue-concrete",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 0.5,
+        "walking_speed_modifier": 1.600000000000000088817841970012523233890533447265625
+    },
+    "brown-refined-concrete": {
+        "name": "brown-refined-concrete",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "nullius-brown-concrete",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 0.5,
+        "walking_speed_modifier": 1.600000000000000088817841970012523233890533447265625
+    },
+    "cyan-refined-concrete": {
+        "name": "cyan-refined-concrete",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 0.8,
+        "walking_speed_modifier": 1.5
+    },
+    "green-refined-concrete": {
+        "name": "green-refined-concrete",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "nullius-green-concrete",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 0.5,
+        "walking_speed_modifier": 1.600000000000000088817841970012523233890533447265625
+    },
+    "orange-refined-concrete": {
+        "name": "orange-refined-concrete",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 0.8,
+        "walking_speed_modifier": 1.5
+    },
+    "pink-refined-concrete": {
+        "name": "pink-refined-concrete",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 0.8,
+        "walking_speed_modifier": 1.5
+    },
+    "purple-refined-concrete": {
+        "name": "purple-refined-concrete",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "nullius-purple-concrete",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 0.5,
+        "walking_speed_modifier": 1.600000000000000088817841970012523233890533447265625
+    },
+    "red-refined-concrete": {
+        "name": "red-refined-concrete",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "nullius-red-concrete",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 0.5,
+        "walking_speed_modifier": 1.600000000000000088817841970012523233890533447265625
+    },
+    "yellow-refined-concrete": {
+        "name": "yellow-refined-concrete",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "nullius-yellow-concrete",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 0.5,
+        "walking_speed_modifier": 1.600000000000000088817841970012523233890533447265625
+    },
+    "grass-1": {
+        "name": "grass-1",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.600000000000000088817841970012523233890533447265625,
+        "walking_speed_modifier": 1
+    },
+    "grass-2": {
+        "name": "grass-2",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.600000000000000088817841970012523233890533447265625,
+        "walking_speed_modifier": 1
+    },
+    "grass-3": {
+        "name": "grass-3",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.600000000000000088817841970012523233890533447265625,
+        "walking_speed_modifier": 1
+    },
+    "grass-4": {
+        "name": "grass-4",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.600000000000000088817841970012523233890533447265625,
+        "walking_speed_modifier": 1
+    },
+    "dry-dirt": {
+        "name": "dry-dirt",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "dirt-1": {
+        "name": "dirt-1",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "dirt-2": {
+        "name": "dirt-2",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "dirt-3": {
+        "name": "dirt-3",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "dirt-4": {
+        "name": "dirt-4",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "dirt-5": {
+        "name": "dirt-5",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "dirt-6": {
+        "name": "dirt-6",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "dirt-7": {
+        "name": "dirt-7",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.399999999999999911182158029987476766109466552734375,
+        "walking_speed_modifier": 1
+    },
+    "sand-1": {
+        "name": "sand-1",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.8,
+        "walking_speed_modifier": 1
+    },
+    "sand-2": {
+        "name": "sand-2",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.8,
+        "walking_speed_modifier": 1
+    },
+    "sand-3": {
+        "name": "sand-3",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.8,
+        "walking_speed_modifier": 1
+    },
+    "red-desert-0": {
+        "name": "red-desert-0",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.600000000000000088817841970012523233890533447265625,
+        "walking_speed_modifier": 1
+    },
+    "red-desert-1": {
+        "name": "red-desert-1",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.600000000000000088817841970012523233890533447265625,
+        "walking_speed_modifier": 1
+    },
+    "red-desert-2": {
+        "name": "red-desert-2",
+        "can_be_part_of_blueprint": false,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.600000000000000088817841970012523233890533447265625,
+        "walking_speed_modifier": 1
+    },
+    "red-desert-3": {
+        "name": "red-desert-3",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.600000000000000088817841970012523233890533447265625,
+        "walking_speed_modifier": 1
+    },
+    "water": {
+        "name": "water",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1,
+        "walking_speed_modifier": 1
+    },
+    "deepwater": {
+        "name": "deepwater",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1,
+        "walking_speed_modifier": 1
+    },
+    "water-green": {
+        "name": "water-green",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1,
+        "walking_speed_modifier": 1
+    },
+    "deepwater-green": {
+        "name": "deepwater-green",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1,
+        "walking_speed_modifier": 1
+    },
+    "water-shallow": {
+        "name": "water-shallow",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 32,
+        "walking_speed_modifier": 0.5
+    },
+    "water-mud": {
+        "name": "water-mud",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 32,
+        "walking_speed_modifier": 0.5
+    },
+    "nuclear-ground": {
+        "name": "nuclear-ground",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1.600000000000000088817841970012523233890533447265625,
+        "walking_speed_modifier": 1
+    },
+    "nullius-orange-concrete": {
+        "name": "nullius-orange-concrete",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "nullius-orange-concrete",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 0.5,
+        "walking_speed_modifier": 1.600000000000000088817841970012523233890533447265625
+    },
+    "nullius-white-concrete": {
+        "name": "nullius-white-concrete",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "nullius-white-concrete",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 0.5,
+        "walking_speed_modifier": 1.600000000000000088817841970012523233890533447265625
+    },
+    "water-wube": {
+        "name": "water-wube",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1,
+        "walking_speed_modifier": 1
+    },
+    "tile-unknown": {
+        "name": "tile-unknown",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1,
+        "walking_speed_modifier": 1
+    },
+    "out-of-map": {
+        "name": "out-of-map",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1,
+        "walking_speed_modifier": 1
+    },
+    "lab-dark-1": {
+        "name": "lab-dark-1",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1,
+        "walking_speed_modifier": 1
+    },
+    "lab-dark-2": {
+        "name": "lab-dark-2",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1,
+        "walking_speed_modifier": 1
+    },
+    "lab-white": {
+        "name": "lab-white",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1,
+        "walking_speed_modifier": 1
+    },
+    "tile-concrete-brick": {
+        "name": "tile-concrete-brick",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "concrete-brick",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 1,
+        "walking_speed_modifier": 1.5
+    },
+    "tile-reinforced-concrete-brick": {
+        "name": "tile-reinforced-concrete-brick",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": [
+            {
+                "name": "reinforced-concrete-brick",
+                "count": 1
+            }
+        ],
+        "vehicle_friction_modifier": 1,
+        "walking_speed_modifier": 1.55
+    },
+    "tutorial-grid": {
+        "name": "tutorial-grid",
+        "can_be_part_of_blueprint": true,
+        "check_collision_with_entities": false,
+        "items_to_place_this": {},
+        "vehicle_friction_modifier": 1,
+        "walking_speed_modifier": 1
+    }
+}

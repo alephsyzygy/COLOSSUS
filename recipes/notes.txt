@@ -1,0 +1,27 @@
+Helmod cyberchef:
+
+https://cyberchef.org/#recipe=Find_/_Replace(%7B'option':'Regex','string':'%5C%5Cn'%7D,'',true,false,true,false)From_Base64('A-Za-z0-9%2B/%3D',true,false)Gunzip()Drop_bytes(0,11,false)Find_/_Replace(%7B'option':'Regex','string':'%3D'%7D,':',true,false,true,false)Find_/_Replace(%7B'option':'Regex','string':'%5C%5C%5B%7C%5C%5C%5D'%7D,'',true,false,true,false)Drop_bytes(0,-13,false)JSON_Beautify('%20%20%20%20',false,true)
+
+Blueprint cyberchef:
+
+https://cyberchef.org/#recipe=Drop_bytes(0,1,false)From_Base64('A-Za-z0-9%2B/%3D',true,false)Zlib_Inflate(0,0,'Adaptive',false,false)JSON_Beautify('%20%20%20%20',false,true)
+
+Factory Planner:
+
+https://cyberchef.org/#recipe=From_Base64('A-Za-z0-9%2B/%3D',true,false)Zlib_Inflate(0,0,'Adaptive',false,false)JSON_Beautify('%20%20%20%20',false,true)
+
+
+Adding a blueprint to a player:
+
+
+local script_inventory = game.create_inventory(1)
+local blank_slot = script_inventory[1]
+
+blank_slot.set_stack{name="cursor_blueprint"}
+blank_slot.set_blueprint_entities(blueprint_entities)
+player.add_to_clipboard(blank_slot)
+player.activate_paste()
+script_inventory.destroy()
+
+
+/c game.reload_mods() 

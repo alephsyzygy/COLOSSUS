@@ -1,0 +1,65 @@
+{
+    "upgrade_planner": {
+        "settings": {
+            "mappers": [
+                {
+                    "from": {
+                        "type": "entity",
+                        "name": "transport-belt"
+                    },
+                    "to": {
+                        "type": "entity",
+                        "name": "express-transport-belt"
+                    },
+                    "index": 0
+                },
+                {
+                    "from": {
+                        "type": "item",
+                        "name": "speed-module"
+                    },
+                    "to": {
+                        "type": "item",
+                        "name": "speed-module-3"
+                    },
+                    "index": 1
+                },
+                {
+                    "from": {
+                        "type": "entity",
+                        "name": "fast-inserter"
+                    },
+                    "to": {
+                        "type": "entity",
+                        "name": "stack-filter-inserter"
+                    },
+                    "index": 4
+                },
+                {
+                    "from": {
+                        "type": "item",
+                        "name": "speed-module-3"
+                    },
+                    "to": {
+                        "type": "item",
+                        "name": "speed-module"
+                    },
+                    "index": 5
+                },
+                {
+                    "from": {
+                        "type": "entity",
+                        "name": "small-electric-pole"
+                    },
+                    "to": {
+                        "type": "entity",
+                        "name": "medium-electric-pole"
+                    },
+                    "index": 8
+                }
+            ]
+        },
+        "item": "upgrade-planner",
+        "version": 281479276920832
+    }
+}

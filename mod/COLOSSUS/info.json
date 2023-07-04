@@ -1,0 +1,14 @@
+{
+  "name": "COLOSSUS",
+  "version": "0.1.0",
+  "title": "COLOSSUS",
+  "author": "alephsyzygy",
+  "factorio_version": "1.1",
+  "dependencies": [
+    "base >= 1.1",
+    "~ gvv >= 0.5.1",
+    "? helmod >= 0.12.16",
+    "(?) factoryplanner >= 1.1.66"
+  ],
+  "description": "[font=heading-1][color=red]PRE-RELEASE VERSION - EXPECT BUGS[/color][/font]\n\nGenerate blueprints from planner mods\n\nCOLOSSUS is an experimental program made available to only the most experienced engineers.  It has the capability to quickly generate factories from recipes.  It may not be pretty, but it gets the job done.\n\nUse of COLOSSUS is highly restricted, but you have crash landed on an alien planet.  You have not been authorized to use COLOSSUS on this planet.  Dare you proceed?"
+}

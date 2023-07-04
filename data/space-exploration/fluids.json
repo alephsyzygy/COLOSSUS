@@ -1,0 +1,298 @@
+{
+    "fluid-unknown": {
+        "name": "fluid-unknown",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 1.7976931348623155e308,
+        "hidden": true
+    },
+    "se-beryllium-hydroxide": {
+        "name": "se-beryllium-hydroxide",
+        "default_temperature": 25,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 1.7976931348623155e308,
+        "hidden": false
+    },
+    "water": {
+        "name": "water",
+        "default_temperature": 15,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 1.7976931348623155e308,
+        "hidden": false
+    },
+    "crude-oil": {
+        "name": "crude-oil",
+        "default_temperature": 25,
+        "max_temperature": 25,
+        "fuel_value": 0,
+        "gas_temperature": 1.7976931348623155e308,
+        "hidden": false
+    },
+    "se-decompressing-steam": {
+        "name": "se-decompressing-steam",
+        "default_temperature": 15,
+        "max_temperature": 5000,
+        "fuel_value": 0,
+        "gas_temperature": 15,
+        "hidden": false
+    },
+    "se-methane-gas": {
+        "name": "se-methane-gas",
+        "default_temperature": 15,
+        "max_temperature": 1000,
+        "fuel_value": 0,
+        "gas_temperature": -160,
+        "hidden": false
+    },
+    "steam": {
+        "name": "steam",
+        "default_temperature": 15,
+        "max_temperature": 5000,
+        "fuel_value": 0,
+        "gas_temperature": 15,
+        "hidden": false
+    },
+    "heavy-oil": {
+        "name": "heavy-oil",
+        "default_temperature": 25,
+        "max_temperature": 25,
+        "fuel_value": 0,
+        "gas_temperature": 1.7976931348623155e308,
+        "hidden": false
+    },
+    "light-oil": {
+        "name": "light-oil",
+        "default_temperature": 25,
+        "max_temperature": 25,
+        "fuel_value": 0,
+        "gas_temperature": 1.7976931348623155e308,
+        "hidden": false
+    },
+    "petroleum-gas": {
+        "name": "petroleum-gas",
+        "default_temperature": 25,
+        "max_temperature": 25,
+        "fuel_value": 0,
+        "gas_temperature": 1.7976931348623155e308,
+        "hidden": false
+    },
+    "sulfuric-acid": {
+        "name": "sulfuric-acid",
+        "default_temperature": 25,
+        "max_temperature": 25,
+        "fuel_value": 0,
+        "gas_temperature": 1.7976931348623155e308,
+        "hidden": false
+    },
+    "se-molten-iron": {
+        "name": "se-molten-iron",
+        "default_temperature": 1600,
+        "max_temperature": 1600,
+        "fuel_value": 0,
+        "gas_temperature": 1.7976931348623155e308,
+        "hidden": false
+    },
+    "se-molten-copper": {
+        "name": "se-molten-copper",
+        "default_temperature": 1100,
+        "max_temperature": 1100,
+        "fuel_value": 0,
+        "gas_temperature": 1.7976931348623155e308,
+        "hidden": false
+    },
+    "se-molten-beryllium": {
+        "name": "se-molten-beryllium",
+        "default_temperature": 1300,
+        "max_temperature": 1300,
+        "fuel_value": 0,
+        "gas_temperature": 1.7976931348623155e308,
+        "hidden": false
+    },
+    "se-molten-holmium": {
+        "name": "se-molten-holmium",
+        "default_temperature": 1400,
+        "max_temperature": 1400,
+        "fuel_value": 0,
+        "gas_temperature": 1.7976931348623155e308,
+        "hidden": false
+    },
+    "lubricant": {
+        "name": "lubricant",
+        "default_temperature": 25,
+        "max_temperature": 25,
+        "fuel_value": 0,
+        "gas_temperature": 1.7976931348623155e308,
+        "hidden": false
+    },
+    "se-liquid-rocket-fuel": {
+        "name": "se-liquid-rocket-fuel",
+        "default_temperature": 25,
+        "max_temperature": 100,
+        "fuel_value": 2000000,
+        "gas_temperature": 1.7976931348623155e308,
+        "hidden": false
+    },
+    "se-contaminated-space-water": {
+        "name": "se-contaminated-space-water",
+        "default_temperature": 15,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 1.7976931348623155e308,
+        "hidden": false
+    },
+    "se-space-water": {
+        "name": "se-space-water",
+        "default_temperature": 15,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 1.7976931348623155e308,
+        "hidden": false
+    },
+    "se-pyroflux": {
+        "name": "se-pyroflux",
+        "default_temperature": 50,
+        "max_temperature": 10000,
+        "fuel_value": 0,
+        "gas_temperature": 1.7976931348623155e308,
+        "hidden": false
+    },
+    "se-cryonite-slush": {
+        "name": "se-cryonite-slush",
+        "default_temperature": 0,
+        "max_temperature": 25,
+        "fuel_value": 0,
+        "gas_temperature": 1.7976931348623155e308,
+        "hidden": false
+    },
+    "se-vitalic-acid": {
+        "name": "se-vitalic-acid",
+        "default_temperature": 25,
+        "max_temperature": 25,
+        "fuel_value": 0,
+        "gas_temperature": 1.7976931348623155e308,
+        "hidden": false
+    },
+    "se-bio-sludge": {
+        "name": "se-bio-sludge",
+        "default_temperature": 25,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 1.7976931348623155e308,
+        "hidden": false
+    },
+    "se-contaminated-bio-sludge": {
+        "name": "se-contaminated-bio-sludge",
+        "default_temperature": 25,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 1.7976931348623155e308,
+        "hidden": false
+    },
+    "se-chemical-gel": {
+        "name": "se-chemical-gel",
+        "default_temperature": 25,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 1.7976931348623155e308,
+        "hidden": false
+    },
+    "se-nutrient-gel": {
+        "name": "se-nutrient-gel",
+        "default_temperature": 25,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 1.7976931348623155e308,
+        "hidden": false
+    },
+    "se-neural-gel": {
+        "name": "se-neural-gel",
+        "default_temperature": 25,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 1.7976931348623155e308,
+        "hidden": false
+    },
+    "se-neural-gel-2": {
+        "name": "se-neural-gel-2",
+        "default_temperature": 25,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 1.7976931348623155e308,
+        "hidden": false
+    },
+    "se-plasma-stream": {
+        "name": "se-plasma-stream",
+        "default_temperature": 5000,
+        "max_temperature": 100000,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": false
+    },
+    "se-ion-stream": {
+        "name": "se-ion-stream",
+        "default_temperature": 5000,
+        "max_temperature": 100000,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": false
+    },
+    "se-proton-stream": {
+        "name": "se-proton-stream",
+        "default_temperature": 5000,
+        "max_temperature": 100000,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": false
+    },
+    "se-particle-stream": {
+        "name": "se-particle-stream",
+        "default_temperature": 5000,
+        "max_temperature": 100000,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": false
+    },
+    "se-space-coolant-hot": {
+        "name": "se-space-coolant-hot",
+        "default_temperature": 25,
+        "max_temperature": 5000,
+        "fuel_value": 0,
+        "gas_temperature": 1.7976931348623155e308,
+        "hidden": false
+    },
+    "se-space-coolant-warm": {
+        "name": "se-space-coolant-warm",
+        "default_temperature": -10,
+        "max_temperature": 5000,
+        "fuel_value": 0,
+        "gas_temperature": 1.7976931348623155e308,
+        "hidden": false
+    },
+    "se-space-coolant-cold": {
+        "name": "se-space-coolant-cold",
+        "default_temperature": -100,
+        "max_temperature": 5000,
+        "fuel_value": 0,
+        "gas_temperature": 1.7976931348623155e308,
+        "hidden": false
+    },
+    "se-space-coolant-supercooled": {
+        "name": "se-space-coolant-supercooled",
+        "default_temperature": -273,
+        "max_temperature": 5000,
+        "fuel_value": 0,
+        "gas_temperature": 1.7976931348623155e308,
+        "hidden": false
+    },
+    "se-antimatter-stream": {
+        "name": "se-antimatter-stream",
+        "default_temperature": 10000,
+        "max_temperature": 100000,
+        "fuel_value": 20000000,
+        "gas_temperature": 0,
+        "hidden": false
+    }
+}

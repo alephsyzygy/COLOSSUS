@@ -1,0 +1,1634 @@
+{
+    "nullius-amino-acids": {
+        "name": "nullius-amino-acids",
+        "default_temperature": 25,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": false
+    },
+    "nullius-nucleotides": {
+        "name": "nullius-nucleotides",
+        "default_temperature": 25,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": false
+    },
+    "nullius-fatty-acids": {
+        "name": "nullius-fatty-acids",
+        "default_temperature": 25,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": false
+    },
+    "nullius-oil": {
+        "name": "nullius-oil",
+        "default_temperature": 25,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": false
+    },
+    "nullius-biodiesel": {
+        "name": "nullius-biodiesel",
+        "default_temperature": 25,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": false
+    },
+    "nullius-protocell": {
+        "name": "nullius-protocell",
+        "default_temperature": 25,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": false
+    },
+    "nullius-bacteria": {
+        "name": "nullius-bacteria",
+        "default_temperature": 25,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": false
+    },
+    "nullius-water": {
+        "name": "nullius-water",
+        "default_temperature": 15,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": false
+    },
+    "nullius-steam": {
+        "name": "nullius-steam",
+        "default_temperature": 165,
+        "max_temperature": 200,
+        "fuel_value": 6000,
+        "gas_temperature": 100,
+        "hidden": false
+    },
+    "nullius-pressure-steam": {
+        "name": "nullius-pressure-steam",
+        "default_temperature": 500,
+        "max_temperature": 600,
+        "fuel_value": 20000,
+        "gas_temperature": 100,
+        "hidden": false
+    },
+    "nullius-seawater": {
+        "name": "nullius-seawater",
+        "default_temperature": 15,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": false
+    },
+    "nullius-freshwater": {
+        "name": "nullius-freshwater",
+        "default_temperature": 15,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": false
+    },
+    "nullius-saline": {
+        "name": "nullius-saline",
+        "default_temperature": 15,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": false
+    },
+    "nullius-brine": {
+        "name": "nullius-brine",
+        "default_temperature": 20,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": false
+    },
+    "nullius-heavy-water": {
+        "name": "nullius-heavy-water",
+        "default_temperature": 20,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": false
+    },
+    "nullius-wastewater": {
+        "name": "nullius-wastewater",
+        "default_temperature": 20,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": false
+    },
+    "nullius-sludge": {
+        "name": "nullius-sludge",
+        "default_temperature": 25,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": false
+    },
+    "nullius-air": {
+        "name": "nullius-air",
+        "default_temperature": 25,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": false
+    },
+    "nullius-residual-gas": {
+        "name": "nullius-residual-gas",
+        "default_temperature": 25,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": false
+    },
+    "nullius-trace-gas": {
+        "name": "nullius-trace-gas",
+        "default_temperature": 25,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": false
+    },
+    "nullius-volcanic-gas": {
+        "name": "nullius-volcanic-gas",
+        "default_temperature": 200,
+        "max_temperature": 500,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": false
+    },
+    "nullius-nitrogen": {
+        "name": "nullius-nitrogen",
+        "default_temperature": 25,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": false
+    },
+    "nullius-argon": {
+        "name": "nullius-argon",
+        "default_temperature": 25,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": false
+    },
+    "nullius-helium": {
+        "name": "nullius-helium",
+        "default_temperature": 25,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": false
+    },
+    "nullius-carbon-dioxide": {
+        "name": "nullius-carbon-dioxide",
+        "default_temperature": 25,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": false
+    },
+    "nullius-carbon-monoxide": {
+        "name": "nullius-carbon-monoxide",
+        "default_temperature": 25,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": false
+    },
+    "nullius-methane": {
+        "name": "nullius-methane",
+        "default_temperature": 25,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": false
+    },
+    "nullius-ethylene": {
+        "name": "nullius-ethylene",
+        "default_temperature": 25,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": false
+    },
+    "nullius-propene": {
+        "name": "nullius-propene",
+        "default_temperature": 25,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": false
+    },
+    "nullius-benzene": {
+        "name": "nullius-benzene",
+        "default_temperature": 25,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": false
+    },
+    "nullius-methanol": {
+        "name": "nullius-methanol",
+        "default_temperature": 25,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": false
+    },
+    "nullius-butadiene": {
+        "name": "nullius-butadiene",
+        "default_temperature": 25,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": false
+    },
+    "nullius-styrene": {
+        "name": "nullius-styrene",
+        "default_temperature": 25,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": false
+    },
+    "nullius-acrylonitrile": {
+        "name": "nullius-acrylonitrile",
+        "default_temperature": 25,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": false
+    },
+    "nullius-ech": {
+        "name": "nullius-ech",
+        "default_temperature": 25,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": false
+    },
+    "nullius-glycerol": {
+        "name": "nullius-glycerol",
+        "default_temperature": 25,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": false
+    },
+    "nullius-lubricant": {
+        "name": "nullius-lubricant",
+        "default_temperature": 25,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": false
+    },
+    "nullius-solvent": {
+        "name": "nullius-solvent",
+        "default_temperature": 25,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": false
+    },
+    "nullius-epoxy": {
+        "name": "nullius-epoxy",
+        "default_temperature": 25,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": false
+    },
+    "nullius-hydrogen": {
+        "name": "nullius-hydrogen",
+        "default_temperature": 25,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": false
+    },
+    "nullius-deuterium": {
+        "name": "nullius-deuterium",
+        "default_temperature": 25,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": false
+    },
+    "nullius-tritium": {
+        "name": "nullius-tritium",
+        "default_temperature": 25,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": false
+    },
+    "nullius-oxygen": {
+        "name": "nullius-oxygen",
+        "default_temperature": 25,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": false
+    },
+    "nullius-chlorine": {
+        "name": "nullius-chlorine",
+        "default_temperature": 25,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": false
+    },
+    "nullius-caustic-solution": {
+        "name": "nullius-caustic-solution",
+        "default_temperature": 25,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": false
+    },
+    "nullius-calcium-chloride-solution": {
+        "name": "nullius-calcium-chloride-solution",
+        "default_temperature": 25,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": false
+    },
+    "nullius-titanium-tetrachloride": {
+        "name": "nullius-titanium-tetrachloride",
+        "default_temperature": 25,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": false
+    },
+    "nullius-copper-solution": {
+        "name": "nullius-copper-solution",
+        "default_temperature": 25,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": false
+    },
+    "nullius-hydrogen-chloride": {
+        "name": "nullius-hydrogen-chloride",
+        "default_temperature": 25,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": false
+    },
+    "nullius-acid-hydrochloric": {
+        "name": "nullius-acid-hydrochloric",
+        "default_temperature": 25,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": false
+    },
+    "nullius-sulfur-dioxide": {
+        "name": "nullius-sulfur-dioxide",
+        "default_temperature": 25,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": false
+    },
+    "nullius-acid-sulfuric": {
+        "name": "nullius-acid-sulfuric",
+        "default_temperature": 25,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": false
+    },
+    "nullius-ammonia": {
+        "name": "nullius-ammonia",
+        "default_temperature": 25,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": false
+    },
+    "nullius-acid-nitric": {
+        "name": "nullius-acid-nitric",
+        "default_temperature": 25,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": false
+    },
+    "nullius-compressed-air": {
+        "name": "nullius-compressed-air",
+        "default_temperature": 50,
+        "max_temperature": 100,
+        "fuel_value": 14000,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": false
+    },
+    "nullius-compressed-residual-gas": {
+        "name": "nullius-compressed-residual-gas",
+        "default_temperature": 50,
+        "max_temperature": 100,
+        "fuel_value": 15000,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": false
+    },
+    "nullius-compressed-trace-gas": {
+        "name": "nullius-compressed-trace-gas",
+        "default_temperature": 50,
+        "max_temperature": 100,
+        "fuel_value": 15000,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": false
+    },
+    "nullius-compressed-nitrogen": {
+        "name": "nullius-compressed-nitrogen",
+        "default_temperature": 50,
+        "max_temperature": 100,
+        "fuel_value": 18000,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": false
+    },
+    "nullius-compressed-argon": {
+        "name": "nullius-compressed-argon",
+        "default_temperature": 50,
+        "max_temperature": 100,
+        "fuel_value": 24000,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": false
+    },
+    "nullius-compressed-helium": {
+        "name": "nullius-compressed-helium",
+        "default_temperature": 50,
+        "max_temperature": 100,
+        "fuel_value": 32000,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": false
+    },
+    "nullius-compressed-hydrogen": {
+        "name": "nullius-compressed-hydrogen",
+        "default_temperature": 50,
+        "max_temperature": 100,
+        "fuel_value": 4000,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": false
+    },
+    "nullius-compressed-oxygen": {
+        "name": "nullius-compressed-oxygen",
+        "default_temperature": 50,
+        "max_temperature": 100,
+        "fuel_value": 4000,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": false
+    },
+    "nullius-compressed-carbon-dioxide": {
+        "name": "nullius-compressed-carbon-dioxide",
+        "default_temperature": 50,
+        "max_temperature": 100,
+        "fuel_value": 12000,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": false
+    },
+    "nullius-compressed-carbon-monoxide": {
+        "name": "nullius-compressed-carbon-monoxide",
+        "default_temperature": 50,
+        "max_temperature": 100,
+        "fuel_value": 8000,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": false
+    },
+    "nullius-compressed-methane": {
+        "name": "nullius-compressed-methane",
+        "default_temperature": 50,
+        "max_temperature": 100,
+        "fuel_value": 6000,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": false
+    },
+    "petroleum-gas": {
+        "name": "petroleum-gas",
+        "default_temperature": 25,
+        "max_temperature": 25,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "sulfuric-acid": {
+        "name": "sulfuric-acid",
+        "default_temperature": 25,
+        "max_temperature": 25,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "light-oil": {
+        "name": "light-oil",
+        "default_temperature": 25,
+        "max_temperature": 25,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "heavy-oil": {
+        "name": "heavy-oil",
+        "default_temperature": 25,
+        "max_temperature": 25,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "angels-ore8-anode-sludge": {
+        "name": "angels-ore8-anode-sludge",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "angels-ore8-slime": {
+        "name": "angels-ore8-slime",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "angels-ore8-sludge": {
+        "name": "angels-ore8-sludge",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "angels-ore8-solution": {
+        "name": "angels-ore8-solution",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "angels-ore9-anode-sludge": {
+        "name": "angels-ore9-anode-sludge",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "angels-ore9-slime": {
+        "name": "angels-ore9-slime",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "angels-ore9-sludge": {
+        "name": "angels-ore9-sludge",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "angels-ore9-solution": {
+        "name": "angels-ore9-solution",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "fluid-unknown": {
+        "name": "fluid-unknown",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "gas-chlorine": {
+        "name": "gas-chlorine",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": true
+    },
+    "gas-nitrogen": {
+        "name": "gas-nitrogen",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": true
+    },
+    "steam": {
+        "name": "steam",
+        "default_temperature": 15,
+        "max_temperature": 1000,
+        "fuel_value": 0,
+        "gas_temperature": 15,
+        "hidden": true
+    },
+    "water": {
+        "name": "water",
+        "default_temperature": 15,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "water-viscous-mud": {
+        "name": "water-viscous-mud",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "water-yellow-waste": {
+        "name": "water-yellow-waste",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "liquid-ferric-chloride-solution": {
+        "name": "liquid-ferric-chloride-solution",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "gas-hydrogen-sulfide": {
+        "name": "gas-hydrogen-sulfide",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": true
+    },
+    "gas-enriched-hydrogen-sulfide": {
+        "name": "gas-enriched-hydrogen-sulfide",
+        "default_temperature": 25,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 25,
+        "hidden": true
+    },
+    "liquid-plastic": {
+        "name": "liquid-plastic",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "thermal-water": {
+        "name": "thermal-water",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "slag-slurry": {
+        "name": "slag-slurry",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "gas-natural-1": {
+        "name": "gas-natural-1",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": true
+    },
+    "gas-raw-1": {
+        "name": "gas-raw-1",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": true
+    },
+    "liquid-ngl": {
+        "name": "liquid-ngl",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "gas-ammonia": {
+        "name": "gas-ammonia",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": true
+    },
+    "gas-compressed-air": {
+        "name": "gas-compressed-air",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": true
+    },
+    "gas-hydrogen-chloride": {
+        "name": "gas-hydrogen-chloride",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": true
+    },
+    "gas-sulfur-dioxide": {
+        "name": "gas-sulfur-dioxide",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": true
+    },
+    "liquid-molten-glass": {
+        "name": "liquid-molten-glass",
+        "default_temperature": 1500,
+        "max_temperature": 1500,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "liquid-molten-solder": {
+        "name": "liquid-molten-solder",
+        "default_temperature": 200,
+        "max_temperature": 200,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "water-greenyellow-waste": {
+        "name": "water-greenyellow-waste",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "water-heavy-mud": {
+        "name": "water-heavy-mud",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "water-purified": {
+        "name": "water-purified",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "liquid-cupric-chloride-solution": {
+        "name": "liquid-cupric-chloride-solution",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "mineral-sludge": {
+        "name": "mineral-sludge",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "liquid-resin": {
+        "name": "liquid-resin",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "gas-methane": {
+        "name": "gas-methane",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": true
+    },
+    "liquid-multi-phase-oil": {
+        "name": "liquid-multi-phase-oil",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "crude-oil": {
+        "name": "crude-oil",
+        "default_temperature": 25,
+        "max_temperature": 25,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "gas-ethane": {
+        "name": "gas-ethane",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": true
+    },
+    "gas-butane": {
+        "name": "gas-butane",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": true
+    },
+    "gas-propene": {
+        "name": "gas-propene",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": true
+    },
+    "gas-nitrogen-monoxide": {
+        "name": "gas-nitrogen-monoxide",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": true
+    },
+    "liquid-hydrochloric-acid": {
+        "name": "liquid-hydrochloric-acid",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": true
+    },
+    "water-concentrated-mud": {
+        "name": "water-concentrated-mud",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "water-green-waste": {
+        "name": "water-green-waste",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "water-saline": {
+        "name": "water-saline",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "crystal-slurry": {
+        "name": "crystal-slurry",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "crystal-seedling": {
+        "name": "crystal-seedling",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "crystal-matrix": {
+        "name": "crystal-matrix",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "liquid-rubber": {
+        "name": "liquid-rubber",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "gas-methanol": {
+        "name": "gas-methanol",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": true
+    },
+    "liquid-condensates": {
+        "name": "liquid-condensates",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "liquid-sulfuric-acid": {
+        "name": "liquid-sulfuric-acid",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "gas-ethylene": {
+        "name": "gas-ethylene",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": true
+    },
+    "gas-residual": {
+        "name": "gas-residual",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": true
+    },
+    "gas-benzene": {
+        "name": "gas-benzene",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": true
+    },
+    "gas-acid": {
+        "name": "gas-acid",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": true
+    },
+    "gas-allylchlorid": {
+        "name": "gas-allylchlorid",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": true
+    },
+    "gas-nitrogen-dioxide": {
+        "name": "gas-nitrogen-dioxide",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": true
+    },
+    "gas-oxygen": {
+        "name": "gas-oxygen",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": true
+    },
+    "liquid-hexachloroplatinic-acid": {
+        "name": "liquid-hexachloroplatinic-acid",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "liquid-titanium-tetrachloride": {
+        "name": "liquid-titanium-tetrachloride",
+        "default_temperature": 1668,
+        "max_temperature": 1668,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "liquid-trichlorosilane": {
+        "name": "liquid-trichlorosilane",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "liquid-tungstic-acid": {
+        "name": "liquid-tungstic-acid",
+        "default_temperature": 3422,
+        "max_temperature": 3422,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "water-light-mud": {
+        "name": "water-light-mud",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "water-mineralized": {
+        "name": "water-mineralized",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "water-red-waste": {
+        "name": "water-red-waste",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "liquid-fuel-oil": {
+        "name": "liquid-fuel-oil",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "liquid-naphtha": {
+        "name": "liquid-naphtha",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "liquid-mineral-oil": {
+        "name": "liquid-mineral-oil",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "lubricant": {
+        "name": "lubricant",
+        "default_temperature": 25,
+        "max_temperature": 25,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "gas-synthesis": {
+        "name": "gas-synthesis",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": true
+    },
+    "gas-dinitrogen-tetroxide": {
+        "name": "gas-dinitrogen-tetroxide",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": true
+    },
+    "gas-epichlorhydrin": {
+        "name": "gas-epichlorhydrin",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": true
+    },
+    "gas-hydrogen-fluoride": {
+        "name": "gas-hydrogen-fluoride",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": true
+    },
+    "gas-hydrogen-peroxide": {
+        "name": "gas-hydrogen-peroxide",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": true
+    },
+    "gas-silane": {
+        "name": "gas-silane",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "liquid-chlorauric-acid": {
+        "name": "liquid-chlorauric-acid",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "water-thin-mud": {
+        "name": "water-thin-mud",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "liquid-toluene": {
+        "name": "liquid-toluene",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "gas-butadiene": {
+        "name": "gas-butadiene",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": true
+    },
+    "liquid-phenol": {
+        "name": "liquid-phenol",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "liquid-ethylbenzene": {
+        "name": "liquid-ethylbenzene",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "liquid-styrene": {
+        "name": "liquid-styrene",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "gas-formaldehyde": {
+        "name": "gas-formaldehyde",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": true
+    },
+    "liquid-polyethylene": {
+        "name": "liquid-polyethylene",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "liquid-glycerol": {
+        "name": "liquid-glycerol",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "liquid-bisphenol-a": {
+        "name": "liquid-bisphenol-a",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "gas-acetone": {
+        "name": "gas-acetone",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": true
+    },
+    "gas-ethylene-oxide": {
+        "name": "gas-ethylene-oxide",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": true
+    },
+    "liquid-ethylene-carbonate": {
+        "name": "liquid-ethylene-carbonate",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "gas-ammonium-chloride": {
+        "name": "gas-ammonium-chloride",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": true
+    },
+    "gas-carbon-monoxide": {
+        "name": "gas-carbon-monoxide",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": true
+    },
+    "gas-chlor-methane": {
+        "name": "gas-chlor-methane",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": true
+    },
+    "gas-tungsten-hexafluoride": {
+        "name": "gas-tungsten-hexafluoride",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "liquid-hexafluorosilicic-acid": {
+        "name": "liquid-hexafluorosilicic-acid",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "liquid-hydrofluoric-acid": {
+        "name": "liquid-hydrofluoric-acid",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "liquid-molten-tin": {
+        "name": "liquid-molten-tin",
+        "default_temperature": 231.900000000000005684341886080801486968994140625,
+        "max_temperature": 231.900000000000005684341886080801486968994140625,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "liquid-coolant": {
+        "name": "liquid-coolant",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "liquid-coolant-used": {
+        "name": "liquid-coolant-used",
+        "default_temperature": 25,
+        "max_temperature": 300,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "gas-carbon-dioxide": {
+        "name": "gas-carbon-dioxide",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": true
+    },
+    "gas-urea": {
+        "name": "gas-urea",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": true
+    },
+    "liquid-concrete": {
+        "name": "liquid-concrete",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "liquid-molten-copper": {
+        "name": "liquid-molten-copper",
+        "default_temperature": 1085,
+        "max_temperature": 1085,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "liquid-perchloric-acid": {
+        "name": "liquid-perchloric-acid",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "gas-hydrogen": {
+        "name": "gas-hydrogen",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": true
+    },
+    "gas-melamine": {
+        "name": "gas-melamine",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": true
+    },
+    "gas-phosgene": {
+        "name": "gas-phosgene",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": true
+    },
+    "liquid-molten-cobalt": {
+        "name": "liquid-molten-cobalt",
+        "default_temperature": 1495,
+        "max_temperature": 1495,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "liquid-molten-manganese": {
+        "name": "liquid-molten-manganese",
+        "default_temperature": 1246,
+        "max_temperature": 1246,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "liquid-molten-nickel": {
+        "name": "liquid-molten-nickel",
+        "default_temperature": 1455,
+        "max_temperature": 1455,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "liquid-molten-platinum": {
+        "name": "liquid-molten-platinum",
+        "default_temperature": 1768,
+        "max_temperature": 1768,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "liquid-molten-silicon": {
+        "name": "liquid-molten-silicon",
+        "default_temperature": 1414,
+        "max_temperature": 1414,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "liquid-molten-titanium": {
+        "name": "liquid-molten-titanium",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "liquid-molten-zinc": {
+        "name": "liquid-molten-zinc",
+        "default_temperature": 419.5,
+        "max_temperature": 419.5,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "liquid-water-semiheavy-1": {
+        "name": "liquid-water-semiheavy-1",
+        "default_temperature": 25,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "liquid-water-semiheavy-2": {
+        "name": "liquid-water-semiheavy-2",
+        "default_temperature": 25,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "liquid-water-semiheavy-3": {
+        "name": "liquid-water-semiheavy-3",
+        "default_temperature": 25,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "liquid-water-heavy": {
+        "name": "liquid-water-heavy",
+        "default_temperature": 25,
+        "max_temperature": 101,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "gas-deuterium": {
+        "name": "gas-deuterium",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": true
+    },
+    "liquid-molten-aluminium": {
+        "name": "liquid-molten-aluminium",
+        "default_temperature": 660.299999999999954525264911353588104248046875,
+        "max_temperature": 660.299999999999954525264911353588104248046875,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "liquid-molten-chrome": {
+        "name": "liquid-molten-chrome",
+        "default_temperature": 1907,
+        "max_temperature": 1907,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "liquid-molten-gold": {
+        "name": "liquid-molten-gold",
+        "default_temperature": 1064,
+        "max_temperature": 1064,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "liquid-molten-iron": {
+        "name": "liquid-molten-iron",
+        "default_temperature": 1538,
+        "max_temperature": 1538,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "liquid-molten-lead": {
+        "name": "liquid-molten-lead",
+        "default_temperature": 327.5,
+        "max_temperature": 327.5,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "liquid-molten-steel": {
+        "name": "liquid-molten-steel",
+        "default_temperature": 1370,
+        "max_temperature": 1370,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "liquid-nitric-acid": {
+        "name": "liquid-nitric-acid",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": true
+    },
+    "gas-monochloramine": {
+        "name": "gas-monochloramine",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": true
+    },
+    "liquid-aqueous-sodium-hydroxide": {
+        "name": "liquid-aqueous-sodium-hydroxide",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "liquid-molten-silver": {
+        "name": "liquid-molten-silver",
+        "default_temperature": 961.799999999999954525264911353588104248046875,
+        "max_temperature": 961.799999999999954525264911353588104248046875,
+        "fuel_value": 0,
+        "gas_temperature": 1.79769313486231556709071810473687946796417236328125e+308,
+        "hidden": true
+    },
+    "gas-hydrazine": {
+        "name": "gas-hydrazine",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": true
+    },
+    "gas-methylamine": {
+        "name": "gas-methylamine",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": true
+    },
+    "gas-dimethylamine": {
+        "name": "gas-dimethylamine",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": true
+    },
+    "gas-dimethylhydrazine": {
+        "name": "gas-dimethylhydrazine",
+        "default_temperature": 0,
+        "max_temperature": 0,
+        "fuel_value": 0,
+        "gas_temperature": 0,
+        "hidden": true
+    }
+}

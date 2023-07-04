@@ -1,0 +1,184 @@
+======================================================================================
+Release Planning 
+======================================================================================
+
+- de-priortize FP support, this will only be for advanced users (until newer versions)
+
+Small:
+- [ ] fluidbox string, i.e. wind-around the entity giving fluidbox location and type
+  - [ ] include in debug output
+- [ ] validation of recipes:
+  - might not be so important with Helmod
+  - [ ] the normal flow should follow a topological order, failure indicates something is wrong
+- [ ] item buffer limits not configured
+
+Medium:
+- [ ] Loops
+  - [ ] when creating lane ports, do not create them if no input/output
+  - [ ] when creating lane ports, re-arrange them so loops are first
+  - [ ] loop tags
+  - [ ] debug record loop info
+  - [ ] fluid bus auto add loops
+  - [ ] kovarex
+  - [ ] coal liquefaction
+- [ ] Helmod byproduct support: need to detect when a recipe is a byproduct - option to downgrade and upgrade items
+- [ ] local fluid bus / local logistic network?
+- [ ] Output options
+  - [X] Up lane
+  - [ ] Single chest
+  - [ ] Buffer chests
+  - [ ] Passive chests
+
+Other:
+- [-] Documentation
+  - [X] add README
+  - [-] mod page documentation
+  - [-] advanced documentation
+  - [X] mention related mods (mining, pumps)
+  - [X] LICENSE and other libs
+- [ ] final run through
+
+======================================================================================
+BUGFIXES - High Priority 
+======================================================================================
+
+======================================================================================
+BUGFIXES - Medium Priority 
+======================================================================================
+
+- [ ] Helmod rocket doesn't work
+- [ ] bugs with priority and light oil in space recipe : green only produce 4, not 5.6
+- [ ] fluid buffer limits are too high if buffers are just used for transporting through
+  - this may require more investigation, since high priority items should not be the final output of the bus
+- [ ] output lane in templates should balance both sides, without the final balancer
+- [ ] se cryonite recipe doesn't work
+
+======================================================================================
+Playtest TODOS
+======================================================================================
+
+- [ ] se test fuel refinery should work with standard refinery connector
+- [ ] 4-1 fluid crafting
+- [ ] space recipes?
+
+======================================================================================
+Future Releases 
+======================================================================================
+
+- [-] code cleanup
+  - [ ] GUI code needs cleanup
+  - [ ] improve main method in factorio directory
+- [-] crash viewer
+  - some support, but it generates large files - currently disabled
+- [ ] Fluid temperature support
+  - [ ] steam-165 issue
+    - fluids need temperatures?
+    - may be a FP issue
+- [ ] custom recipe support - what metadata is needed?
+ - [ ] support in Helmod
+- [ ] CLI support
+  - [ ] CLI arguments
+    - [ ] profiling
+    - [ ] which bus
+  - [ ] CLI timing
+- [ ] pumps for pipe lanes
+  - will cause issues for directions
+- [ ] template port throughput info / inserter throughput
+- [ ] Optimization: merge underground belts
+- [ ] pipe throughput: multiple pipes for a fluid
+- [ ] Flow calculation based on template throughput
+- [ ] yafc - needs code changes to record number of assemblers, and a way to know produce / consume recipes
+- [ ] logistics templates
+- [ ] logistics beacons
+- [ ] upgrade planner
+- [ ] logistic width
+- [ ] Import multiple templates
+- [ ] Export multiple templates
+- [ ] Mall support
+  - [ ] mall tags? for generating a chest at the output / deleting belts
+  - [ ] circuitry to limit number (e.g. with buffer chests) or reserve slots?
+- [ ] Ouput style up adds constant combinators at top
+- [ ] Cache data initialization?  It currently takes around 300ms
+- [ ] closing template editor should return to template page (keep template page open, similar to dialogs?)
+- [ ] proper lane coloring base on port coords
+
+======================================================================================
+LOW PRIORITY 
+======================================================================================
+
+- [ ] Equivalence system fuel support
+- [ ] space exploration: need to separate out machines or fluid networks can mix
+- [ ] fluid logistic support
+  - [ ] analyze inputs, find associated barrelling recipe, add barrelers and pipes (may have problems with some fluidboxes)
+- [ ] save different config options, e.g. planet vs space?
+- [ ] FactoryPlanner remote to process and return an export string
+- [ ] move buffers closer to other factories if possible?
+- [ ] get_region(s) from diagram, so we can avoid a compile
+- [ ] FP string import needs to use GUI config
+- [ ] combinator lane info can include flowrates plus time period
+- [ ] bundle/strand system
+  - [ ] clean up two lane bundle
+  - [ ] multilane item bundle
+- [ ] replace CoordTable.iterate with proper iterator
+
+======================================================================================
+MAYBE 
+======================================================================================
+
+- [ ] limit work per tick
+  - [ ] need to work out slow bits and allow for stopping points
+  - [ ] probably only for a few key methods
+- [ ] connectors and other mods
+  - [ ] connectors have mod list in their metadata
+  - [ ] only show connectors for loaded mods
+  - [ ] show all connectors option on GUI
+- [ ] player access to Shift_connector (used if you set the centre incorrectly)
+  - [ ] mod option to show / hide template editor
+
+======================================================================================
+NOTES 
+======================================================================================
+
+ - LuaItemStack import_stack and export_stack could be used instead of 
+   base64/zlib/json
+ - game.encode_string, decode_string, table_to_json, json_to_table
+ - junctions for mod development:
+  New-Item -ItemType "Junction" -Name "blueprinter-signals" -Value "<LOCATION>\mod\blueprinter-signals"
+- reload control.lua:
+  /c game.reload_mods()
+
+
+======================================================================================
+WON'T DO / FIX
+======================================================================================
+
+- [ ] find out why not all poles are connected via the electrical network
+    - calculate the number of connected components?
+- [ ] use FactoryPlanner modules to re-hydrate data, instead of using custom patch
+  - data.calculation.interface.lua calculation.update
+  - Factory.import_by_string(context.factory, export_string)
+  - may be a bit tricky to use with CLI version
+  - looking too difficult.  Will use a remote instead
+- [ ] fluid box calculations
+  - [X] instead let user set fluidbox index
+- [ ] calculate fluid box inputs/outputs from machines?
+- ? rotation support
+- [ ] Custom combinator(s) for mod - replaced by tag system
+- [ ] generic connectors for items: resize 
+  - might be difficult with fluidboxes, which seem to appear everywhere
+
+======================================================================================
+ORIGINAL IDEAS 
+======================================================================================
+
+- Other big projects
+  - place and route
+  - smelting
+  - mining
+  - oil pumpjacks
+  - water pumps?
+  - logistics
+  - train routing
+  - belt routing
+  - city blocks
+  - circuit networks?

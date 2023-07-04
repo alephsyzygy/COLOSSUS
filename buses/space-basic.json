@@ -1,0 +1,1262 @@
+{
+    "subfactories": [
+        {
+            "timescale": 60,
+            "Ingredient": {
+                "objects": [
+                    {
+                        "proto": {
+                            "name": "copper-plate"
+                        },
+                        "amount": 6107.25
+                    },
+                    {
+                        "proto": {
+                            "name": "iron-plate"
+                        },
+                        "amount": 3452.1
+                    },
+                    {
+                        "proto": {
+                            "name": "coal"
+                        },
+                        "amount": 597
+                    },
+                    {
+                        "proto": {
+                            "name": "water"
+                        },
+                        "amount": 20725.384615384613
+                    },
+                    {
+                        "proto": {
+                            "name": "crude-oil"
+                        },
+                        "amount": 18415.38461538462
+                    }
+                ]
+            },
+            "Byproduct": {
+                "objects": {}
+            },
+            "Product": {
+                "objects": [
+                    {
+                        "proto": {
+                            "name": "space-science-pack"
+                        },
+                        "amount": 60
+                    }
+                ]
+            },
+            "top_floor": {
+                "Line": {
+                    "objects": [
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "impostor-silo-rocket-silo-item-satellite",
+                                    "custom": true,
+                                    "category": "rocket-building",
+                                    "ingredients": [
+                                        {
+                                            "name": "rocket-control-unit",
+                                            "type": "item",
+                                            "amount": 1000
+                                        },
+                                        {
+                                            "name": "low-density-structure",
+                                            "type": "item",
+                                            "amount": 1000
+                                        },
+                                        {
+                                            "name": "rocket-fuel",
+                                            "type": "item",
+                                            "amount": 1000
+                                        },
+                                        {
+                                            "name": "satellite",
+                                            "type": "item",
+                                            "amount": 1
+                                        }
+                                    ],
+                                    "products": [
+                                        {
+                                            "name": "space-science-pack",
+                                            "type": "item",
+                                            "amount": 1000
+                                        }
+                                    ]
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "space-science-pack"
+                                        },
+                                        "amount": 60
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "rocket-control-unit"
+                                        },
+                                        "amount": 60
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "low-density-structure"
+                                        },
+                                        "amount": 60
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "rocket-fuel"
+                                        },
+                                        "amount": 60
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "satellite"
+                                        },
+                                        "amount": 0.06
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "rocket-silo"
+                                },
+                                "count": 0.34058422475419156,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": {}
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "satellite"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "satellite"
+                                        },
+                                        "amount": 0.06
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "processing-unit"
+                                        },
+                                        "amount": 6
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "low-density-structure"
+                                        },
+                                        "amount": 6
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "rocket-fuel"
+                                        },
+                                        "amount": 3
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "solar-panel"
+                                        },
+                                        "amount": 6
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "accumulator"
+                                        },
+                                        "amount": 6
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "radar"
+                                        },
+                                        "amount": 0.3
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-3"
+                                },
+                                "count": 0.004,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": {}
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "rocket-control-unit"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "rocket-control-unit"
+                                        },
+                                        "amount": 60
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "processing-unit"
+                                        },
+                                        "amount": 60
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "speed-module"
+                                        },
+                                        "amount": 60
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-3"
+                                },
+                                "count": 24,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": {}
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "speed-module"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "speed-module"
+                                        },
+                                        "amount": 60
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "electronic-circuit"
+                                        },
+                                        "amount": 300
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "advanced-circuit"
+                                        },
+                                        "amount": 300
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-3"
+                                },
+                                "count": 12,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": {}
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "low-density-structure"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "low-density-structure"
+                                        },
+                                        "amount": 65.99999999999999
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "copper-plate"
+                                        },
+                                        "amount": 1319.9999999999998
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "steel-plate"
+                                        },
+                                        "amount": 131.99999999999998
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "plastic-bar"
+                                        },
+                                        "amount": 329.99999999999997
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-3"
+                                },
+                                "count": 17.599999999999999,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": {}
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "rocket-fuel"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "rocket-fuel"
+                                        },
+                                        "amount": 63
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "solid-fuel"
+                                        },
+                                        "amount": 630
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "light-oil"
+                                        },
+                                        "amount": 630
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-3"
+                                },
+                                "count": 25.2,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": {}
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "solid-fuel-from-light-oil"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "solid-fuel"
+                                        },
+                                        "amount": 630
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "light-oil"
+                                        },
+                                        "amount": 6300
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "chemical-plant"
+                                },
+                                "count": 21,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": {}
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "solar-panel"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "solar-panel"
+                                        },
+                                        "amount": 6
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "copper-plate"
+                                        },
+                                        "amount": 30
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "steel-plate"
+                                        },
+                                        "amount": 30
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "electronic-circuit"
+                                        },
+                                        "amount": 90
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-1"
+                                },
+                                "count": 2,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": {}
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "accumulator"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "accumulator"
+                                        },
+                                        "amount": 6
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "iron-plate"
+                                        },
+                                        "amount": 12
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "battery"
+                                        },
+                                        "amount": 30
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-1"
+                                },
+                                "count": 2,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": {}
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "radar"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "radar"
+                                        },
+                                        "amount": 0.2999999999999579
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "iron-plate"
+                                        },
+                                        "amount": 2.999999999999579
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "iron-gear-wheel"
+                                        },
+                                        "amount": 1.4999999999997896
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "electronic-circuit"
+                                        },
+                                        "amount": 1.4999999999997896
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-1"
+                                },
+                                "count": 0.004999999999999298,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": {}
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "iron-gear-wheel"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "iron-gear-wheel"
+                                        },
+                                        "amount": 1.499999999999845
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "iron-plate"
+                                        },
+                                        "amount": 2.99999999999969
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-1"
+                                },
+                                "count": 0.024999999999997418,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": {}
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "battery"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "battery"
+                                        },
+                                        "amount": 30.000000000000008
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "iron-plate"
+                                        },
+                                        "amount": 30.000000000000008
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "copper-plate"
+                                        },
+                                        "amount": 30.000000000000008
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "sulfuric-acid"
+                                        },
+                                        "amount": 600.0000000000001
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "chemical-plant"
+                                },
+                                "count": 2.0000000000000006,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": {}
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "steel-plate"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "steel-plate"
+                                        },
+                                        "amount": 161.99999999999998
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "iron-plate"
+                                        },
+                                        "amount": 809.9999999999999
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "electric-furnace"
+                                },
+                                "count": 21.599999999999999,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": {}
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "processing-unit"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "processing-unit"
+                                        },
+                                        "amount": 66.00000000000003
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "electronic-circuit"
+                                        },
+                                        "amount": 1320.0000000000005
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "advanced-circuit"
+                                        },
+                                        "amount": 132.00000000000007
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "sulfuric-acid"
+                                        },
+                                        "amount": 330.0000000000001
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-3"
+                                },
+                                "count": 8.800000000000005,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": {}
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "advanced-circuit"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "advanced-circuit"
+                                        },
+                                        "amount": 432.0000000000001
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "plastic-bar"
+                                        },
+                                        "amount": 864.0000000000002
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "copper-cable"
+                                        },
+                                        "amount": 1728.0000000000005
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "electronic-circuit"
+                                        },
+                                        "amount": 864.0000000000002
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-3"
+                                },
+                                "count": 34.56000000000001,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": {}
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "copper-cable"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "copper-cable"
+                                        },
+                                        "amount": 9454.5
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "copper-plate"
+                                        },
+                                        "amount": 4727.25
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-3"
+                                },
+                                "count": 31.515,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": {}
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "electronic-circuit"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "electronic-circuit"
+                                        },
+                                        "amount": 2575.5000000000015
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "iron-plate"
+                                        },
+                                        "amount": 2575.5000000000015
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "copper-cable"
+                                        },
+                                        "amount": 7726.500000000004
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-3"
+                                },
+                                "count": 17.17000000000001,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": {}
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "plastic-bar"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "plastic-bar"
+                                        },
+                                        "amount": 1194
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "coal"
+                                        },
+                                        "amount": 597
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "petroleum-gas"
+                                        },
+                                        "amount": 11940
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "chemical-plant"
+                                },
+                                "count": 9.95,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": {}
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "sulfuric-acid"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "sulfuric-acid"
+                                        },
+                                        "amount": 930.0000000000002
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "iron-plate"
+                                        },
+                                        "amount": 18.600000000000006
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "sulfur"
+                                        },
+                                        "amount": 93.00000000000003
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "water"
+                                        },
+                                        "amount": 1860.0000000000005
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "chemical-plant"
+                                },
+                                "count": 0.3100000000000001,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": {}
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "sulfur"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "sulfur"
+                                        },
+                                        "amount": 93.00000000000002
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "water"
+                                        },
+                                        "amount": 1395.0000000000003
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "petroleum-gas"
+                                        },
+                                        "amount": 1395.0000000000003
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "chemical-plant"
+                                },
+                                "count": 0.7750000000000001,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": {}
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "advanced-oil-processing"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "heavy-oil"
+                                        },
+                                        "amount": 4603.846153846153
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "light-oil"
+                                        },
+                                        "amount": 8286.923076923076
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "petroleum-gas"
+                                        },
+                                        "amount": 10128.461538461537
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "water"
+                                        },
+                                        "amount": 9207.692307692307
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "crude-oil"
+                                        },
+                                        "amount": 18415.384615384613
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "oil-refinery"
+                                },
+                                "count": 15.346153846153844,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": {}
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "heavy-oil-cracking"
+                                },
+                                "production_type": "consume"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "light-oil"
+                                        },
+                                        "amount": 3452.8846153846159
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "water"
+                                        },
+                                        "amount": 3452.8846153846159
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "heavy-oil"
+                                        },
+                                        "amount": 4603.846153846154
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "chemical-plant"
+                                },
+                                "count": 3.8365384615384618,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": {}
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "light-oil-cracking"
+                                },
+                                "production_type": "consume"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "petroleum-gas"
+                                        },
+                                        "amount": 3206.538461538462
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "water"
+                                        },
+                                        "amount": 4809.807692307693
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "light-oil"
+                                        },
+                                        "amount": 4809.807692307693
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "chemical-plant"
+                                },
+                                "count": 5.344230769230769,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": {}
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "name": "space-science-basic"
+        }
+    ]
+}

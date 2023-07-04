@@ -1,0 +1,333 @@
+{
+    "blueprint": {
+        "description": "Buffers fluid.  Uses low, normal, and high priority lanes",
+        "snap-to-grid": {
+            "x": 1,
+            "y": 1
+        },
+        "absolute-snapping": true,
+        "icons": [
+            {
+                "signal": {
+                    "type": "item",
+                    "name": "storage-tank"
+                },
+                "index": 1
+            },
+            {
+                "signal": {
+                    "type": "item",
+                    "name": "offshore-pump"
+                },
+                "index": 2
+            }
+        ],
+        "entities": [
+            {
+                "entity_number": 1,
+                "name": "pipe",
+                "position": {
+                    "x": 0.5,
+                    "y": 0.5
+                }
+            },
+            {
+                "entity_number": 2,
+                "name": "pipe",
+                "position": {
+                    "x": 0.5,
+                    "y": 1.5
+                }
+            },
+            {
+                "entity_number": 3,
+                "name": "constant-combinator",
+                "position": {
+                    "x": -0.5,
+                    "y": 1.5
+                },
+                "direction": 2,
+                "control_behavior": {
+                    "filters": [
+                        {
+                            "signal": {
+                                "type": "virtual",
+                                "name": "signal-N"
+                            },
+                            "count": 1,
+                            "index": 1
+                        },
+                        {
+                            "signal": {
+                                "type": "virtual",
+                                "name": "signal-F"
+                            },
+                            "count": 1,
+                            "index": 2
+                        }
+                    ]
+                }
+            },
+            {
+                "entity_number": 4,
+                "name": "pipe-to-ground",
+                "position": {
+                    "x": 1.5,
+                    "y": 0.5
+                },
+                "direction": 6
+            },
+            {
+                "entity_number": 5,
+                "name": "pipe",
+                "position": {
+                    "x": 2.5,
+                    "y": 1.5
+                }
+            },
+            {
+                "entity_number": 6,
+                "name": "pipe-to-ground",
+                "position": {
+                    "x": 4.5,
+                    "y": 0.5
+                },
+                "direction": 2
+            },
+            {
+                "entity_number": 7,
+                "name": "pump",
+                "position": {
+                    "x": 4,
+                    "y": 1.5
+                },
+                "direction": 2,
+                "control_behavior": {
+                    "circuit_condition": {
+                        "first_signal": {
+                            "type": "fluid",
+                            "name": "water"
+                        },
+                        "constant": 10000,
+                        "comparator": "<"
+                    }
+                },
+                "connections": {
+                    "1": {
+                        "red": [
+                            {
+                                "entity_id": 9
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "entity_number": 8,
+                "name": "pipe",
+                "position": {
+                    "x": 5.5,
+                    "y": 0.5
+                }
+            },
+            {
+                "entity_number": 9,
+                "name": "storage-tank",
+                "position": {
+                    "x": 6.5,
+                    "y": 2.5
+                },
+                "connections": {
+                    "1": {
+                        "red": [
+                            {
+                                "entity_id": 7
+                            },
+                            {
+                                "entity_id": 19
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "entity_number": 10,
+                "name": "pipe-to-ground",
+                "position": {
+                    "x": 0.5,
+                    "y": 3.5
+                },
+                "direction": 6
+            },
+            {
+                "entity_number": 11,
+                "name": "constant-combinator",
+                "position": {
+                    "x": -0.5,
+                    "y": 3.5
+                },
+                "direction": 2,
+                "control_behavior": {
+                    "filters": [
+                        {
+                            "signal": {
+                                "type": "virtual",
+                                "name": "signal-F"
+                            },
+                            "count": 1,
+                            "index": 1
+                        },
+                        {
+                            "signal": {
+                                "type": "virtual",
+                                "name": "signal-L"
+                            },
+                            "count": 1,
+                            "index": 2
+                        }
+                    ]
+                }
+            },
+            {
+                "entity_number": 12,
+                "name": "pipe",
+                "position": {
+                    "x": 2.5,
+                    "y": 3.5
+                }
+            },
+            {
+                "entity_number": 13,
+                "name": "pipe-to-ground",
+                "position": {
+                    "x": 1.5,
+                    "y": 3.5
+                },
+                "direction": 2
+            },
+            {
+                "entity_number": 14,
+                "name": "pipe",
+                "position": {
+                    "x": 2.5,
+                    "y": 2.5
+                }
+            },
+            {
+                "entity_number": 15,
+                "name": "constant-combinator",
+                "position": {
+                    "x": -0.5,
+                    "y": 5.5
+                },
+                "direction": 2,
+                "control_behavior": {
+                    "filters": [
+                        {
+                            "signal": {
+                                "type": "virtual",
+                                "name": "signal-F"
+                            },
+                            "count": 1,
+                            "index": 1
+                        },
+                        {
+                            "signal": {
+                                "type": "virtual",
+                                "name": "signal-H"
+                            },
+                            "count": 1,
+                            "index": 2
+                        }
+                    ]
+                }
+            },
+            {
+                "entity_number": 16,
+                "name": "pipe-to-ground",
+                "position": {
+                    "x": 0.5,
+                    "y": 5.5
+                },
+                "direction": 6
+            },
+            {
+                "entity_number": 17,
+                "name": "pipe-to-ground",
+                "position": {
+                    "x": 1.5,
+                    "y": 5.5
+                },
+                "direction": 2
+            },
+            {
+                "entity_number": 18,
+                "name": "pipe",
+                "position": {
+                    "x": 2.5,
+                    "y": 5.5
+                }
+            },
+            {
+                "entity_number": 19,
+                "name": "storage-tank",
+                "position": {
+                    "x": 6.5,
+                    "y": 5.5
+                },
+                "direction": 2,
+                "connections": {
+                    "1": {
+                        "red": [
+                            {
+                                "entity_id": 9
+                            },
+                            {
+                                "entity_id": 21
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "entity_number": 20,
+                "name": "pipe",
+                "position": {
+                    "x": 2.5,
+                    "y": 6.5
+                }
+            },
+            {
+                "entity_number": 21,
+                "name": "pump",
+                "position": {
+                    "x": 4,
+                    "y": 6.5
+                },
+                "direction": 6,
+                "control_behavior": {
+                    "circuit_condition": {
+                        "first_signal": {
+                            "type": "fluid",
+                            "name": "water"
+                        },
+                        "constant": 20000,
+                        "comparator": ">"
+                    }
+                },
+                "connections": {
+                    "1": {
+                        "red": [
+                            {
+                                "entity_id": 19
+                            }
+                        ]
+                    }
+                }
+            }
+        ],
+        "item": "blueprint",
+        "label": "fluid-buffer",
+        "version": 281479276527617
+    }
+}

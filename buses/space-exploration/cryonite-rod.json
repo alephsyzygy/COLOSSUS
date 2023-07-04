@@ -1,0 +1,381 @@
+{
+    "subfactories": [
+        {
+            "timescale": 60,
+            "Ingredient": {
+                "objects": [
+                    {
+                        "proto": {
+                            "name": "coal"
+                        },
+                        "amount": 7.040417270228788
+                    },
+                    {
+                        "proto": {
+                            "name": "heavy-oil"
+                        },
+                        "amount": 92.30769278382405
+                    },
+                    {
+                        "proto": {
+                            "name": "water"
+                        },
+                        "amount": 312.9074342323906
+                    },
+                    {
+                        "proto": {
+                            "name": "se-cryonite"
+                        },
+                        "amount": 502.74829872113329
+                    }
+                ]
+            },
+            "Byproduct": {
+                "objects": [
+                    {
+                        "proto": {
+                            "name": "sand"
+                        },
+                        "amount": 163.39319708436833
+                    }
+                ]
+            },
+            "Product": {
+                "objects": [
+                    {
+                        "proto": {
+                            "name": "se-cryonite-rod"
+                        },
+                        "amount": 120
+                    }
+                ]
+            },
+            "top_floor": {
+                "Line": {
+                    "objects": [
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "se-cryonite-rod"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "se-cryonite-rod"
+                                        },
+                                        "amount": 119.99999999999996
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "se-cryonite-powder"
+                                        },
+                                        "amount": 184.6153855676481
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "se-cryonite-crystal"
+                                        },
+                                        "amount": 184.6153855676481
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "heavy-oil"
+                                        },
+                                        "amount": 92.30769278382405
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "industrial-furnace"
+                                },
+                                "count": 2.6525198748702878,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "productivity-module-2"
+                                                },
+                                                "amount": 5
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "beacon": {
+                                "proto": {
+                                    "name": "beacon"
+                                },
+                                "amount": 1,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-2"
+                                                },
+                                                "amount": 8
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "se-cryonite-crystal"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "se-cryonite-crystal"
+                                        },
+                                        "amount": 184.61538556764809
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "se-cryonite-powder"
+                                        },
+                                        "amount": 625.8148684647812
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "steam"
+                                        },
+                                        "amount": 938.7223026971717
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "water"
+                                        },
+                                        "amount": 625.8148684647812
+                                    }
+                                ]
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "chemical-plant"
+                                },
+                                "count": 14.223065654796362,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "productivity-module-2"
+                                                },
+                                                "amount": 3
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "se-cryonite-powder"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "se-cryonite-powder"
+                                        },
+                                        "amount": 810.4302540324293
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "se-cryonite"
+                                        },
+                                        "amount": 653.5727883374733
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "sand"
+                                        },
+                                        "amount": 163.39319708436833
+                                    }
+                                ]
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "se-pulveriser"
+                                },
+                                "count": 6.808050284306766,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "productivity-module-2"
+                                                },
+                                                "amount": 4
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "impostor-se-cryonite",
+                                    "custom": true,
+                                    "category": "basic-solid",
+                                    "ingredients": [
+                                        {
+                                            "name": "se-cryonite",
+                                            "type": "entity",
+                                            "amount": 1
+                                        }
+                                    ],
+                                    "products": [
+                                        {
+                                            "name": "se-cryonite",
+                                            "type": "item",
+                                            "amount": 1
+                                        }
+                                    ]
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "se-cryonite"
+                                        },
+                                        "amount": 653.5727883374733
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "se-cryonite"
+                                        },
+                                        "amount": 502.7482987211333
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "electric-mining-drill"
+                                },
+                                "count": 33.51655324807555,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": {}
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "fp-general-steam",
+                                    "custom": true,
+                                    "category": "general-steam",
+                                    "ingredients": [
+                                        {
+                                            "name": "water",
+                                            "type": "fluid",
+                                            "amount": 60
+                                        }
+                                    ],
+                                    "products": [
+                                        {
+                                            "name": "steam",
+                                            "type": "fluid",
+                                            "amount": 60
+                                        }
+                                    ]
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "steam"
+                                        },
+                                        "amount": 938.7223026971718
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "water"
+                                        },
+                                        "amount": 938.7223026971718
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "boiler"
+                                },
+                                "count": 0.26075619519365886,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": {}
+                                    }
+                                },
+                                "fuel": {
+                                    "proto": {
+                                        "name": "coal"
+                                    },
+                                    "amount": 7.040417270228788
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "name": "cryonite-rod"
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "blueprint": {
+        "icons": [
+            {
+                "signal": {
+                    "type": "item",
+                    "name": "rail"
+                },
+                "index": 1
+            }
+        ],
+        "entities": [
+            {
+                "entity_number": 1,
+                "name": "straight-rail",
+                "position": {
+                    "x": 41,
+                    "y": -675
+                }
+            },
+            {
+                "entity_number": 2,
+                "name": "straight-rail",
+                "position": {
+                    "x": 43,
+                    "y": -675
+                },
+                "direction": 2
+            },
+            {
+                "entity_number": 3,
+                "name": "artillery-wagon",
+                "position": {
+                    "x": 46.5,
+                    "y": -675
+                },
+                "orientation": 0.25
+            },
+            {
+                "entity_number": 4,
+                "name": "straight-rail",
+                "position": {
+                    "x": 45,
+                    "y": -675
+                },
+                "direction": 2
+            },
+            {
+                "entity_number": 5,
+                "name": "straight-rail",
+                "position": {
+                    "x": 47,
+                    "y": -675
+                },
+                "direction": 2
+            },
+            {
+                "entity_number": 6,
+                "name": "straight-rail",
+                "position": {
+                    "x": 49,
+                    "y": -675
+                },
+                "direction": 2
+            },
+            {
+                "entity_number": 7,
+                "name": "locomotive",
+                "position": {
+                    "x": 53.5,
+                    "y": -675
+                },
+                "orientation": 0.25,
+                "color": {
+                    "r": 0.41960784792900085,
+                    "g": 0.4156862795352936,
+                    "b": 0.572549045085907,
+                    "a": 0.49803921580314636
+                },
+                "items": {
+                    "solid-fuel": 1
+                }
+            },
+            {
+                "entity_number": 8,
+                "name": "straight-rail",
+                "position": {
+                    "x": 51,
+                    "y": -675
+                },
+                "direction": 2
+            },
+            {
+                "entity_number": 9,
+                "name": "straight-rail",
+                "position": {
+                    "x": 53,
+                    "y": -675
+                },
+                "direction": 2
+            },
+            {
+                "entity_number": 10,
+                "name": "straight-rail",
+                "position": {
+                    "x": 55,
+                    "y": -675
+                },
+                "direction": 2
+            },
+            {
+                "entity_number": 11,
+                "name": "straight-rail",
+                "position": {
+                    "x": 57,
+                    "y": -675
+                },
+                "direction": 2
+            },
+            {
+                "entity_number": 12,
+                "name": "straight-rail",
+                "position": {
+                    "x": 53,
+                    "y": -673
+                },
+                "direction": 2
+            },
+            {
+                "entity_number": 13,
+                "name": "straight-rail",
+                "position": {
+                    "x": 55,
+                    "y": -673
+                },
+                "direction": 2
+            },
+            {
+                "entity_number": 14,
+                "name": "straight-rail",
+                "position": {
+                    "x": 57,
+                    "y": -673
+                },
+                "direction": 2
+            }
+        ],
+        "item": "blueprint",
+        "version": 281479276658688
+    }
+}

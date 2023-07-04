@@ -1,0 +1,8374 @@
+{
+	"steel-chest": {
+		"name": "steel-chest",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"logistic-chest-passive-provider": {
+		"name": "logistic-chest-passive-provider",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"logistic-chest-active-provider": {
+		"name": "logistic-chest-active-provider",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"logistic-chest-storage": {
+		"name": "logistic-chest-storage",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"logistic-chest-buffer": {
+		"name": "logistic-chest-buffer",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"logistic-chest-requester": {
+		"name": "logistic-chest-requester",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"iron-chest": {
+		"name": "iron-chest",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"wooden-chest": {
+		"name": "wooden-chest",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"aai-strongbox": {
+		"name": "aai-strongbox",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"aai-strongbox-passive-provider": {
+		"name": "aai-strongbox-passive-provider",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"aai-strongbox-active-provider": {
+		"name": "aai-strongbox-active-provider",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"aai-strongbox-storage": {
+		"name": "aai-strongbox-storage",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"aai-strongbox-buffer": {
+		"name": "aai-strongbox-buffer",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"aai-strongbox-requester": {
+		"name": "aai-strongbox-requester",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-linked-container": {
+		"name": "se-linked-container",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"aai-storehouse": {
+		"name": "aai-storehouse",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"aai-storehouse-passive-provider": {
+		"name": "aai-storehouse-passive-provider",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"aai-storehouse-active-provider": {
+		"name": "aai-storehouse-active-provider",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"aai-storehouse-storage": {
+		"name": "aai-storehouse-storage",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"aai-storehouse-buffer": {
+		"name": "aai-storehouse-buffer",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"aai-storehouse-requester": {
+		"name": "aai-storehouse-requester",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"aai-warehouse": {
+		"name": "aai-warehouse",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"aai-warehouse-passive-provider": {
+		"name": "aai-warehouse-passive-provider",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"aai-warehouse-active-provider": {
+		"name": "aai-warehouse-active-provider",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"aai-warehouse-storage": {
+		"name": "aai-warehouse-storage",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"aai-warehouse-buffer": {
+		"name": "aai-warehouse-buffer",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"aai-warehouse-requester": {
+		"name": "aai-warehouse-requester",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"loader": {
+		"name": "loader",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"fast-loader": {
+		"name": "fast-loader",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"express-loader": {
+		"name": "express-loader",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"transport-belt": {
+		"name": "transport-belt",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"fast-transport-belt": {
+		"name": "fast-transport-belt",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"express-transport-belt": {
+		"name": "express-transport-belt",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-transport-belt": {
+		"name": "se-space-transport-belt",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-deep-space-transport-belt-black": {
+		"name": "se-deep-space-transport-belt-black",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-deep-space-transport-belt-blue": {
+		"name": "se-deep-space-transport-belt-blue",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-deep-space-transport-belt-cyan": {
+		"name": "se-deep-space-transport-belt-cyan",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-deep-space-transport-belt-green": {
+		"name": "se-deep-space-transport-belt-green",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-deep-space-transport-belt-magenta": {
+		"name": "se-deep-space-transport-belt-magenta",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-deep-space-transport-belt-red": {
+		"name": "se-deep-space-transport-belt-red",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-deep-space-transport-belt-white": {
+		"name": "se-deep-space-transport-belt-white",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-deep-space-transport-belt-yellow": {
+		"name": "se-deep-space-transport-belt-yellow",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"underground-belt": {
+		"name": "underground-belt",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"fast-underground-belt": {
+		"name": "fast-underground-belt",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"express-underground-belt": {
+		"name": "express-underground-belt",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-underground-belt": {
+		"name": "se-space-underground-belt",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-deep-space-underground-belt-black": {
+		"name": "se-deep-space-underground-belt-black",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-deep-space-underground-belt-blue": {
+		"name": "se-deep-space-underground-belt-blue",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-deep-space-underground-belt-cyan": {
+		"name": "se-deep-space-underground-belt-cyan",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-deep-space-underground-belt-green": {
+		"name": "se-deep-space-underground-belt-green",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-deep-space-underground-belt-magenta": {
+		"name": "se-deep-space-underground-belt-magenta",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-deep-space-underground-belt-red": {
+		"name": "se-deep-space-underground-belt-red",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-deep-space-underground-belt-white": {
+		"name": "se-deep-space-underground-belt-white",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-deep-space-underground-belt-yellow": {
+		"name": "se-deep-space-underground-belt-yellow",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"splitter": {
+		"name": "splitter",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"fast-splitter": {
+		"name": "fast-splitter",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"express-splitter": {
+		"name": "express-splitter",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-splitter": {
+		"name": "se-space-splitter",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-deep-space-splitter-black": {
+		"name": "se-deep-space-splitter-black",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-deep-space-splitter-blue": {
+		"name": "se-deep-space-splitter-blue",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-deep-space-splitter-cyan": {
+		"name": "se-deep-space-splitter-cyan",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-deep-space-splitter-green": {
+		"name": "se-deep-space-splitter-green",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-deep-space-splitter-magenta": {
+		"name": "se-deep-space-splitter-magenta",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-deep-space-splitter-red": {
+		"name": "se-deep-space-splitter-red",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-deep-space-splitter-white": {
+		"name": "se-deep-space-splitter-white",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-deep-space-splitter-yellow": {
+		"name": "se-deep-space-splitter-yellow",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"burner-inserter": {
+		"name": "burner-inserter",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"inserter": {
+		"name": "inserter",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"long-handed-inserter": {
+		"name": "long-handed-inserter",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"fast-inserter": {
+		"name": "fast-inserter",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"filter-inserter": {
+		"name": "filter-inserter",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"stack-inserter": {
+		"name": "stack-inserter",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"stack-filter-inserter": {
+		"name": "stack-filter-inserter",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"pipe": {
+		"name": "pipe",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"pipe-to-ground": {
+		"name": "pipe-to-ground",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-pipe": {
+		"name": "se-space-pipe",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-pipe-to-ground": {
+		"name": "se-space-pipe-to-ground",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-pipe-long-j-3": {
+		"name": "se-space-pipe-long-j-3",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-pipe-long-j-5": {
+		"name": "se-space-pipe-long-j-5",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-pipe-long-j-7": {
+		"name": "se-space-pipe-long-j-7",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-pipe-long-s-9": {
+		"name": "se-space-pipe-long-s-9",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-pipe-long-s-15": {
+		"name": "se-space-pipe-long-s-15",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"storage-tank": {
+		"name": "storage-tank",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"pump": {
+		"name": "pump",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"small-electric-pole": {
+		"name": "small-electric-pole",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"small-iron-electric-pole": {
+		"name": "small-iron-electric-pole",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"medium-electric-pole": {
+		"name": "medium-electric-pole",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"big-electric-pole": {
+		"name": "big-electric-pole",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"substation": {
+		"name": "substation",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-addon-power-pole": {
+		"name": "se-addon-power-pole",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-pylon": {
+		"name": "se-pylon",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-pylon-substation": {
+		"name": "se-pylon-substation",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-pylon-construction": {
+		"name": "se-pylon-construction",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-pylon-construction-radar": {
+		"name": "se-pylon-construction-radar",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"rail": {
+		"name": "rail",
+		"type": "rail-planner",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-rail": {
+		"name": "se-space-rail",
+		"type": "rail-planner",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"train-stop": {
+		"name": "train-stop",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"rail-signal": {
+		"name": "rail-signal",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"rail-chain-signal": {
+		"name": "rail-chain-signal",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"locomotive": {
+		"name": "locomotive",
+		"type": "item-with-entity-data",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"cargo-wagon": {
+		"name": "cargo-wagon",
+		"type": "item-with-entity-data",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"fluid-wagon": {
+		"name": "fluid-wagon",
+		"type": "item-with-entity-data",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"artillery-wagon": {
+		"name": "artillery-wagon",
+		"type": "item-with-entity-data",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"car": {
+		"name": "car",
+		"type": "item-with-entity-data",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"tank": {
+		"name": "tank",
+		"type": "item-with-entity-data",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"spidertron": {
+		"name": "spidertron",
+		"type": "item-with-entity-data",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"spidertron-remote": {
+		"name": "spidertron-remote",
+		"type": "spidertron-remote",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"logistic-robot": {
+		"name": "logistic-robot",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"construction-robot": {
+		"name": "construction-robot",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"roboport": {
+		"name": "roboport",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-supercharger": {
+		"name": "se-supercharger",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"small-lamp": {
+		"name": "small-lamp",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"red-wire": {
+		"name": "red-wire",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"green-wire": {
+		"name": "green-wire",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"arithmetic-combinator": {
+		"name": "arithmetic-combinator",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"decider-combinator": {
+		"name": "decider-combinator",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"constant-combinator": {
+		"name": "constant-combinator",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"power-switch": {
+		"name": "power-switch",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"programmable-speaker": {
+		"name": "programmable-speaker",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"aai-signal-sender": {
+		"name": "aai-signal-sender",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"aai-signal-receiver": {
+		"name": "aai-signal-receiver",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-stone-brick": {
+		"name": "se-delivery-cannon-package-stone-brick",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-concrete": {
+		"name": "se-delivery-cannon-package-concrete",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"stone-brick": {
+		"name": "stone-brick",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0,
+		"place_as_tile_result": {
+			"result": "stone-path",
+			"condition_size": 1,
+			"condition": {
+				"layer-17": true,
+				"water-tile": true
+			}
+		}
+	},
+	"concrete": {
+		"name": "concrete",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0,
+		"place_as_tile_result": {
+			"result": "concrete",
+			"condition_size": 1,
+			"condition": {
+				"layer-17": true,
+				"water-tile": true
+			}
+		}
+	},
+	"hazard-concrete": {
+		"name": "hazard-concrete",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0,
+		"place_as_tile_result": {
+			"result": "hazard-concrete-left",
+			"condition_size": 1,
+			"condition": {
+				"layer-17": true,
+				"water-tile": true
+			}
+		}
+	},
+	"refined-concrete": {
+		"name": "refined-concrete",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0,
+		"place_as_tile_result": {
+			"result": "refined-concrete",
+			"condition_size": 1,
+			"condition": {
+				"layer-17": true,
+				"water-tile": true
+			}
+		}
+	},
+	"refined-hazard-concrete": {
+		"name": "refined-hazard-concrete",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0,
+		"place_as_tile_result": {
+			"result": "refined-hazard-concrete-left",
+			"condition_size": 1,
+			"condition": {
+				"layer-17": true,
+				"water-tile": true
+			}
+		}
+	},
+	"landfill": {
+		"name": "landfill",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0,
+		"place_as_tile_result": {
+			"result": "landfill",
+			"condition_size": 1,
+			"condition": {
+				"ground-tile": true,
+				"layer-17": true
+			}
+		}
+	},
+	"se-space-platform-scaffold": {
+		"name": "se-space-platform-scaffold",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0,
+		"place_as_tile_result": {
+			"result": "se-space-platform-scaffold",
+			"condition_size": 1,
+			"condition": {
+				"ground-tile": true,
+				"layer-18": true,
+				"water-tile": true
+			}
+		}
+	},
+	"se-space-platform-plating": {
+		"name": "se-space-platform-plating",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0,
+		"place_as_tile_result": {
+			"result": "se-space-platform-plating",
+			"condition_size": 1,
+			"condition": {
+				"ground-tile": true,
+				"layer-18": true,
+				"water-tile": true
+			}
+		}
+	},
+	"rocket-silo": {
+		"name": "rocket-silo",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"satellite": {
+		"name": "satellite",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-probe-rocket-silo": {
+		"name": "se-space-probe-rocket-silo",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-capsule-targeter": {
+		"name": "se-space-capsule-targeter",
+		"type": "selection-tool",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-rocket-launch-pad": {
+		"name": "se-rocket-launch-pad",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-rocket-landing-pad": {
+		"name": "se-rocket-landing-pad",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-capsule": {
+		"name": "se-space-capsule",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-capsule-scorched": {
+		"name": "se-space-capsule-scorched",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon": {
+		"name": "se-delivery-cannon",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-chest": {
+		"name": "se-delivery-cannon-chest",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-probe-rocket-deployed": {
+		"name": "se-space-probe-rocket-deployed",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-elevator": {
+		"name": "se-space-elevator",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-spaceship-console": {
+		"name": "se-spaceship-console",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-spaceship-console-alt": {
+		"name": "se-spaceship-console-alt",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-spaceship-floor": {
+		"name": "se-spaceship-floor",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0,
+		"place_as_tile_result": {
+			"result": "se-spaceship-floor",
+			"condition_size": 1,
+			"condition": {
+				"layer-13": true,
+				"player-layer": true
+			}
+		}
+	},
+	"se-spaceship-wall": {
+		"name": "se-spaceship-wall",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-spaceship-gate": {
+		"name": "se-spaceship-gate",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-spaceship-rocket-engine": {
+		"name": "se-spaceship-rocket-engine",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-spaceship-rocket-booster-tank": {
+		"name": "se-spaceship-rocket-booster-tank",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-spaceship-ion-engine": {
+		"name": "se-spaceship-ion-engine",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-spaceship-ion-booster-tank": {
+		"name": "se-spaceship-ion-booster-tank",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-spaceship-antimatter-engine": {
+		"name": "se-spaceship-antimatter-engine",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-spaceship-antimatter-booster-tank": {
+		"name": "se-spaceship-antimatter-booster-tank",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-spaceship-clamp": {
+		"name": "se-spaceship-clamp",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-gate-fragment-1": {
+		"name": "se-gate-fragment-1",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-gate-fragment-10": {
+		"name": "se-gate-fragment-10",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-gate-fragment-11": {
+		"name": "se-gate-fragment-11",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-gate-fragment-12": {
+		"name": "se-gate-fragment-12",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-gate-fragment-13": {
+		"name": "se-gate-fragment-13",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-gate-fragment-2": {
+		"name": "se-gate-fragment-2",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-gate-fragment-3": {
+		"name": "se-gate-fragment-3",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-gate-fragment-4": {
+		"name": "se-gate-fragment-4",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-gate-fragment-5": {
+		"name": "se-gate-fragment-5",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-gate-fragment-6": {
+		"name": "se-gate-fragment-6",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-gate-fragment-7": {
+		"name": "se-gate-fragment-7",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-gate-fragment-8": {
+		"name": "se-gate-fragment-8",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-gate-fragment-9": {
+		"name": "se-gate-fragment-9",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"burner-turbine": {
+		"name": "burner-turbine",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-electric-boiler": {
+		"name": "se-electric-boiler",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"boiler": {
+		"name": "boiler",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"steam-engine": {
+		"name": "steam-engine",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-big-heat-exchanger": {
+		"name": "se-big-heat-exchanger",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-big-turbine": {
+		"name": "se-big-turbine",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-antimatter-reactor": {
+		"name": "se-antimatter-reactor",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"nuclear-reactor": {
+		"name": "nuclear-reactor",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"heat-pipe": {
+		"name": "heat-pipe",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-naquium-heat-pipe": {
+		"name": "se-naquium-heat-pipe",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-naquium-heat-pipe-long--+--": {
+		"name": "se-naquium-heat-pipe-long--+--",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-naquium-heat-pipe-long--+-----+--": {
+		"name": "se-naquium-heat-pipe-long--+-----+--",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"heat-exchanger": {
+		"name": "heat-exchanger",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-condenser-turbine": {
+		"name": "se-condenser-turbine",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"steam-turbine": {
+		"name": "steam-turbine",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-fluid-burner-generator": {
+		"name": "se-fluid-burner-generator",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"solar-panel": {
+		"name": "solar-panel",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-solar-panel": {
+		"name": "se-space-solar-panel",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-solar-panel-2": {
+		"name": "se-space-solar-panel-2",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-solar-panel-3": {
+		"name": "se-space-solar-panel-3",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"accumulator": {
+		"name": "accumulator",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-accumulator": {
+		"name": "se-space-accumulator",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-accumulator-2": {
+		"name": "se-space-accumulator-2",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"burner-mining-drill": {
+		"name": "burner-mining-drill",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"electric-mining-drill": {
+		"name": "electric-mining-drill",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"area-mining-drill": {
+		"name": "area-mining-drill",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"offshore-pump": {
+		"name": "offshore-pump",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"pumpjack": {
+		"name": "pumpjack",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-core-miner": {
+		"name": "se-core-miner",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"stone-furnace": {
+		"name": "stone-furnace",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"steel-furnace": {
+		"name": "steel-furnace",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"electric-furnace": {
+		"name": "electric-furnace",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"industrial-furnace": {
+		"name": "industrial-furnace",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-casting-machine": {
+		"name": "se-casting-machine",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-thermodynamics-laboratory": {
+		"name": "se-space-thermodynamics-laboratory",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"equipment-gantry": {
+		"name": "equipment-gantry",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"equipment-gantry-remover": {
+		"name": "equipment-gantry-remover",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-recycling-facility": {
+		"name": "se-recycling-facility",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-mechanical-laboratory": {
+		"name": "se-space-mechanical-laboratory",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-pulveriser": {
+		"name": "se-pulveriser",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"burner-assembling-machine": {
+		"name": "burner-assembling-machine",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"assembling-machine-1": {
+		"name": "assembling-machine-1",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"assembling-machine-2": {
+		"name": "assembling-machine-2",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"assembling-machine-3": {
+		"name": "assembling-machine-3",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-assembling-machine": {
+		"name": "se-space-assembling-machine",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-manufactory": {
+		"name": "se-space-manufactory",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"oil-refinery": {
+		"name": "oil-refinery",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"chemical-plant": {
+		"name": "chemical-plant",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"fuel-processor": {
+		"name": "fuel-processor",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-lifesupport-facility": {
+		"name": "se-lifesupport-facility",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-biochemical-laboratory": {
+		"name": "se-space-biochemical-laboratory",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-decontamination-facility": {
+		"name": "se-space-decontamination-facility",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-genetics-laboratory": {
+		"name": "se-space-genetics-laboratory",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-growth-facility": {
+		"name": "se-space-growth-facility",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-fuel-refinery": {
+		"name": "se-fuel-refinery",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"centrifuge": {
+		"name": "centrifuge",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-radiation-laboratory": {
+		"name": "se-space-radiation-laboratory",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-electromagnetics-laboratory": {
+		"name": "se-space-electromagnetics-laboratory",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-laser-laboratory": {
+		"name": "se-space-laser-laboratory",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-material-fabricator": {
+		"name": "se-space-material-fabricator",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-particle-accelerator": {
+		"name": "se-space-particle-accelerator",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-particle-collider": {
+		"name": "se-space-particle-collider",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-plasma-generator": {
+		"name": "se-space-plasma-generator",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-hypercooler": {
+		"name": "se-space-hypercooler",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-radiator": {
+		"name": "se-space-radiator",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-radiator-2": {
+		"name": "se-space-radiator-2",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-astrometrics-laboratory": {
+		"name": "se-space-astrometrics-laboratory",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-gravimetrics-laboratory": {
+		"name": "se-space-gravimetrics-laboratory",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-nexus": {
+		"name": "se-nexus",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-supercomputer-1": {
+		"name": "se-space-supercomputer-1",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-supercomputer-2": {
+		"name": "se-space-supercomputer-2",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-supercomputer-3": {
+		"name": "se-space-supercomputer-3",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-supercomputer-4": {
+		"name": "se-space-supercomputer-4",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-telescope": {
+		"name": "se-space-telescope",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-telescope-gammaray": {
+		"name": "se-space-telescope-gammaray",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-telescope-microwave": {
+		"name": "se-space-telescope-microwave",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-telescope-radio": {
+		"name": "se-space-telescope-radio",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-telescope-xray": {
+		"name": "se-space-telescope-xray",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"beacon": {
+		"name": "beacon",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-compact-beacon": {
+		"name": "se-compact-beacon",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-compact-beacon-2": {
+		"name": "se-compact-beacon-2",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-wide-beacon": {
+		"name": "se-wide-beacon",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-wide-beacon-2": {
+		"name": "se-wide-beacon-2",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-energy-transmitter-emitter": {
+		"name": "se-energy-transmitter-emitter",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-energy-transmitter-chamber": {
+		"name": "se-energy-transmitter-chamber",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-energy-transmitter-injector": {
+		"name": "se-energy-transmitter-injector",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-energy-transmitter-targeter": {
+		"name": "se-energy-transmitter-targeter",
+		"type": "selection-tool",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-energy-receiver": {
+		"name": "se-energy-receiver",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-dimensional-anchor": {
+		"name": "se-dimensional-anchor",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"burner-lab": {
+		"name": "burner-lab",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"lab": {
+		"name": "lab",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-science-lab": {
+		"name": "se-space-science-lab",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"speed-module": {
+		"name": "speed-module",
+		"category": "speed",
+		"type": "module",
+		"consumption": 0.5,
+		"speed": 0.20000000298023225,
+		"productivity": 0,
+		"pollution": 0.03999999910593033
+	},
+	"speed-module-2": {
+		"name": "speed-module-2",
+		"category": "speed",
+		"type": "module",
+		"consumption": 0.6000000238418579,
+		"speed": 0.30000001192092898,
+		"productivity": 0,
+		"pollution": 0.05999999865889549
+	},
+	"speed-module-3": {
+		"name": "speed-module-3",
+		"category": "speed",
+		"type": "module",
+		"consumption": 0.800000011920929,
+		"speed": 0.4000000059604645,
+		"productivity": 0,
+		"pollution": 0.07999999821186066
+	},
+	"speed-module-4": {
+		"name": "speed-module-4",
+		"category": "speed",
+		"type": "module",
+		"consumption": 1.100000023841858,
+		"speed": 0.5,
+		"productivity": 0,
+		"pollution": 0.10000000149011612
+	},
+	"speed-module-5": {
+		"name": "speed-module-5",
+		"category": "speed",
+		"type": "module",
+		"consumption": 1.5,
+		"speed": 0.6000000238418579,
+		"productivity": 0,
+		"pollution": 0.11999999731779099
+	},
+	"speed-module-6": {
+		"name": "speed-module-6",
+		"category": "speed",
+		"type": "module",
+		"consumption": 2,
+		"speed": 0.699999988079071,
+		"productivity": 0,
+		"pollution": 0.14000000059604646
+	},
+	"speed-module-7": {
+		"name": "speed-module-7",
+		"category": "speed",
+		"type": "module",
+		"consumption": 2.5999999046325685,
+		"speed": 0.800000011920929,
+		"productivity": 0,
+		"pollution": 0.1599999964237213
+	},
+	"speed-module-8": {
+		"name": "speed-module-8",
+		"category": "speed",
+		"type": "module",
+		"consumption": 3.299999952316284,
+		"speed": 0.8999999761581421,
+		"productivity": 0,
+		"pollution": 0.18000000715255738
+	},
+	"speed-module-9": {
+		"name": "speed-module-9",
+		"category": "speed",
+		"type": "module",
+		"consumption": 4,
+		"speed": 1,
+		"productivity": 0,
+		"pollution": 0.20000000298023225
+	},
+	"productivity-module": {
+		"name": "productivity-module",
+		"category": "productivity",
+		"type": "module",
+		"consumption": 0.5,
+		"speed": -0.10000000149011612,
+		"productivity": 0.03999999910593033,
+		"pollution": 0.05000000074505806
+	},
+	"productivity-module-2": {
+		"name": "productivity-module-2",
+		"category": "productivity",
+		"type": "module",
+		"consumption": 0.6000000238418579,
+		"speed": -0.15000000596046449,
+		"productivity": 0.05999999865889549,
+		"pollution": 0.05999999865889549
+	},
+	"productivity-module-3": {
+		"name": "productivity-module-3",
+		"category": "productivity",
+		"type": "module",
+		"consumption": 0.800000011920929,
+		"speed": -0.20000000298023225,
+		"productivity": 0.07999999821186066,
+		"pollution": 0.07999999821186066
+	},
+	"productivity-module-4": {
+		"name": "productivity-module-4",
+		"category": "productivity",
+		"type": "module",
+		"consumption": 1,
+		"speed": -0.25,
+		"productivity": 0.10000000149011612,
+		"pollution": 0.10000000149011612
+	},
+	"productivity-module-5": {
+		"name": "productivity-module-5",
+		"category": "productivity",
+		"type": "module",
+		"consumption": 1.2000000476837159,
+		"speed": -0.30000001192092898,
+		"productivity": 0.11999999731779099,
+		"pollution": 0.11999999731779099
+	},
+	"productivity-module-6": {
+		"name": "productivity-module-6",
+		"category": "productivity",
+		"type": "module",
+		"consumption": 1.399999976158142,
+		"speed": -0.3499999940395355,
+		"productivity": 0.14000000059604646,
+		"pollution": 0.14000000059604646
+	},
+	"productivity-module-7": {
+		"name": "productivity-module-7",
+		"category": "productivity",
+		"type": "module",
+		"consumption": 1.600000023841858,
+		"speed": -0.4000000059604645,
+		"productivity": 0.1599999964237213,
+		"pollution": 0.1599999964237213
+	},
+	"productivity-module-8": {
+		"name": "productivity-module-8",
+		"category": "productivity",
+		"type": "module",
+		"consumption": 1.7999999523162842,
+		"speed": -0.44999998807907107,
+		"productivity": 0.18000000715255738,
+		"pollution": 0.18000000715255738
+	},
+	"productivity-module-9": {
+		"name": "productivity-module-9",
+		"category": "productivity",
+		"type": "module",
+		"consumption": 2,
+		"speed": -0.5,
+		"productivity": 0.20000000298023225,
+		"pollution": 0.20000000298023225
+	},
+	"effectivity-module": {
+		"name": "effectivity-module",
+		"category": "effectivity",
+		"type": "module",
+		"consumption": -0.4000000059604645,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": -0.10000000149011612
+	},
+	"effectivity-module-2": {
+		"name": "effectivity-module-2",
+		"category": "effectivity",
+		"type": "module",
+		"consumption": -0.6000000238418579,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": -0.15000000596046449
+	},
+	"effectivity-module-3": {
+		"name": "effectivity-module-3",
+		"category": "effectivity",
+		"type": "module",
+		"consumption": -1,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": -0.20000000298023225
+	},
+	"effectivity-module-4": {
+		"name": "effectivity-module-4",
+		"category": "effectivity",
+		"type": "module",
+		"consumption": -1.7000000476837159,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": -0.25
+	},
+	"effectivity-module-5": {
+		"name": "effectivity-module-5",
+		"category": "effectivity",
+		"type": "module",
+		"consumption": -2.700000047683716,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": -0.30000001192092898
+	},
+	"effectivity-module-6": {
+		"name": "effectivity-module-6",
+		"category": "effectivity",
+		"type": "module",
+		"consumption": -4,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": -0.3499999940395355
+	},
+	"effectivity-module-7": {
+		"name": "effectivity-module-7",
+		"category": "effectivity",
+		"type": "module",
+		"consumption": -5.599999904632568,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": -0.4000000059604645
+	},
+	"effectivity-module-8": {
+		"name": "effectivity-module-8",
+		"category": "effectivity",
+		"type": "module",
+		"consumption": -7.599999904632568,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": -0.44999998807907107
+	},
+	"effectivity-module-9": {
+		"name": "effectivity-module-9",
+		"category": "effectivity",
+		"type": "module",
+		"consumption": -10,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": -0.5
+	},
+	"se-delivery-cannon-package-se-water-ice": {
+		"name": "se-delivery-cannon-package-se-water-ice",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-water-ice": {
+		"name": "se-water-ice",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"raw-fish": {
+		"name": "raw-fish",
+		"type": "capsule",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-core-fragment-omni": {
+		"name": "se-core-fragment-omni",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-core-fragment-coal": {
+		"name": "se-core-fragment-coal",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"wood": {
+		"name": "wood",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"coal": {
+		"name": "coal",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-methane-ice": {
+		"name": "se-methane-ice",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-se-core-fragment-omni": {
+		"name": "se-delivery-cannon-package-se-core-fragment-omni",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-se-core-fragment-coal": {
+		"name": "se-delivery-cannon-package-se-core-fragment-coal",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-wood": {
+		"name": "se-delivery-cannon-package-wood",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-coal": {
+		"name": "se-delivery-cannon-package-coal",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-se-methane-ice": {
+		"name": "se-delivery-cannon-package-se-methane-ice",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-plastic-bar": {
+		"name": "se-delivery-cannon-package-plastic-bar",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-sulfur": {
+		"name": "se-delivery-cannon-package-sulfur",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-explosives": {
+		"name": "se-delivery-cannon-package-explosives",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"plastic-bar": {
+		"name": "plastic-bar",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"sulfur": {
+		"name": "sulfur",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"explosives": {
+		"name": "explosives",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-core-fragment-crude-oil": {
+		"name": "se-core-fragment-crude-oil",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-se-core-fragment-crude-oil": {
+		"name": "se-delivery-cannon-package-se-core-fragment-crude-oil",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"processed-fuel": {
+		"name": "processed-fuel",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"solid-fuel": {
+		"name": "solid-fuel",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"rocket-fuel": {
+		"name": "rocket-fuel",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-processed-fuel": {
+		"name": "se-delivery-cannon-package-processed-fuel",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-solid-fuel": {
+		"name": "se-delivery-cannon-package-solid-fuel",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-rocket-fuel": {
+		"name": "se-delivery-cannon-package-rocket-fuel",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"nuclear-fuel": {
+		"name": "nuclear-fuel",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-core-fragment-stone": {
+		"name": "se-core-fragment-stone",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"stone": {
+		"name": "stone",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0,
+		"place_as_tile_result": {
+			"result": "rough-stone-path",
+			"condition_size": 1,
+			"condition": {
+				"layer-17": true,
+				"water-tile": true
+			}
+		}
+	},
+	"sand": {
+		"name": "sand",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"glass": {
+		"name": "glass",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"stone-tablet": {
+		"name": "stone-tablet",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-se-core-fragment-stone": {
+		"name": "se-delivery-cannon-package-se-core-fragment-stone",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-stone": {
+		"name": "se-delivery-cannon-package-stone",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-sand": {
+		"name": "se-delivery-cannon-package-sand",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-glass": {
+		"name": "se-delivery-cannon-package-glass",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-se-heat-shielding": {
+		"name": "se-delivery-cannon-package-se-heat-shielding",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-heat-shielding": {
+		"name": "se-heat-shielding",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-core-fragment-iron-ore": {
+		"name": "se-core-fragment-iron-ore",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"iron-ore": {
+		"name": "iron-ore",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-iron-ingot": {
+		"name": "se-iron-ingot",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"iron-plate": {
+		"name": "iron-plate",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-steel-ingot": {
+		"name": "se-steel-ingot",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"steel-plate": {
+		"name": "steel-plate",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-se-core-fragment-iron-ore": {
+		"name": "se-delivery-cannon-package-se-core-fragment-iron-ore",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-iron-ore": {
+		"name": "se-delivery-cannon-package-iron-ore",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-se-iron-ingot": {
+		"name": "se-delivery-cannon-package-se-iron-ingot",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-iron-plate": {
+		"name": "se-delivery-cannon-package-iron-plate",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-se-steel-ingot": {
+		"name": "se-delivery-cannon-package-se-steel-ingot",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-steel-plate": {
+		"name": "se-delivery-cannon-package-steel-plate",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-core-fragment-copper-ore": {
+		"name": "se-core-fragment-copper-ore",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"copper-ore": {
+		"name": "copper-ore",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-copper-ingot": {
+		"name": "se-copper-ingot",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"copper-plate": {
+		"name": "copper-plate",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-se-core-fragment-copper-ore": {
+		"name": "se-delivery-cannon-package-se-core-fragment-copper-ore",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-copper-ore": {
+		"name": "se-delivery-cannon-package-copper-ore",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-se-copper-ingot": {
+		"name": "se-delivery-cannon-package-se-copper-ingot",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-copper-plate": {
+		"name": "se-delivery-cannon-package-copper-plate",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-core-fragment-uranium-ore": {
+		"name": "se-core-fragment-uranium-ore",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"uranium-ore": {
+		"name": "uranium-ore",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"uranium-238": {
+		"name": "uranium-238",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"uranium-235": {
+		"name": "uranium-235",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-se-core-fragment-uranium-ore": {
+		"name": "se-delivery-cannon-package-se-core-fragment-uranium-ore",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-uranium-ore": {
+		"name": "se-delivery-cannon-package-uranium-ore",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-uranium-238": {
+		"name": "se-delivery-cannon-package-uranium-238",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-uranium-235": {
+		"name": "se-delivery-cannon-package-uranium-235",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"uranium-fuel-cell": {
+		"name": "uranium-fuel-cell",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"used-up-uranium-fuel-cell": {
+		"name": "used-up-uranium-fuel-cell",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-core-fragment-se-vulcanite": {
+		"name": "se-core-fragment-se-vulcanite",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-vulcanite": {
+		"name": "se-vulcanite",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-vulcanite-crushed": {
+		"name": "se-vulcanite-crushed",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-vulcanite-enriched": {
+		"name": "se-vulcanite-enriched",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-se-core-fragment-se-vulcanite": {
+		"name": "se-delivery-cannon-package-se-core-fragment-se-vulcanite",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-se-vulcanite": {
+		"name": "se-delivery-cannon-package-se-vulcanite",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-se-vulcanite-crushed": {
+		"name": "se-delivery-cannon-package-se-vulcanite-crushed",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-se-vulcanite-enriched": {
+		"name": "se-delivery-cannon-package-se-vulcanite-enriched",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-se-vulcanite-block": {
+		"name": "se-delivery-cannon-package-se-vulcanite-block",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-se-vulcanite-ion-exchange-beads": {
+		"name": "se-delivery-cannon-package-se-vulcanite-ion-exchange-beads",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-vulcanite-block": {
+		"name": "se-vulcanite-block",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-vulcanite-ion-exchange-beads": {
+		"name": "se-vulcanite-ion-exchange-beads",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-core-fragment-se-cryonite": {
+		"name": "se-core-fragment-se-cryonite",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-cryonite": {
+		"name": "se-cryonite",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-cryonite-powder": {
+		"name": "se-cryonite-powder",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-cryonite-crystal": {
+		"name": "se-cryonite-crystal",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-se-core-fragment-se-cryonite": {
+		"name": "se-delivery-cannon-package-se-core-fragment-se-cryonite",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-se-cryonite": {
+		"name": "se-delivery-cannon-package-se-cryonite",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-se-cryonite-powder": {
+		"name": "se-delivery-cannon-package-se-cryonite-powder",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-se-cryonite-rod": {
+		"name": "se-delivery-cannon-package-se-cryonite-rod",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-se-cryonite-ion-exchange-beads": {
+		"name": "se-delivery-cannon-package-se-cryonite-ion-exchange-beads",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-cryonite-rod": {
+		"name": "se-cryonite-rod",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-cryonite-ion-exchange-beads": {
+		"name": "se-cryonite-ion-exchange-beads",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-core-fragment-se-beryllium-ore": {
+		"name": "se-core-fragment-se-beryllium-ore",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-beryllium-ore": {
+		"name": "se-beryllium-ore",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-beryllium-sulfate": {
+		"name": "se-beryllium-sulfate",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-beryllium-powder": {
+		"name": "se-beryllium-powder",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-se-core-fragment-se-beryllium-ore": {
+		"name": "se-delivery-cannon-package-se-core-fragment-se-beryllium-ore",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-se-beryllium-ore": {
+		"name": "se-delivery-cannon-package-se-beryllium-ore",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-se-beryllium-sulfate": {
+		"name": "se-delivery-cannon-package-se-beryllium-sulfate",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-se-beryllium-powder": {
+		"name": "se-delivery-cannon-package-se-beryllium-powder",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-se-beryllium-ingot": {
+		"name": "se-delivery-cannon-package-se-beryllium-ingot",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-beryllium-ingot": {
+		"name": "se-beryllium-ingot",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-beryllium-plate": {
+		"name": "se-beryllium-plate",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-core-fragment-se-holmium-ore": {
+		"name": "se-core-fragment-se-holmium-ore",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-holmium-ore": {
+		"name": "se-holmium-ore",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-holmium-ore-crushed": {
+		"name": "se-holmium-ore-crushed",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-holmium-chloride": {
+		"name": "se-holmium-chloride",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-se-core-fragment-se-holmium-ore": {
+		"name": "se-delivery-cannon-package-se-core-fragment-se-holmium-ore",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-se-holmium-ore": {
+		"name": "se-delivery-cannon-package-se-holmium-ore",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-se-holmium-ore-crushed": {
+		"name": "se-delivery-cannon-package-se-holmium-ore-crushed",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-se-holmium-chloride": {
+		"name": "se-delivery-cannon-package-se-holmium-chloride",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-se-holmium-ingot": {
+		"name": "se-delivery-cannon-package-se-holmium-ingot",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-holmium-powder": {
+		"name": "se-holmium-powder",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-holmium-ingot": {
+		"name": "se-holmium-ingot",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-holmium-plate": {
+		"name": "se-holmium-plate",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-core-fragment-se-iridium-ore": {
+		"name": "se-core-fragment-se-iridium-ore",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-iridium-ore": {
+		"name": "se-iridium-ore",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-iridium-ore-crushed": {
+		"name": "se-iridium-ore-crushed",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-iridium-powder": {
+		"name": "se-iridium-powder",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-se-core-fragment-se-iridium-ore": {
+		"name": "se-delivery-cannon-package-se-core-fragment-se-iridium-ore",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-se-iridium-ore": {
+		"name": "se-delivery-cannon-package-se-iridium-ore",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-se-iridium-ore-crushed": {
+		"name": "se-delivery-cannon-package-se-iridium-ore-crushed",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-se-iridium-blastcake": {
+		"name": "se-delivery-cannon-package-se-iridium-blastcake",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-se-iridium-ingot": {
+		"name": "se-delivery-cannon-package-se-iridium-ingot",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-iridium-blastcake": {
+		"name": "se-iridium-blastcake",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-iridium-ingot": {
+		"name": "se-iridium-ingot",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-iridium-plate": {
+		"name": "se-iridium-plate",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-core-fragment-se-vitamelange": {
+		"name": "se-core-fragment-se-vitamelange",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-vitamelange": {
+		"name": "se-vitamelange",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-vitamelange-nugget": {
+		"name": "se-vitamelange-nugget",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-vitamelange-bloom": {
+		"name": "se-vitamelange-bloom",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-se-core-fragment-se-vitamelange": {
+		"name": "se-delivery-cannon-package-se-core-fragment-se-vitamelange",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-se-vitamelange": {
+		"name": "se-delivery-cannon-package-se-vitamelange",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-se-vitamelange-nugget": {
+		"name": "se-delivery-cannon-package-se-vitamelange-nugget",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-se-vitamelange-bloom": {
+		"name": "se-delivery-cannon-package-se-vitamelange-bloom",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-se-vitamelange-spice": {
+		"name": "se-delivery-cannon-package-se-vitamelange-spice",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-vitamelange-spice": {
+		"name": "se-vitamelange-spice",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-vitamelange-extract": {
+		"name": "se-vitamelange-extract",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-vitalic-reagent": {
+		"name": "se-vitalic-reagent",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-vitalic-epoxy": {
+		"name": "se-vitalic-epoxy",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-self-sealing-gel": {
+		"name": "se-self-sealing-gel",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-naquium-ore": {
+		"name": "se-naquium-ore",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-naquium-ore-crushed": {
+		"name": "se-naquium-ore-crushed",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-naquium-refined": {
+		"name": "se-naquium-refined",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-se-naquium-ore": {
+		"name": "se-delivery-cannon-package-se-naquium-ore",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-se-naquium-ore-crushed": {
+		"name": "se-delivery-cannon-package-se-naquium-ore-crushed",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-se-naquium-refined": {
+		"name": "se-delivery-cannon-package-se-naquium-refined",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-se-naquium-ingot": {
+		"name": "se-delivery-cannon-package-se-naquium-ingot",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-naquium-crystal": {
+		"name": "se-naquium-crystal",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-naquium-powder": {
+		"name": "se-naquium-powder",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-naquium-ingot": {
+		"name": "se-naquium-ingot",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-naquium-plate": {
+		"name": "se-naquium-plate",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"iron-stick": {
+		"name": "iron-stick",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"iron-gear-wheel": {
+		"name": "iron-gear-wheel",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"empty-barrel": {
+		"name": "empty-barrel",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"motor": {
+		"name": "motor",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"engine-unit": {
+		"name": "engine-unit",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"electric-motor": {
+		"name": "electric-motor",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"electric-engine-unit": {
+		"name": "electric-engine-unit",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"flying-robot-frame": {
+		"name": "flying-robot-frame",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"copper-cable": {
+		"name": "copper-cable",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-holmium-cable": {
+		"name": "se-holmium-cable",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-superconductive-cable": {
+		"name": "se-superconductive-cable",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-holmium-solenoid": {
+		"name": "se-holmium-solenoid",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-dynamic-emitter": {
+		"name": "se-dynamic-emitter",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"battery": {
+		"name": "battery",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"electronic-circuit": {
+		"name": "electronic-circuit",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"advanced-circuit": {
+		"name": "advanced-circuit",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"processing-unit": {
+		"name": "processing-unit",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-quantum-processor": {
+		"name": "se-quantum-processor",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-naquium-processor": {
+		"name": "se-naquium-processor",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"low-density-structure": {
+		"name": "low-density-structure",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-low-density-structure": {
+		"name": "se-delivery-cannon-package-low-density-structure",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-mirror": {
+		"name": "se-space-mirror",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-gammaray-detector": {
+		"name": "se-gammaray-detector",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-material-testing-pack": {
+		"name": "se-material-testing-pack",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-nanomaterial": {
+		"name": "se-nanomaterial",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-naquium-cube": {
+		"name": "se-naquium-cube",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-naquium-tessaract": {
+		"name": "se-naquium-tessaract",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-heavy-girder": {
+		"name": "se-heavy-girder",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-heavy-bearing": {
+		"name": "se-heavy-bearing",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-heavy-composite": {
+		"name": "se-heavy-composite",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-heavy-assembly": {
+		"name": "se-heavy-assembly",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-aeroframe-pole": {
+		"name": "se-aeroframe-pole",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-aeroframe-scaffold": {
+		"name": "se-aeroframe-scaffold",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-aeroframe-bulkhead": {
+		"name": "se-aeroframe-bulkhead",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-lattice-pressure-vessel": {
+		"name": "se-lattice-pressure-vessel",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-bioscrubber": {
+		"name": "se-bioscrubber",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"rocket-control-unit": {
+		"name": "rocket-control-unit",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-cargo-rocket-cargo-pod": {
+		"name": "se-cargo-rocket-cargo-pod",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-cargo-rocket-fuel-tank": {
+		"name": "se-cargo-rocket-fuel-tank",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-cargo-rocket-section": {
+		"name": "se-cargo-rocket-section",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-cargo-rocket-section-packed": {
+		"name": "se-cargo-rocket-section-packed",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-rocket-launch-pad-silo-dummy-ingredient-item": {
+		"name": "se-rocket-launch-pad-silo-dummy-ingredient-item",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-rocket-launch-pad-silo-dummy-result-item": {
+		"name": "se-rocket-launch-pad-silo-dummy-result-item",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-se-space-elevator-cable": {
+		"name": "se-delivery-cannon-package-se-space-elevator-cable",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-probe-rocket": {
+		"name": "se-space-probe-rocket",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-capsule": {
+		"name": "se-delivery-cannon-capsule",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-elevator-cable": {
+		"name": "se-space-elevator-cable",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-canister": {
+		"name": "se-canister",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-magnetic-canister": {
+		"name": "se-magnetic-canister",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-empty-lifesupport-canister": {
+		"name": "se-empty-lifesupport-canister",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-lifesupport-canister": {
+		"name": "se-lifesupport-canister",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-used-lifesupport-canister": {
+		"name": "se-used-lifesupport-canister",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-plasma-canister": {
+		"name": "se-plasma-canister",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-ion-canister": {
+		"name": "se-ion-canister",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-antimatter-canister": {
+		"name": "se-antimatter-canister",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-observation-frame-blank": {
+		"name": "se-observation-frame-blank",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-observation-frame-radio": {
+		"name": "se-observation-frame-radio",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-observation-frame-microwave": {
+		"name": "se-observation-frame-microwave",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-observation-frame-infrared": {
+		"name": "se-observation-frame-infrared",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-observation-frame-visible": {
+		"name": "se-observation-frame-visible",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-observation-frame-uv": {
+		"name": "se-observation-frame-uv",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-observation-frame-xray": {
+		"name": "se-observation-frame-xray",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-observation-frame-gammaray": {
+		"name": "se-observation-frame-gammaray",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-nutrient-vat": {
+		"name": "se-nutrient-vat",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-bioculture": {
+		"name": "se-bioculture",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-experimental-bioculture": {
+		"name": "se-experimental-bioculture",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-specimen": {
+		"name": "se-specimen",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-experimental-specimen": {
+		"name": "se-experimental-specimen",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-significant-specimen": {
+		"name": "se-significant-specimen",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-arcosphere-collector": {
+		"name": "se-arcosphere-collector",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-arcosphere": {
+		"name": "se-arcosphere",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-arcosphere-a": {
+		"name": "se-arcosphere-a",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-arcosphere-b": {
+		"name": "se-arcosphere-b",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-arcosphere-c": {
+		"name": "se-arcosphere-c",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-arcosphere-d": {
+		"name": "se-arcosphere-d",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-arcosphere-e": {
+		"name": "se-arcosphere-e",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-arcosphere-f": {
+		"name": "se-arcosphere-f",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-arcosphere-g": {
+		"name": "se-arcosphere-g",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-arcosphere-h": {
+		"name": "se-arcosphere-h",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-se-scrap": {
+		"name": "se-delivery-cannon-package-se-scrap",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-se-contaminated-scrap": {
+		"name": "se-delivery-cannon-package-se-contaminated-scrap",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-scrap": {
+		"name": "se-scrap",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-contaminated-scrap": {
+		"name": "se-contaminated-scrap",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"crude-oil-barrel": {
+		"name": "crude-oil-barrel",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"heavy-oil-barrel": {
+		"name": "heavy-oil-barrel",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"light-oil-barrel": {
+		"name": "light-oil-barrel",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"lubricant-barrel": {
+		"name": "lubricant-barrel",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"petroleum-gas-barrel": {
+		"name": "petroleum-gas-barrel",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-beryllium-hydroxide-barrel": {
+		"name": "se-beryllium-hydroxide-barrel",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-bio-sludge-barrel": {
+		"name": "se-bio-sludge-barrel",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-chemical-gel-barrel": {
+		"name": "se-chemical-gel-barrel",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-contaminated-bio-sludge-barrel": {
+		"name": "se-contaminated-bio-sludge-barrel",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-contaminated-space-water-barrel": {
+		"name": "se-contaminated-space-water-barrel",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-cryonite-slush-barrel": {
+		"name": "se-cryonite-slush-barrel",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-liquid-rocket-fuel-barrel": {
+		"name": "se-liquid-rocket-fuel-barrel",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-methane-gas-barrel": {
+		"name": "se-methane-gas-barrel",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-neural-gel-2-barrel": {
+		"name": "se-neural-gel-2-barrel",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-neural-gel-barrel": {
+		"name": "se-neural-gel-barrel",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-nutrient-gel-barrel": {
+		"name": "se-nutrient-gel-barrel",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-pyroflux-barrel": {
+		"name": "se-pyroflux-barrel",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-coolant-hot-barrel": {
+		"name": "se-space-coolant-hot-barrel",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-water-barrel": {
+		"name": "se-space-water-barrel",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-vitalic-acid-barrel": {
+		"name": "se-vitalic-acid-barrel",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"sulfuric-acid-barrel": {
+		"name": "sulfuric-acid-barrel",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"water-barrel": {
+		"name": "water-barrel",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-crude-oil-barrel": {
+		"name": "se-delivery-cannon-package-crude-oil-barrel",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-heavy-oil-barrel": {
+		"name": "se-delivery-cannon-package-heavy-oil-barrel",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-light-oil-barrel": {
+		"name": "se-delivery-cannon-package-light-oil-barrel",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-lubricant-barrel": {
+		"name": "se-delivery-cannon-package-lubricant-barrel",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-petroleum-gas-barrel": {
+		"name": "se-delivery-cannon-package-petroleum-gas-barrel",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-se-beryllium-hydroxide-barrel": {
+		"name": "se-delivery-cannon-package-se-beryllium-hydroxide-barrel",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-se-cryonite-slush-barrel": {
+		"name": "se-delivery-cannon-package-se-cryonite-slush-barrel",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-se-pyroflux-barrel": {
+		"name": "se-delivery-cannon-package-se-pyroflux-barrel",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-sulfuric-acid-barrel": {
+		"name": "se-delivery-cannon-package-sulfuric-acid-barrel",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-package-water-barrel": {
+		"name": "se-delivery-cannon-package-water-barrel",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"rocket-part": {
+		"name": "rocket-part",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"automation-science-pack": {
+		"name": "automation-science-pack",
+		"type": "tool",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"logistic-science-pack": {
+		"name": "logistic-science-pack",
+		"type": "tool",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"military-science-pack": {
+		"name": "military-science-pack",
+		"type": "tool",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"chemical-science-pack": {
+		"name": "chemical-science-pack",
+		"type": "tool",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-rocket-science-pack": {
+		"name": "se-rocket-science-pack",
+		"type": "tool",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"space-science-pack": {
+		"name": "space-science-pack",
+		"type": "tool",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"utility-science-pack": {
+		"name": "utility-science-pack",
+		"type": "tool",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"production-science-pack": {
+		"name": "production-science-pack",
+		"type": "tool",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"coin": {
+		"name": "coin",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-junk-data": {
+		"name": "se-junk-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-broken-data": {
+		"name": "se-broken-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-empty-data": {
+		"name": "se-empty-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-machine-learning-data": {
+		"name": "se-machine-learning-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-satellite-telemetry": {
+		"name": "se-satellite-telemetry",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-data-storage-substrate": {
+		"name": "se-data-storage-substrate",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-data-storage-substrate-cleaned": {
+		"name": "se-data-storage-substrate-cleaned",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-significant-data": {
+		"name": "se-significant-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-astronomic-catalogue-1": {
+		"name": "se-astronomic-catalogue-1",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-astronomic-catalogue-2": {
+		"name": "se-astronomic-catalogue-2",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-astronomic-catalogue-3": {
+		"name": "se-astronomic-catalogue-3",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-astronomic-catalogue-4": {
+		"name": "se-astronomic-catalogue-4",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-astronomic-insight": {
+		"name": "se-astronomic-insight",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-infrared-observation-data": {
+		"name": "se-infrared-observation-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-visible-observation-data": {
+		"name": "se-visible-observation-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-uv-observation-data": {
+		"name": "se-uv-observation-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-astrometric-data": {
+		"name": "se-astrometric-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-microwave-observation-data": {
+		"name": "se-microwave-observation-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-xray-observation-data": {
+		"name": "se-xray-observation-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-gravitational-lensing-data": {
+		"name": "se-gravitational-lensing-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-gravity-wave-data": {
+		"name": "se-gravity-wave-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-radio-observation-data": {
+		"name": "se-radio-observation-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-gammaray-observation-data": {
+		"name": "se-gammaray-observation-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-darkmatter-data": {
+		"name": "se-darkmatter-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-negative-pressure-data": {
+		"name": "se-negative-pressure-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-dark-energy-data": {
+		"name": "se-dark-energy-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-micro-black-hole-data": {
+		"name": "se-micro-black-hole-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-zero-point-energy-data": {
+		"name": "se-zero-point-energy-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-belt-probe": {
+		"name": "se-belt-probe",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-belt-probe-data": {
+		"name": "se-belt-probe-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-astronomic-science-pack-1": {
+		"name": "se-astronomic-science-pack-1",
+		"type": "tool",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-astronomic-science-pack-2": {
+		"name": "se-astronomic-science-pack-2",
+		"type": "tool",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-astronomic-science-pack-3": {
+		"name": "se-astronomic-science-pack-3",
+		"type": "tool",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-astronomic-science-pack-4": {
+		"name": "se-astronomic-science-pack-4",
+		"type": "tool",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-biological-catalogue-1": {
+		"name": "se-biological-catalogue-1",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-biological-catalogue-2": {
+		"name": "se-biological-catalogue-2",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-biological-catalogue-3": {
+		"name": "se-biological-catalogue-3",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-biological-catalogue-4": {
+		"name": "se-biological-catalogue-4",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-biological-insight": {
+		"name": "se-biological-insight",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-bio-combustion-data": {
+		"name": "se-bio-combustion-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-biomechanical-data": {
+		"name": "se-biomechanical-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-biochemical-data": {
+		"name": "se-biochemical-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-genetic-data": {
+		"name": "se-genetic-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-bio-combustion-resistance-data": {
+		"name": "se-bio-combustion-resistance-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-experimental-genetic-data": {
+		"name": "se-experimental-genetic-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-biochemical-resistance-data": {
+		"name": "se-biochemical-resistance-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-biomechanical-resistance-data": {
+		"name": "se-biomechanical-resistance-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-bioelectrics-data": {
+		"name": "se-bioelectrics-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-cryogenics-data": {
+		"name": "se-cryogenics-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-decompression-data": {
+		"name": "se-decompression-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-radiation-exposure-data": {
+		"name": "se-radiation-exposure-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-comparative-genetic-data": {
+		"name": "se-comparative-genetic-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-decompression-resistance-data": {
+		"name": "se-decompression-resistance-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-neural-anomaly-data": {
+		"name": "se-neural-anomaly-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-radiation-exposure-resistance-data": {
+		"name": "se-radiation-exposure-resistance-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-biological-science-pack-1": {
+		"name": "se-biological-science-pack-1",
+		"type": "tool",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-biological-science-pack-2": {
+		"name": "se-biological-science-pack-2",
+		"type": "tool",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-biological-science-pack-3": {
+		"name": "se-biological-science-pack-3",
+		"type": "tool",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-biological-science-pack-4": {
+		"name": "se-biological-science-pack-4",
+		"type": "tool",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-energy-catalogue-1": {
+		"name": "se-energy-catalogue-1",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-energy-catalogue-2": {
+		"name": "se-energy-catalogue-2",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-energy-catalogue-3": {
+		"name": "se-energy-catalogue-3",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-energy-catalogue-4": {
+		"name": "se-energy-catalogue-4",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-energy-insight": {
+		"name": "se-energy-insight",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-conductivity-data": {
+		"name": "se-conductivity-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-electromagnetic-field-data": {
+		"name": "se-electromagnetic-field-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-polarisation-data": {
+		"name": "se-polarisation-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-radiation-data": {
+		"name": "se-radiation-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-quantum-phenomenon-data": {
+		"name": "se-quantum-phenomenon-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-atomic-data": {
+		"name": "se-atomic-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-subatomic-data": {
+		"name": "se-subatomic-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-forcefield-data": {
+		"name": "se-forcefield-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-superconductivity-data": {
+		"name": "se-superconductivity-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-quark-data": {
+		"name": "se-quark-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-entanglement-data": {
+		"name": "se-entanglement-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-lepton-data": {
+		"name": "se-lepton-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-boson-data": {
+		"name": "se-boson-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-fusion-test-data": {
+		"name": "se-fusion-test-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-magnetic-monopole-data": {
+		"name": "se-magnetic-monopole-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-star-probe": {
+		"name": "se-star-probe",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-star-probe-data": {
+		"name": "se-star-probe-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-energy-science-pack-1": {
+		"name": "se-energy-science-pack-1",
+		"type": "tool",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-energy-science-pack-2": {
+		"name": "se-energy-science-pack-2",
+		"type": "tool",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-energy-science-pack-3": {
+		"name": "se-energy-science-pack-3",
+		"type": "tool",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-energy-science-pack-4": {
+		"name": "se-energy-science-pack-4",
+		"type": "tool",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-material-catalogue-1": {
+		"name": "se-material-catalogue-1",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-material-catalogue-2": {
+		"name": "se-material-catalogue-2",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-material-catalogue-3": {
+		"name": "se-material-catalogue-3",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-material-catalogue-4": {
+		"name": "se-material-catalogue-4",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-material-insight": {
+		"name": "se-material-insight",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-cold-thermodynamics-data": {
+		"name": "se-cold-thermodynamics-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-hot-thermodynamics-data": {
+		"name": "se-hot-thermodynamics-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-tensile-strength-data": {
+		"name": "se-tensile-strength-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-compressive-strength-data": {
+		"name": "se-compressive-strength-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-rigidity-data": {
+		"name": "se-rigidity-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-pressure-containment-data": {
+		"name": "se-pressure-containment-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-corrosion-resistance-data": {
+		"name": "se-corrosion-resistance-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-impact-shielding-data": {
+		"name": "se-impact-shielding-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-friction-data": {
+		"name": "se-friction-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-ballistic-shielding-data": {
+		"name": "se-ballistic-shielding-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-radiation-shielding-data": {
+		"name": "se-radiation-shielding-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-explosion-shielding-data": {
+		"name": "se-explosion-shielding-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-electrical-shielding-data": {
+		"name": "se-electrical-shielding-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-laser-shielding-data": {
+		"name": "se-laser-shielding-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-particle-beam-shielding-data": {
+		"name": "se-particle-beam-shielding-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-experimental-alloys-data": {
+		"name": "se-experimental-alloys-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-material-science-pack-1": {
+		"name": "se-material-science-pack-1",
+		"type": "tool",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-material-science-pack-2": {
+		"name": "se-material-science-pack-2",
+		"type": "tool",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-material-science-pack-3": {
+		"name": "se-material-science-pack-3",
+		"type": "tool",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-material-science-pack-4": {
+		"name": "se-material-science-pack-4",
+		"type": "tool",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-deep-catalogue-1": {
+		"name": "se-deep-catalogue-1",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-deep-catalogue-2": {
+		"name": "se-deep-catalogue-2",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-deep-catalogue-3": {
+		"name": "se-deep-catalogue-3",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-deep-catalogue-4": {
+		"name": "se-deep-catalogue-4",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-nano-engineering-data": {
+		"name": "se-nano-engineering-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-naquium-energy-data": {
+		"name": "se-naquium-energy-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-naquium-structural-data": {
+		"name": "se-naquium-structural-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-void-probe-data": {
+		"name": "se-void-probe-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-void-probe": {
+		"name": "se-void-probe",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-annihilation-data": {
+		"name": "se-annihilation-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-hyperlattice-data": {
+		"name": "se-hyperlattice-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-singularity-data": {
+		"name": "se-singularity-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-timespace-anomaly-data": {
+		"name": "se-timespace-anomaly-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-dilation-data": {
+		"name": "se-space-dilation-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-fold-data": {
+		"name": "se-space-fold-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-injection-data": {
+		"name": "se-space-injection-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-space-warp-data": {
+		"name": "se-space-warp-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-interstellar-data": {
+		"name": "se-interstellar-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-rhga-data": {
+		"name": "se-rhga-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-teleportation-data": {
+		"name": "se-teleportation-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-wormhole-data": {
+		"name": "se-wormhole-data",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-deep-space-science-pack-1": {
+		"name": "se-deep-space-science-pack-1",
+		"type": "tool",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-deep-space-science-pack-2": {
+		"name": "se-deep-space-science-pack-2",
+		"type": "tool",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-deep-space-science-pack-3": {
+		"name": "se-deep-space-science-pack-3",
+		"type": "tool",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-deep-space-science-pack-4": {
+		"name": "se-deep-space-science-pack-4",
+		"type": "tool",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"dummy-steel-axe": {
+		"name": "dummy-steel-axe",
+		"type": "mining-tool",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-medpack": {
+		"name": "se-medpack",
+		"type": "capsule",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-medpack-2": {
+		"name": "se-medpack-2",
+		"type": "capsule",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-medpack-3": {
+		"name": "se-medpack-3",
+		"type": "capsule",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-medpack-4": {
+		"name": "se-medpack-4",
+		"type": "capsule",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"repair-pack": {
+		"name": "repair-pack",
+		"type": "repair-tool",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"blueprint": {
+		"name": "blueprint",
+		"type": "blueprint",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"deconstruction-planner": {
+		"name": "deconstruction-planner",
+		"type": "deconstruction-item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"upgrade-planner": {
+		"name": "upgrade-planner",
+		"type": "upgrade-item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"blueprint-book": {
+		"name": "blueprint-book",
+		"type": "blueprint-book",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"well-planner": {
+		"name": "well-planner",
+		"type": "selection-tool",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-targeter": {
+		"name": "se-delivery-cannon-targeter",
+		"type": "selection-tool",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-train-gui-targeter": {
+		"name": "se-train-gui-targeter",
+		"type": "selection-tool",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"copy-paste-tool": {
+		"name": "copy-paste-tool",
+		"type": "copy-paste-tool",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"cut-paste-tool": {
+		"name": "cut-paste-tool",
+		"type": "copy-paste-tool",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"fp_cursor_blueprint": {
+		"name": "fp_cursor_blueprint",
+		"type": "blueprint",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"pistol": {
+		"name": "pistol",
+		"type": "gun",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"submachine-gun": {
+		"name": "submachine-gun",
+		"type": "gun",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"tank-machine-gun": {
+		"name": "tank-machine-gun",
+		"type": "gun",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"vehicle-machine-gun": {
+		"name": "vehicle-machine-gun",
+		"type": "gun",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"tank-flamethrower": {
+		"name": "tank-flamethrower",
+		"type": "gun",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"shotgun": {
+		"name": "shotgun",
+		"type": "gun",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"combat-shotgun": {
+		"name": "combat-shotgun",
+		"type": "gun",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-railgun": {
+		"name": "se-railgun",
+		"type": "gun",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"rocket-launcher": {
+		"name": "rocket-launcher",
+		"type": "gun",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"flamethrower": {
+		"name": "flamethrower",
+		"type": "gun",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-biogun": {
+		"name": "se-biogun",
+		"type": "gun",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-cryogun": {
+		"name": "se-cryogun",
+		"type": "gun",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"land-mine": {
+		"name": "land-mine",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-tesla-gun": {
+		"name": "se-tesla-gun",
+		"type": "gun",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"artillery-wagon-cannon": {
+		"name": "artillery-wagon-cannon",
+		"type": "gun",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"spidertron-rocket-launcher-1": {
+		"name": "spidertron-rocket-launcher-1",
+		"type": "gun",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"spidertron-rocket-launcher-2": {
+		"name": "spidertron-rocket-launcher-2",
+		"type": "gun",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"spidertron-rocket-launcher-3": {
+		"name": "spidertron-rocket-launcher-3",
+		"type": "gun",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"spidertron-rocket-launcher-4": {
+		"name": "spidertron-rocket-launcher-4",
+		"type": "gun",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"tank-cannon": {
+		"name": "tank-cannon",
+		"type": "gun",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"firearm-magazine": {
+		"name": "firearm-magazine",
+		"type": "ammo",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"piercing-rounds-magazine": {
+		"name": "piercing-rounds-magazine",
+		"type": "ammo",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"uranium-rounds-magazine": {
+		"name": "uranium-rounds-magazine",
+		"type": "ammo",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"shotgun-shell": {
+		"name": "shotgun-shell",
+		"type": "ammo",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"piercing-shotgun-shell": {
+		"name": "piercing-shotgun-shell",
+		"type": "ammo",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-railgun-ammo": {
+		"name": "se-railgun-ammo",
+		"type": "ammo",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-weapon-package-atomic-bomb": {
+		"name": "se-delivery-cannon-weapon-package-atomic-bomb",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-weapon-package-se-iridium-piledriver": {
+		"name": "se-delivery-cannon-weapon-package-se-iridium-piledriver",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-weapon-package-se-plague-bomb": {
+		"name": "se-delivery-cannon-weapon-package-se-plague-bomb",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"cannon-shell": {
+		"name": "cannon-shell",
+		"type": "ammo",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"explosive-cannon-shell": {
+		"name": "explosive-cannon-shell",
+		"type": "ammo",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"uranium-cannon-shell": {
+		"name": "uranium-cannon-shell",
+		"type": "ammo",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"explosive-uranium-cannon-shell": {
+		"name": "explosive-uranium-cannon-shell",
+		"type": "ammo",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"artillery-shell": {
+		"name": "artillery-shell",
+		"type": "ammo",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"rocket": {
+		"name": "rocket",
+		"type": "ammo",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"explosive-rocket": {
+		"name": "explosive-rocket",
+		"type": "ammo",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"atomic-bomb": {
+		"name": "atomic-bomb",
+		"type": "ammo",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-iridium-piledriver": {
+		"name": "se-iridium-piledriver",
+		"type": "ammo",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-plague-bomb": {
+		"name": "se-plague-bomb",
+		"type": "ammo",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"flamethrower-ammo": {
+		"name": "flamethrower-ammo",
+		"type": "ammo",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-bloater-ammo": {
+		"name": "se-bloater-ammo",
+		"type": "ammo",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-pheromone-ammo": {
+		"name": "se-pheromone-ammo",
+		"type": "ammo",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-cryogun-ammo": {
+		"name": "se-cryogun-ammo",
+		"type": "ammo",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-tesla-ammo": {
+		"name": "se-tesla-ammo",
+		"type": "ammo",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"grenade": {
+		"name": "grenade",
+		"type": "capsule",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"cluster-grenade": {
+		"name": "cluster-grenade",
+		"type": "capsule",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"poison-capsule": {
+		"name": "poison-capsule",
+		"type": "capsule",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"slowdown-capsule": {
+		"name": "slowdown-capsule",
+		"type": "capsule",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"cliff-explosives": {
+		"name": "cliff-explosives",
+		"type": "capsule",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"defender-capsule": {
+		"name": "defender-capsule",
+		"type": "capsule",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"distractor-capsule": {
+		"name": "distractor-capsule",
+		"type": "capsule",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"destroyer-capsule": {
+		"name": "destroyer-capsule",
+		"type": "capsule",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-capsule-se-biter-friend": {
+		"name": "se-capsule-se-biter-friend",
+		"type": "capsule",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-capsule-small-biter": {
+		"name": "se-capsule-small-biter",
+		"type": "capsule",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-capsule-medium-biter": {
+		"name": "se-capsule-medium-biter",
+		"type": "capsule",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-capsule-big-biter": {
+		"name": "se-capsule-big-biter",
+		"type": "capsule",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-capsule-behemoth-biter": {
+		"name": "se-capsule-behemoth-biter",
+		"type": "capsule",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-capsule-small-spitter": {
+		"name": "se-capsule-small-spitter",
+		"type": "capsule",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-capsule-medium-spitter": {
+		"name": "se-capsule-medium-spitter",
+		"type": "capsule",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-capsule-big-spitter": {
+		"name": "se-capsule-big-spitter",
+		"type": "capsule",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-capsule-behemoth-spitter": {
+		"name": "se-capsule-behemoth-spitter",
+		"type": "capsule",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"light-armor": {
+		"name": "light-armor",
+		"type": "armor",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"heavy-armor": {
+		"name": "heavy-armor",
+		"type": "armor",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"modular-armor": {
+		"name": "modular-armor",
+		"type": "armor",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"power-armor": {
+		"name": "power-armor",
+		"type": "armor",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"power-armor-mk2": {
+		"name": "power-armor-mk2",
+		"type": "armor",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-thruster-suit": {
+		"name": "se-thruster-suit",
+		"type": "armor",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-thruster-suit-2": {
+		"name": "se-thruster-suit-2",
+		"type": "armor",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-thruster-suit-3": {
+		"name": "se-thruster-suit-3",
+		"type": "armor",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-thruster-suit-4": {
+		"name": "se-thruster-suit-4",
+		"type": "armor",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"solar-panel-equipment": {
+		"name": "solar-panel-equipment",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-rtg-equipment": {
+		"name": "se-rtg-equipment",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-rtg-equipment-2": {
+		"name": "se-rtg-equipment-2",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"fusion-reactor-equipment": {
+		"name": "fusion-reactor-equipment",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"battery-equipment": {
+		"name": "battery-equipment",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"jetpack-1": {
+		"name": "jetpack-1",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"jetpack-2": {
+		"name": "jetpack-2",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"jetpack-3": {
+		"name": "jetpack-3",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"jetpack-4": {
+		"name": "jetpack-4",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"battery-mk2-equipment": {
+		"name": "battery-mk2-equipment",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"energy-shield-equipment": {
+		"name": "energy-shield-equipment",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"energy-shield-mk2-equipment": {
+		"name": "energy-shield-mk2-equipment",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"energy-shield-mk3-equipment": {
+		"name": "energy-shield-mk3-equipment",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"energy-shield-mk4-equipment": {
+		"name": "energy-shield-mk4-equipment",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"energy-shield-mk5-equipment": {
+		"name": "energy-shield-mk5-equipment",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"energy-shield-mk6-equipment": {
+		"name": "energy-shield-mk6-equipment",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"belt-immunity-equipment": {
+		"name": "belt-immunity-equipment",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-adaptive-armour-equipment-1": {
+		"name": "se-adaptive-armour-equipment-1",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-adaptive-armour-equipment-2": {
+		"name": "se-adaptive-armour-equipment-2",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-adaptive-armour-equipment-3": {
+		"name": "se-adaptive-armour-equipment-3",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-adaptive-armour-equipment-4": {
+		"name": "se-adaptive-armour-equipment-4",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-adaptive-armour-equipment-5": {
+		"name": "se-adaptive-armour-equipment-5",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"exoskeleton-equipment": {
+		"name": "exoskeleton-equipment",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-lifesupport-equipment-1": {
+		"name": "se-lifesupport-equipment-1",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-lifesupport-equipment-2": {
+		"name": "se-lifesupport-equipment-2",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-lifesupport-equipment-3": {
+		"name": "se-lifesupport-equipment-3",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-lifesupport-equipment-4": {
+		"name": "se-lifesupport-equipment-4",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"personal-roboport-equipment": {
+		"name": "personal-roboport-equipment",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"personal-roboport-mk2-equipment": {
+		"name": "personal-roboport-mk2-equipment",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"night-vision-equipment": {
+		"name": "night-vision-equipment",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"personal-laser-defense-equipment": {
+		"name": "personal-laser-defense-equipment",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"discharge-defense-equipment": {
+		"name": "discharge-defense-equipment",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"discharge-defense-remote": {
+		"name": "discharge-defense-remote",
+		"type": "capsule",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"stone-wall": {
+		"name": "stone-wall",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"concrete-wall": {
+		"name": "concrete-wall",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"steel-wall": {
+		"name": "steel-wall",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"gate": {
+		"name": "gate",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"gun-turret": {
+		"name": "gun-turret",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"laser-turret": {
+		"name": "laser-turret",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"flamethrower-turret": {
+		"name": "flamethrower-turret",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"artillery-turret": {
+		"name": "artillery-turret",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"artillery-targeting-remote": {
+		"name": "artillery-targeting-remote",
+		"type": "capsule",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"radar": {
+		"name": "radar",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"shield-projector": {
+		"name": "shield-projector",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"player-port": {
+		"name": "player-port",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-meteor-point-defence": {
+		"name": "se-meteor-point-defence",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-meteor-point-defence-ammo": {
+		"name": "se-meteor-point-defence-ammo",
+		"type": "ammo",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-meteor-defence": {
+		"name": "se-meteor-defence",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-meteor-defence-ammo": {
+		"name": "se-meteor-defence-ammo",
+		"type": "ammo",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-energy-beam-defence": {
+		"name": "se-energy-beam-defence",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-weapon": {
+		"name": "se-delivery-cannon-weapon",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-delivery-cannon-weapon-capsule": {
+		"name": "se-delivery-cannon-weapon-capsule",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-blueprint-registration-point": {
+		"name": "se-blueprint-registration-point",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-area-mining-drill-remnants": {
+		"name": "ruin-area-mining-drill-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-assembling-machine-1-remnants": {
+		"name": "ruin-assembling-machine-1-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-assembling-machine-2-remnants": {
+		"name": "ruin-assembling-machine-2-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-assembling-machine-3-remnants": {
+		"name": "ruin-assembling-machine-3-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-boiler-remnants": {
+		"name": "ruin-boiler-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-burner-inserter-remnants": {
+		"name": "ruin-burner-inserter-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-burner-mining-drill-remnants": {
+		"name": "ruin-burner-mining-drill-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-electric-furnace-remnants": {
+		"name": "ruin-electric-furnace-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-electric-mining-drill-remnants": {
+		"name": "ruin-electric-mining-drill-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-small-electric-pole-remnants": {
+		"name": "ruin-small-electric-pole-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-small-remnants": {
+		"name": "ruin-small-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-steel-furnace-remnants": {
+		"name": "ruin-steel-furnace-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-stone-furnace-remnants": {
+		"name": "ruin-stone-furnace-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-transport-belt-remnants": {
+		"name": "ruin-transport-belt-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-wall-remnants": {
+		"name": "ruin-wall-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-wooden-chest-remnants": {
+		"name": "ruin-wooden-chest-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-1x2-remnants": {
+		"name": "ruin-1x2-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-arithmetic-combinator-remnants": {
+		"name": "ruin-arithmetic-combinator-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-fast-transport-belt-remnants": {
+		"name": "ruin-fast-transport-belt-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-gate-remnants": {
+		"name": "ruin-gate-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-inserter-remnants": {
+		"name": "ruin-inserter-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-iron-chest-remnants": {
+		"name": "ruin-iron-chest-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-medium-electric-pole-remnants": {
+		"name": "ruin-medium-electric-pole-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-steam-engine-remnants": {
+		"name": "ruin-steam-engine-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-active-provider-chest-remnants": {
+		"name": "ruin-active-provider-chest-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-big-electric-pole-remnants": {
+		"name": "ruin-big-electric-pole-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-big-remnants": {
+		"name": "ruin-big-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-decider-combinator-remnants": {
+		"name": "ruin-decider-combinator-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-express-transport-belt-remnants": {
+		"name": "ruin-express-transport-belt-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-gun-turret-remnants": {
+		"name": "ruin-gun-turret-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-long-handed-inserter-remnants": {
+		"name": "ruin-long-handed-inserter-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-solar-panel-remnants": {
+		"name": "ruin-solar-panel-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-train-stop-remnants": {
+		"name": "ruin-train-stop-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-accumulator-remnants": {
+		"name": "ruin-accumulator-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-beacon-remnants": {
+		"name": "ruin-beacon-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-constant-combinator-remnants": {
+		"name": "ruin-constant-combinator-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-fast-inserter-remnants": {
+		"name": "ruin-fast-inserter-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-laser-turret-remnants": {
+		"name": "ruin-laser-turret-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-medium-remnants": {
+		"name": "ruin-medium-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-oil-refinery-remnants": {
+		"name": "ruin-oil-refinery-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-passive-provider-chest-remnants": {
+		"name": "ruin-passive-provider-chest-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-pipe-remnants": {
+		"name": "ruin-pipe-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-pipe-to-ground-remnants": {
+		"name": "ruin-pipe-to-ground-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-pump-remnants": {
+		"name": "ruin-pump-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-pumpjack-remnants": {
+		"name": "ruin-pumpjack-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-rail-signal-remnants": {
+		"name": "ruin-rail-signal-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-storage-tank-remnants": {
+		"name": "ruin-storage-tank-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-substation-remnants": {
+		"name": "ruin-substation-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-underground-belt-remnants": {
+		"name": "ruin-underground-belt-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-chemical-plant-remnants": {
+		"name": "ruin-chemical-plant-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-fast-underground-belt-remnants": {
+		"name": "ruin-fast-underground-belt-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-filter-inserter-remnants": {
+		"name": "ruin-filter-inserter-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-flamethrower-turret-remnants": {
+		"name": "ruin-flamethrower-turret-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-medium-small-remnants": {
+		"name": "ruin-medium-small-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-nuclear-reactor-remnants": {
+		"name": "ruin-nuclear-reactor-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-programmable-speaker-remnants": {
+		"name": "ruin-programmable-speaker-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-rail-chain-signal-remnants": {
+		"name": "ruin-rail-chain-signal-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-storage-chest-remnants": {
+		"name": "ruin-storage-chest-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-artillery-turret-remnants": {
+		"name": "ruin-artillery-turret-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-buffer-chest-remnants": {
+		"name": "ruin-buffer-chest-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-centrifuge-remnants": {
+		"name": "ruin-centrifuge-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-express-underground-belt-remnants": {
+		"name": "ruin-express-underground-belt-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-heat-pipe-remnants": {
+		"name": "ruin-heat-pipe-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-locomotive-remnants": {
+		"name": "ruin-locomotive-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-stack-inserter-remnants": {
+		"name": "ruin-stack-inserter-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-cargo-wagon-remnants": {
+		"name": "ruin-cargo-wagon-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-heat-exchanger-remnants": {
+		"name": "ruin-heat-exchanger-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-lab-remnants": {
+		"name": "ruin-lab-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-radar-remnants": {
+		"name": "ruin-radar-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-requester-chest-remnants": {
+		"name": "ruin-requester-chest-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-splitter-remnants": {
+		"name": "ruin-splitter-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-stack-filter-inserter-remnants": {
+		"name": "ruin-stack-filter-inserter-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-fast-splitter-remnants": {
+		"name": "ruin-fast-splitter-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-fluid-wagon-remnants": {
+		"name": "ruin-fluid-wagon-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-roboport-remnants": {
+		"name": "ruin-roboport-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-rocket-silo-remnants": {
+		"name": "ruin-rocket-silo-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-steam-turbine-remnants": {
+		"name": "ruin-steam-turbine-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-artillery-wagon-remnants": {
+		"name": "ruin-artillery-wagon-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-express-splitter-remnants": {
+		"name": "ruin-express-splitter-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-car-remnants": {
+		"name": "ruin-car-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-tank-remnants": {
+		"name": "ruin-tank-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"ruin-steel-chest-remnants": {
+		"name": "ruin-steel-chest-remnants",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"YARM-fake-coal": {
+		"name": "YARM-fake-coal",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"YARM-fake-copper-ore": {
+		"name": "YARM-fake-copper-ore",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"YARM-fake-crude-oil": {
+		"name": "YARM-fake-crude-oil",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"YARM-fake-iron-ore": {
+		"name": "YARM-fake-iron-ore",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"YARM-fake-se-beryllium-ore": {
+		"name": "YARM-fake-se-beryllium-ore",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"YARM-fake-se-cryonite": {
+		"name": "YARM-fake-se-cryonite",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"YARM-fake-se-holmium-ore": {
+		"name": "YARM-fake-se-holmium-ore",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"YARM-fake-se-iridium-ore": {
+		"name": "YARM-fake-se-iridium-ore",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"YARM-fake-se-methane-ice": {
+		"name": "YARM-fake-se-methane-ice",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"YARM-fake-se-naquium-ore": {
+		"name": "YARM-fake-se-naquium-ore",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"YARM-fake-se-vitamelange": {
+		"name": "YARM-fake-se-vitamelange",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"YARM-fake-se-vulcanite": {
+		"name": "YARM-fake-se-vulcanite",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"YARM-fake-se-water-ice": {
+		"name": "YARM-fake-se-water-ice",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"YARM-fake-stone": {
+		"name": "YARM-fake-stone",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"YARM-fake-uranium-ore": {
+		"name": "YARM-fake-uranium-ore",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"item-unknown": {
+		"name": "item-unknown",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-struct-generic-clamp-east": {
+		"name": "se-struct-generic-clamp-east",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-struct-generic-clamp-west": {
+		"name": "se-struct-generic-clamp-west",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-struct-generic-input": {
+		"name": "se-struct-generic-input",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-struct-generic-output": {
+		"name": "se-struct-generic-output",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"se-struct-generic-settings": {
+		"name": "se-struct-generic-settings",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"yarm-selector-tool": {
+		"name": "yarm-selector-tool",
+		"type": "selection-tool",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"electric-energy-interface": {
+		"name": "electric-energy-interface",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"linked-chest": {
+		"name": "linked-chest",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"heat-interface": {
+		"name": "heat-interface",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"linked-belt": {
+		"name": "linked-belt",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"mining-patch-planner": {
+		"name": "mining-patch-planner",
+		"type": "selection-tool",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"infinity-chest": {
+		"name": "infinity-chest",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"infinity-pipe": {
+		"name": "infinity-pipe",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"selection-tool": {
+		"name": "selection-tool",
+		"type": "selection-tool",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"item-with-inventory": {
+		"name": "item-with-inventory",
+		"type": "item-with-inventory",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"item-with-label": {
+		"name": "item-with-label",
+		"type": "item-with-label",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"item-with-tags": {
+		"name": "item-with-tags",
+		"type": "item-with-tags",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"simple-entity-with-force": {
+		"name": "simple-entity-with-force",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"simple-entity-with-owner": {
+		"name": "simple-entity-with-owner",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"burner-generator": {
+		"name": "burner-generator",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"fp_beacon_selector": {
+		"name": "fp_beacon_selector",
+		"type": "selection-tool",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_inf-requester-chest": {
+		"name": "creative-mod_inf-requester-chest",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_inf-provider-chest": {
+		"name": "creative-mod_inf-provider-chest",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_creative-chest": {
+		"name": "creative-mod_creative-chest",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_linked-chest": {
+		"name": "creative-mod_linked-chest",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_creative-provider-chest": {
+		"name": "creative-mod_creative-provider-chest",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_autofill-requester-chest": {
+		"name": "creative-mod_autofill-requester-chest",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_duplicating-chest": {
+		"name": "creative-mod_duplicating-chest",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_duplicating-provider-chest": {
+		"name": "creative-mod_duplicating-provider-chest",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_void-chest": {
+		"name": "creative-mod_void-chest",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_void-requester-chest": {
+		"name": "creative-mod_void-requester-chest",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_void-storage-chest": {
+		"name": "creative-mod_void-storage-chest",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_super-loader": {
+		"name": "creative-mod_super-loader",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_super-loader2": {
+		"name": "creative-mod_super-loader2",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_linked-belt": {
+		"name": "creative-mod_linked-belt",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_creative-cargo-wagon": {
+		"name": "creative-mod_creative-cargo-wagon",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_duplicating-cargo-wagon": {
+		"name": "creative-mod_duplicating-cargo-wagon",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_void-cargo-wagon": {
+		"name": "creative-mod_void-cargo-wagon",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_super-logistic-robot": {
+		"name": "creative-mod_super-logistic-robot",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_super-construction-robot": {
+		"name": "creative-mod_super-construction-robot",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_super-roboport": {
+		"name": "creative-mod_super-roboport",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_fluid-source": {
+		"name": "creative-mod_fluid-source",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_fluid-void": {
+		"name": "creative-mod_fluid-void",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_super-boiler": {
+		"name": "creative-mod_super-boiler",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_super-cooler": {
+		"name": "creative-mod_super-cooler",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_configurable-super-boiler": {
+		"name": "creative-mod_configurable-super-boiler",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_heat-source": {
+		"name": "creative-mod_heat-source",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_heat-void": {
+		"name": "creative-mod_heat-void",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_item-source": {
+		"name": "creative-mod_item-source",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_duplicator": {
+		"name": "creative-mod_duplicator",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_item-void": {
+		"name": "creative-mod_item-void",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_random-item-source": {
+		"name": "creative-mod_random-item-source",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_creative-lab": {
+		"name": "creative-mod_creative-lab",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_void-lab": {
+		"name": "creative-mod_void-lab",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_active-electric-energy-interface-output": {
+		"name": "creative-mod_active-electric-energy-interface-output",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_passive-electric-energy-interface": {
+		"name": "creative-mod_passive-electric-energy-interface",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_active-electric-energy-interface-input": {
+		"name": "creative-mod_active-electric-energy-interface-input",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_energy-source": {
+		"name": "creative-mod_energy-source",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_passive-energy-source": {
+		"name": "creative-mod_passive-energy-source",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_energy-void": {
+		"name": "creative-mod_energy-void",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_passive-energy-void": {
+		"name": "creative-mod_passive-energy-void",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_super-electric-pole": {
+		"name": "creative-mod_super-electric-pole",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_super-substation": {
+		"name": "creative-mod_super-substation",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_energy-absorption": {
+		"name": "creative-mod_energy-absorption",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_magic-wand-creator": {
+		"name": "creative-mod_magic-wand-creator",
+		"type": "selection-tool",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_magic-wand-healer": {
+		"name": "creative-mod_magic-wand-healer",
+		"type": "selection-tool",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_magic-wand-modifier": {
+		"name": "creative-mod_magic-wand-modifier",
+		"type": "selection-tool",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_enemy-object_behemoth-biter": {
+		"name": "creative-mod_enemy-object_behemoth-biter",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_enemy-object_behemoth-spitter": {
+		"name": "creative-mod_enemy-object_behemoth-spitter",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_enemy-object_behemoth-worm-turret": {
+		"name": "creative-mod_enemy-object_behemoth-worm-turret",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_enemy-object_big-biter": {
+		"name": "creative-mod_enemy-object_big-biter",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_enemy-object_big-spitter": {
+		"name": "creative-mod_enemy-object_big-spitter",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_enemy-object_big-worm-turret": {
+		"name": "creative-mod_enemy-object_big-worm-turret",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_enemy-object_biter-spawner": {
+		"name": "creative-mod_enemy-object_biter-spawner",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_enemy-object_medium-biter": {
+		"name": "creative-mod_enemy-object_medium-biter",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_enemy-object_medium-spitter": {
+		"name": "creative-mod_enemy-object_medium-spitter",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_enemy-object_medium-worm-turret": {
+		"name": "creative-mod_enemy-object_medium-worm-turret",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_enemy-object_small-biter": {
+		"name": "creative-mod_enemy-object_small-biter",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_enemy-object_small-spitter": {
+		"name": "creative-mod_enemy-object_small-spitter",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_enemy-object_small-worm-turret": {
+		"name": "creative-mod_enemy-object_small-worm-turret",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_enemy-object_spitter-spawner": {
+		"name": "creative-mod_enemy-object_spitter-spawner",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_super-radar": {
+		"name": "creative-mod_super-radar",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_super-radar-2": {
+		"name": "creative-mod_super-radar-2",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_alien-attractor-small": {
+		"name": "creative-mod_alien-attractor-small",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_alien-attractor-medium": {
+		"name": "creative-mod_alien-attractor-medium",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_alien-attractor-large": {
+		"name": "creative-mod_alien-attractor-large",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_super-beacon": {
+		"name": "creative-mod_super-beacon",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_super-speed-module": {
+		"name": "creative-mod_super-speed-module",
+		"category": "speed",
+		"type": "module",
+		"consumption": 0,
+		"speed": 2.5,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_super-effectivity-module": {
+		"name": "creative-mod_super-effectivity-module",
+		"category": "effectivity",
+		"type": "module",
+		"consumption": -2.5,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_super-productivity-module": {
+		"name": "creative-mod_super-productivity-module",
+		"category": "productivity",
+		"type": "module",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 2.5,
+		"pollution": 0
+	},
+	"creative-mod_super-clean-module": {
+		"name": "creative-mod_super-clean-module",
+		"category": "effectivity",
+		"type": "module",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": -2.5
+	},
+	"creative-mod_super-slow-module": {
+		"name": "creative-mod_super-slow-module",
+		"category": "speed",
+		"type": "module",
+		"consumption": 0,
+		"speed": -2.5,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_super-consumption-module": {
+		"name": "creative-mod_super-consumption-module",
+		"category": "effectivity",
+		"type": "module",
+		"consumption": 2.5,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_super-pollution-module": {
+		"name": "creative-mod_super-pollution-module",
+		"category": "effectivity",
+		"type": "module",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 2.5
+	},
+	"creative-mod_super-fusion-reactor-equipment": {
+		"name": "creative-mod_super-fusion-reactor-equipment",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	},
+	"creative-mod_super-personal-roboport-equipment": {
+		"name": "creative-mod_super-personal-roboport-equipment",
+		"type": "item",
+		"consumption": 0,
+		"speed": 0,
+		"productivity": 0,
+		"pollution": 0
+	}
+}

@@ -1,0 +1,279 @@
+{
+    "subfactories": [
+        {
+            "timescale": 60,
+            "Ingredient": {
+                "objects": [
+                    {
+                        "proto": {
+                            "name": "rocket-control-unit"
+                        },
+                        "amount": 60
+                    },
+                    {
+                        "proto": {
+                            "name": "low-density-structure"
+                        },
+                        "amount": 66
+                    },
+                    {
+                        "proto": {
+                            "name": "rocket-fuel"
+                        },
+                        "amount": 63
+                    },
+                    {
+                        "proto": {
+                            "name": "processing-unit"
+                        },
+                        "amount": 6
+                    },
+                    {
+                        "proto": {
+                            "name": "solar-panel"
+                        },
+                        "amount": 6
+                    },
+                    {
+                        "proto": {
+                            "name": "accumulator"
+                        },
+                        "amount": 6
+                    },
+                    {
+                        "proto": {
+                            "name": "radar"
+                        },
+                        "amount": 0.3
+                    }
+                ]
+            },
+            "Byproduct": {
+                "objects": {}
+            },
+            "Product": {
+                "objects": [
+                    {
+                        "proto": {
+                            "name": "space-science-pack"
+                        },
+                        "amount": 60
+                    }
+                ]
+            },
+            "top_floor": {
+                "Line": {
+                    "objects": [
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "impostor-silo-rocket-silo-item-satellite",
+                                    "custom": true,
+                                    "category": "rocket-building",
+                                    "ingredients": [
+                                        {
+                                            "name": "rocket-control-unit",
+                                            "type": "item",
+                                            "amount": 1000
+                                        },
+                                        {
+                                            "name": "low-density-structure",
+                                            "type": "item",
+                                            "amount": 1000
+                                        },
+                                        {
+                                            "name": "rocket-fuel",
+                                            "type": "item",
+                                            "amount": 1000
+                                        },
+                                        {
+                                            "name": "satellite",
+                                            "type": "item",
+                                            "amount": 1
+                                        }
+                                    ],
+                                    "products": [
+                                        {
+                                            "name": "space-science-pack",
+                                            "type": "item",
+                                            "amount": 1000
+                                        }
+                                    ]
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "space-science-pack"
+                                        },
+                                        "amount": 60
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "rocket-control-unit"
+                                        },
+                                        "amount": 60
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "low-density-structure"
+                                        },
+                                        "amount": 60
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "rocket-fuel"
+                                        },
+                                        "amount": 60
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "satellite"
+                                        },
+                                        "amount": 0.06
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "rocket-silo"
+                                },
+                                "count": 0.24058422475419156,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": {}
+                                    }
+                                }
+                            },
+                            "beacon": {
+                                "proto": {
+                                    "name": "beacon"
+                                },
+                                "amount": 1,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 2
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "satellite"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "satellite"
+                                        },
+                                        "amount": 0.06
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "processing-unit"
+                                        },
+                                        "amount": 6
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "low-density-structure"
+                                        },
+                                        "amount": 6
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "rocket-fuel"
+                                        },
+                                        "amount": 3
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "solar-panel"
+                                        },
+                                        "amount": 6
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "accumulator"
+                                        },
+                                        "amount": 6
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "radar"
+                                        },
+                                        "amount": 0.3
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-3"
+                                },
+                                "count": 0.0011428571428571428,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 4
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "beacon": {
+                                "proto": {
+                                    "name": "beacon"
+                                },
+                                "amount": 1,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 2
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "name": "rocket-silo"
+        }
+    ]
+}

@@ -1,0 +1,3655 @@
+{
+    "subfactories": [
+        {
+            "timescale": 60,
+            "Ingredient": {
+                "objects": [
+                    {
+                        "proto": {
+                            "name": "stone"
+                        },
+                        "amount": 13492.063409983204
+                    },
+                    {
+                        "proto": {
+                            "name": "coal"
+                        },
+                        "amount": 9822.429656520306
+                    },
+                    {
+                        "proto": {
+                            "name": "iron-ore"
+                        },
+                        "amount": 63018.65592109261
+                    },
+                    {
+                        "proto": {
+                            "name": "copper-ore"
+                        },
+                        "amount": 48736.55425942876
+                    },
+                    {
+                        "proto": {
+                            "name": "water"
+                        },
+                        "amount": 199941.17008685886
+                    },
+                    {
+                        "proto": {
+                            "name": "crude-oil"
+                        },
+                        "amount": 124524.8250527813
+                    }
+                ]
+            },
+            "Byproduct": {
+                "objects": {}
+            },
+            "Product": {
+                "objects": [
+                    {
+                        "proto": {
+                            "name": "space-science-pack"
+                        },
+                        "amount": 1000
+                    },
+                    {
+                        "proto": {
+                            "name": "utility-science-pack"
+                        },
+                        "amount": 1000
+                    },
+                    {
+                        "proto": {
+                            "name": "production-science-pack"
+                        },
+                        "amount": 1000
+                    },
+                    {
+                        "proto": {
+                            "name": "chemical-science-pack"
+                        },
+                        "amount": 1000
+                    },
+                    {
+                        "proto": {
+                            "name": "logistic-science-pack"
+                        },
+                        "amount": 1000
+                    },
+                    {
+                        "proto": {
+                            "name": "automation-science-pack"
+                        },
+                        "amount": 1000
+                    },
+                    {
+                        "proto": {
+                            "name": "military-science-pack"
+                        },
+                        "amount": 1000
+                    }
+                ]
+            },
+            "top_floor": {
+                "Line": {
+                    "objects": [
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "impostor-silo-rocket-silo-item-satellite",
+                                    "custom": true,
+                                    "category": "rocket-building",
+                                    "ingredients": [
+                                        {
+                                            "name": "rocket-control-unit",
+                                            "type": "item",
+                                            "amount": 1000
+                                        },
+                                        {
+                                            "name": "low-density-structure",
+                                            "type": "item",
+                                            "amount": 1000
+                                        },
+                                        {
+                                            "name": "rocket-fuel",
+                                            "type": "item",
+                                            "amount": 1000
+                                        },
+                                        {
+                                            "name": "satellite",
+                                            "type": "item",
+                                            "amount": 1
+                                        }
+                                    ],
+                                    "products": [
+                                        {
+                                            "name": "space-science-pack",
+                                            "type": "item",
+                                            "amount": 1000
+                                        }
+                                    ]
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "space-science-pack"
+                                        },
+                                        "amount": 1000
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "rocket-control-unit"
+                                        },
+                                        "amount": 714.285711244661
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "low-density-structure"
+                                        },
+                                        "amount": 714.285711244661
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "rocket-fuel"
+                                        },
+                                        "amount": 714.285711244661
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "satellite"
+                                        },
+                                        "amount": 1
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "rocket-silo"
+                                },
+                                "count": 4.451399587213075,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "productivity-module-3"
+                                                },
+                                                "amount": 4
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "beacon": {
+                                "proto": {
+                                    "name": "beacon"
+                                },
+                                "amount": 1,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 2
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "satellite"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "satellite"
+                                        },
+                                        "amount": 1.0000000000000056
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "processing-unit"
+                                        },
+                                        "amount": 100.00000000000056
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "low-density-structure"
+                                        },
+                                        "amount": 100.00000000000056
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "rocket-fuel"
+                                        },
+                                        "amount": 50.00000000000028
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "solar-panel"
+                                        },
+                                        "amount": 100.00000000000056
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "accumulator"
+                                        },
+                                        "amount": 100.00000000000056
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "radar"
+                                        },
+                                        "amount": 5.0000000000000279
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-3"
+                                },
+                                "count": 0.019047619047619155,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 4
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "beacon": {
+                                "proto": {
+                                    "name": "beacon"
+                                },
+                                "amount": 1,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 2
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "solar-panel"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "solar-panel"
+                                        },
+                                        "amount": 100
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "copper-plate"
+                                        },
+                                        "amount": 500
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "steel-plate"
+                                        },
+                                        "amount": 500
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "electronic-circuit"
+                                        },
+                                        "amount": 1500
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-3"
+                                },
+                                "count": 3.8095238095238099,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 4
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "beacon": {
+                                "proto": {
+                                    "name": "beacon"
+                                },
+                                "amount": 1,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 2
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "accumulator"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "accumulator"
+                                        },
+                                        "amount": 100.00000000000067
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "iron-plate"
+                                        },
+                                        "amount": 200.00000000000135
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "battery"
+                                        },
+                                        "amount": 500.00000000000338
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-3"
+                                },
+                                "count": 3.809523809523835,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 4
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "beacon": {
+                                "proto": {
+                                    "name": "beacon"
+                                },
+                                "amount": 1,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 2
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "radar"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "radar"
+                                        },
+                                        "amount": 5.000000000000002
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "iron-plate"
+                                        },
+                                        "amount": 50.000000000000017
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "iron-gear-wheel"
+                                        },
+                                        "amount": 25.000000000000008
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "electronic-circuit"
+                                        },
+                                        "amount": 25.000000000000008
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-3"
+                                },
+                                "count": 0.009523809523809525,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 4
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "beacon": {
+                                "proto": {
+                                    "name": "beacon"
+                                },
+                                "amount": 1,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 2
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "utility-science-pack"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "utility-science-pack"
+                                        },
+                                        "amount": 999.9999999999999
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "processing-unit"
+                                        },
+                                        "amount": 476.1904741631073
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "flying-robot-frame"
+                                        },
+                                        "amount": 238.09523708155366
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "low-density-structure"
+                                        },
+                                        "amount": 714.2857112446609
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-3"
+                                },
+                                "count": 27.77777793546202,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "productivity-module-3"
+                                                },
+                                                "amount": 4
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "beacon": {
+                                "proto": {
+                                    "name": "beacon"
+                                },
+                                "amount": 4,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 2
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "production-science-pack"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "production-science-pack"
+                                        },
+                                        "amount": 999.9999999999999
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "rail"
+                                        },
+                                        "amount": 7142.85711244661
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "electric-furnace"
+                                        },
+                                        "amount": 238.09523708155366
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "productivity-module"
+                                        },
+                                        "amount": 238.09523708155366
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-3"
+                                },
+                                "count": 27.77777793546202,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "productivity-module-3"
+                                                },
+                                                "amount": 4
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "beacon": {
+                                "proto": {
+                                    "name": "beacon"
+                                },
+                                "amount": 4,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 2
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "flying-robot-frame"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "flying-robot-frame"
+                                        },
+                                        "amount": 238.09523708155366
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "steel-plate"
+                                        },
+                                        "amount": 170.06802576276375
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "battery"
+                                        },
+                                        "amount": 340.1360515255275
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "electronic-circuit"
+                                        },
+                                        "amount": 510.2040772882912
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "electric-engine-unit"
+                                        },
+                                        "amount": 170.06802576276375
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-3"
+                                },
+                                "count": 18.89644749469309,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "productivity-module-3"
+                                                },
+                                                "amount": 4
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "beacon": {
+                                "proto": {
+                                    "name": "beacon"
+                                },
+                                "amount": 4,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 2
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "rocket-control-unit"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "rocket-control-unit"
+                                        },
+                                        "amount": 714.2857112446609
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "processing-unit"
+                                        },
+                                        "amount": 510.20407728829118
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "speed-module"
+                                        },
+                                        "amount": 510.20407728829118
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-3"
+                                },
+                                "count": 85.0340137261189,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "productivity-module-3"
+                                                },
+                                                "amount": 4
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "beacon": {
+                                "proto": {
+                                    "name": "beacon"
+                                },
+                                "amount": 4,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 2
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "productivity-module"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "productivity-module"
+                                        },
+                                        "amount": 238.0952370815537
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "electronic-circuit"
+                                        },
+                                        "amount": 1190.4761854077686
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "advanced-circuit"
+                                        },
+                                        "amount": 1190.4761854077686
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-3"
+                                },
+                                "count": 13.605442118945926,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 4
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "beacon": {
+                                "proto": {
+                                    "name": "beacon"
+                                },
+                                "amount": 1,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 2
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "speed-module"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "speed-module"
+                                        },
+                                        "amount": 510.20407728829238
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "electronic-circuit"
+                                        },
+                                        "amount": 2551.0203864414618
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "advanced-circuit"
+                                        },
+                                        "amount": 2551.0203864414618
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-3"
+                                },
+                                "count": 20.408163091531696,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 4
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "beacon": {
+                                "proto": {
+                                    "name": "beacon"
+                                },
+                                "amount": 4,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 2
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "electric-engine-unit"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "electric-engine-unit"
+                                        },
+                                        "amount": 170.06802576276272
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "electronic-circuit"
+                                        },
+                                        "amount": 242.9543214838606
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "engine-unit"
+                                        },
+                                        "amount": 121.4771607419303
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "lubricant"
+                                        },
+                                        "amount": 1822.1574111289547
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-3"
+                                },
+                                "count": 17.996616882959434,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "productivity-module-3"
+                                                },
+                                                "amount": 4
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "beacon": {
+                                "proto": {
+                                    "name": "beacon"
+                                },
+                                "amount": 1,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 2
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "lubricant"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "lubricant"
+                                        },
+                                        "amount": 1822.1574111289693
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "heavy-oil"
+                                        },
+                                        "amount": 1401.6595422023559
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "chemical-plant"
+                                },
+                                "count": 2.2248564540832955,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "productivity-module-3"
+                                                },
+                                                "amount": 3
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "beacon": {
+                                "proto": {
+                                    "name": "beacon"
+                                },
+                                "amount": 1,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 2
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "low-density-structure"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "low-density-structure"
+                                        },
+                                        "amount": 1528.5714224893209
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "copper-plate"
+                                        },
+                                        "amount": 21836.734514020955
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "steel-plate"
+                                        },
+                                        "amount": 2183.6734514020956
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "plastic-bar"
+                                        },
+                                        "amount": 5459.183628505239
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-3"
+                                },
+                                "count": 121.31519294971902,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "productivity-module-3"
+                                                },
+                                                "amount": 4
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "beacon": {
+                                "proto": {
+                                    "name": "beacon"
+                                },
+                                "amount": 4,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 2
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "rocket-fuel"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "rocket-fuel"
+                                        },
+                                        "amount": 764.2857112446608
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "solid-fuel"
+                                        },
+                                        "amount": 5459.183628505241
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "light-oil"
+                                        },
+                                        "amount": 5459.183628505241
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-3"
+                                },
+                                "count": 90.98639471228931,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "productivity-module-3"
+                                                },
+                                                "amount": 4
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "beacon": {
+                                "proto": {
+                                    "name": "beacon"
+                                },
+                                "amount": 4,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 2
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "solid-fuel-from-light-oil"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "solid-fuel"
+                                        },
+                                        "amount": 5459.183628505233
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "light-oil"
+                                        },
+                                        "amount": 41993.72007486598
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "chemical-plant"
+                                },
+                                "count": 54.89375211678303,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "productivity-module-3"
+                                                },
+                                                "amount": 3
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "beacon": {
+                                "proto": {
+                                    "name": "beacon"
+                                },
+                                "amount": 4,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 2
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "electric-furnace"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "electric-furnace"
+                                        },
+                                        "amount": 238.09523708155326
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "steel-plate"
+                                        },
+                                        "amount": 2380.9523708155327
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "advanced-circuit"
+                                        },
+                                        "amount": 1190.4761854077663
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "stone-brick"
+                                        },
+                                        "amount": 2380.9523708155327
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-3"
+                                },
+                                "count": 4.5351473729819669,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 4
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "beacon": {
+                                "proto": {
+                                    "name": "beacon"
+                                },
+                                "amount": 1,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 2
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "battery"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "battery"
+                                        },
+                                        "amount": 840.1360515255334
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "iron-plate"
+                                        },
+                                        "amount": 646.258498951179
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "copper-plate"
+                                        },
+                                        "amount": 646.258498951179
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "sulfuric-acid"
+                                        },
+                                        "amount": 12925.16997902358
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "chemical-plant"
+                                },
+                                "count": 16.895647149880909,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "productivity-module-3"
+                                                },
+                                                "amount": 3
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "beacon": {
+                                "proto": {
+                                    "name": "beacon"
+                                },
+                                "amount": 4,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 2
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "rail"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "rail"
+                                        },
+                                        "amount": 7142.85711244661
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "stone"
+                                        },
+                                        "amount": 3571.428556223305
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "steel-plate"
+                                        },
+                                        "amount": 3571.428556223305
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "iron-stick"
+                                        },
+                                        "amount": 3571.428556223305
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-3"
+                                },
+                                "count": 6.802721059472962,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 4
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "beacon": {
+                                "proto": {
+                                    "name": "beacon"
+                                },
+                                "amount": 1,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 2
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "iron-stick"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "iron-stick"
+                                        },
+                                        "amount": 3571.428556223305
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "iron-plate"
+                                        },
+                                        "amount": 1275.510193220728
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-3"
+                                },
+                                "count": 9.448223903779333,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "productivity-module-3"
+                                                },
+                                                "amount": 4
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "beacon": {
+                                "proto": {
+                                    "name": "beacon"
+                                },
+                                "amount": 1,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 2
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "processing-unit"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "processing-unit"
+                                        },
+                                        "amount": 1086.3945514514017
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "electronic-circuit"
+                                        },
+                                        "amount": 15519.922097515777
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "advanced-circuit"
+                                        },
+                                        "amount": 1551.9922097515778
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "sulfuric-acid"
+                                        },
+                                        "amount": 3879.980524378944
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-3"
+                                },
+                                "count": 43.11089514358987,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "productivity-module-3"
+                                                },
+                                                "amount": 4
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "beacon": {
+                                "proto": {
+                                    "name": "beacon"
+                                },
+                                "amount": 4,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 2
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "sulfuric-acid"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "sulfuric-acid"
+                                        },
+                                        "amount": 16805.150503402503
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "iron-plate"
+                                        },
+                                        "amount": 258.54077608637138
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "sulfur"
+                                        },
+                                        "amount": 1292.7038804318568
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "water"
+                                        },
+                                        "amount": 25854.077608637133
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "chemical-plant"
+                                },
+                                "count": 4.103821912528486,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "productivity-module-3"
+                                                },
+                                                "amount": 3
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "beacon": {
+                                "proto": {
+                                    "name": "beacon"
+                                },
+                                "amount": 1,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 2
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "chemical-science-pack"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "chemical-science-pack"
+                                        },
+                                        "amount": 1000
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "sulfur"
+                                        },
+                                        "amount": 357.1428556223305
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "advanced-circuit"
+                                        },
+                                        "amount": 1071.4285668669916
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "engine-unit"
+                                        },
+                                        "amount": 714.285711244661
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-3"
+                                },
+                                "count": 47.61904788936347,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "productivity-module-3"
+                                                },
+                                                "amount": 4
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "beacon": {
+                                "proto": {
+                                    "name": "beacon"
+                                },
+                                "amount": 4,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 2
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "sulfur"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "sulfur"
+                                        },
+                                        "amount": 1649.8467360541948
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "water"
+                                        },
+                                        "amount": 19036.693042855593
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "petroleum-gas"
+                                        },
+                                        "amount": 19036.693042855593
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "chemical-plant"
+                                },
+                                "count": 10.07232453282992,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "productivity-module-3"
+                                                },
+                                                "amount": 3
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "beacon": {
+                                "proto": {
+                                    "name": "beacon"
+                                },
+                                "amount": 1,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 2
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "engine-unit"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "engine-unit"
+                                        },
+                                        "amount": 835.7628719865948
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "steel-plate"
+                                        },
+                                        "amount": 596.9734774488254
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "iron-gear-wheel"
+                                        },
+                                        "amount": 596.9734774488254
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "pipe"
+                                        },
+                                        "amount": 1193.9469548976509
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-3"
+                                },
+                                "count": 33.165193521068008,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "productivity-module-3"
+                                                },
+                                                "amount": 4
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "beacon": {
+                                "proto": {
+                                    "name": "beacon"
+                                },
+                                "amount": 4,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 2
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "advanced-circuit"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "advanced-circuit"
+                                        },
+                                        "amount": 7555.393533875579
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "plastic-bar"
+                                        },
+                                        "amount": 10793.41928815526
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "copper-cable"
+                                        },
+                                        "amount": 21586.83857631052
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "electronic-circuit"
+                                        },
+                                        "amount": 10793.41928815526
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-3"
+                                },
+                                "count": 179.89032325630417,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "productivity-module-3"
+                                                },
+                                                "amount": 4
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "beacon": {
+                                "proto": {
+                                    "name": "beacon"
+                                },
+                                "amount": 4,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 2
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "plastic-bar"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "plastic-bar"
+                                        },
+                                        "amount": 16252.602916660511
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "coal"
+                                        },
+                                        "amount": 6251.001100297002
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "petroleum-gas"
+                                        },
+                                        "amount": 125020.02200594005
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "chemical-plant"
+                                },
+                                "count": 40.85621662830698,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "productivity-module-3"
+                                                },
+                                                "amount": 3
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "beacon": {
+                                "proto": {
+                                    "name": "beacon"
+                                },
+                                "amount": 4,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 2
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "advanced-oil-processing"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "heavy-oil"
+                                        },
+                                        "amount": 40470.568281321284
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "light-oil"
+                                        },
+                                        "amount": 72847.0229063783
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "petroleum-gas"
+                                        },
+                                        "amount": 89035.25021890682
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "water"
+                                        },
+                                        "amount": 62262.41252639069
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "crude-oil"
+                                        },
+                                        "amount": 124524.82505278138
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "oil-refinery"
+                                },
+                                "count": 40.694387557512488,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "productivity-module-3"
+                                                },
+                                                "amount": 3
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "beacon": {
+                                "proto": {
+                                    "name": "beacon"
+                                },
+                                "amount": 4,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 2
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "logistic-science-pack"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "logistic-science-pack"
+                                        },
+                                        "amount": 1000
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "transport-belt"
+                                        },
+                                        "amount": 714.285711244661
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "inserter"
+                                        },
+                                        "amount": 714.285711244661
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-3"
+                                },
+                                "count": 23.809523944681737,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "productivity-module-3"
+                                                },
+                                                "amount": 4
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "beacon": {
+                                "proto": {
+                                    "name": "beacon"
+                                },
+                                "amount": 4,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 2
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "transport-belt"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "transport-belt"
+                                        },
+                                        "amount": 714.285711244661
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "iron-plate"
+                                        },
+                                        "amount": 357.1428556223305
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "iron-gear-wheel"
+                                        },
+                                        "amount": 357.1428556223305
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-3"
+                                },
+                                "count": 0.6802721059472962,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 4
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "beacon": {
+                                "proto": {
+                                    "name": "beacon"
+                                },
+                                "amount": 1,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 2
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "inserter"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "inserter"
+                                        },
+                                        "amount": 714.2857112446602
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "iron-plate"
+                                        },
+                                        "amount": 714.2857112446602
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "iron-gear-wheel"
+                                        },
+                                        "amount": 714.2857112446602
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "electronic-circuit"
+                                        },
+                                        "amount": 714.2857112446602
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-3"
+                                },
+                                "count": 1.360544211894591,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 4
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "beacon": {
+                                "proto": {
+                                    "name": "beacon"
+                                },
+                                "amount": 1,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 2
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "electronic-circuit"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "electronic-circuit"
+                                        },
+                                        "amount": 33047.282067537075
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "iron-plate"
+                                        },
+                                        "amount": 23605.201376313653
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "copper-cable"
+                                        },
+                                        "amount": 70815.60412894096
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-3"
+                                },
+                                "count": 65.57000447447294,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "productivity-module-3"
+                                                },
+                                                "amount": 4
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "beacon": {
+                                "proto": {
+                                    "name": "beacon"
+                                },
+                                "amount": 4,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 2
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "pipe"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "pipe"
+                                        },
+                                        "amount": 1193.9469548976509
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "iron-plate"
+                                        },
+                                        "amount": 1193.9469548976509
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-3"
+                                },
+                                "count": 2.2741846759955255,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 4
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "beacon": {
+                                "proto": {
+                                    "name": "beacon"
+                                },
+                                "amount": 1,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 2
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "automation-science-pack"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "automation-science-pack"
+                                        },
+                                        "amount": 1000
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "copper-plate"
+                                        },
+                                        "amount": 714.285711244661
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "iron-gear-wheel"
+                                        },
+                                        "amount": 714.285711244661
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-3"
+                                },
+                                "count": 19.84126995390145,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "productivity-module-3"
+                                                },
+                                                "amount": 4
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "beacon": {
+                                "proto": {
+                                    "name": "beacon"
+                                },
+                                "amount": 4,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 2
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "iron-gear-wheel"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "iron-gear-wheel"
+                                        },
+                                        "amount": 2407.6877555604739
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "iron-plate"
+                                        },
+                                        "amount": 3439.553921871149
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-3"
+                                },
+                                "count": 12.739088936993383,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "productivity-module-3"
+                                                },
+                                                "amount": 4
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "beacon": {
+                                "proto": {
+                                    "name": "beacon"
+                                },
+                                "amount": 1,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 2
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "copper-cable"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "copper-cable"
+                                        },
+                                        "amount": 92402.44270525148
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "copper-plate"
+                                        },
+                                        "amount": 33000.872254232294
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-3"
+                                },
+                                "count": 91.66909050574029,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "productivity-module-3"
+                                                },
+                                                "amount": 4
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "beacon": {
+                                "proto": {
+                                    "name": "beacon"
+                                },
+                                "amount": 4,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 2
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "military-science-pack"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "military-science-pack"
+                                        },
+                                        "amount": 1000
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "piercing-rounds-magazine"
+                                        },
+                                        "amount": 357.1428556223305
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "grenade"
+                                        },
+                                        "amount": 357.1428556223305
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "stone-wall"
+                                        },
+                                        "amount": 714.285711244661
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-3"
+                                },
+                                "count": 52.91005408642747,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "productivity-module-3"
+                                                },
+                                                "amount": 4
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "beacon": {
+                                "proto": {
+                                    "name": "beacon"
+                                },
+                                "amount": 1,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 2
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "piercing-rounds-magazine"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "piercing-rounds-magazine"
+                                        },
+                                        "amount": 357.14285562233047
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "copper-plate"
+                                        },
+                                        "amount": 1785.7142781116523
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "steel-plate"
+                                        },
+                                        "amount": 357.14285562233047
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "firearm-magazine"
+                                        },
+                                        "amount": 357.14285562233047
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-3"
+                                },
+                                "count": 4.081632635683777,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 4
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "beacon": {
+                                "proto": {
+                                    "name": "beacon"
+                                },
+                                "amount": 1,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 2
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "grenade"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "grenade"
+                                        },
+                                        "amount": 357.1428556223305
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "coal"
+                                        },
+                                        "amount": 3571.428556223305
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "iron-plate"
+                                        },
+                                        "amount": 1785.7142781116525
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-3"
+                                },
+                                "count": 10.884353695156739,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 4
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "beacon": {
+                                "proto": {
+                                    "name": "beacon"
+                                },
+                                "amount": 1,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 2
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "stone-wall"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "stone-wall"
+                                        },
+                                        "amount": 714.2857112446609
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "stone-brick"
+                                        },
+                                        "amount": 3571.4285562233046
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-3"
+                                },
+                                "count": 1.360544211894592,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 4
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "beacon": {
+                                "proto": {
+                                    "name": "beacon"
+                                },
+                                "amount": 1,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 2
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "stone-brick"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "stone-brick"
+                                        },
+                                        "amount": 5952.380927038843
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "stone"
+                                        },
+                                        "amount": 9920.634853759908
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "electric-furnace"
+                                },
+                                "count": 48.99078961758562,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "productivity-module-3"
+                                                },
+                                                "amount": 2
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "beacon": {
+                                "proto": {
+                                    "name": "beacon"
+                                },
+                                "amount": 4,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 2
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "firearm-magazine"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "firearm-magazine"
+                                        },
+                                        "amount": 357.1428556223305
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "iron-plate"
+                                        },
+                                        "amount": 1428.571422489322
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-3"
+                                },
+                                "count": 1.3605442118945924,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 4
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "beacon": {
+                                "proto": {
+                                    "name": "beacon"
+                                },
+                                "amount": 1,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 2
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "steel-plate"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "steel-plate"
+                                        },
+                                        "amount": 9760.238737274853
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "iron-plate"
+                                        },
+                                        "amount": 40667.661304312656
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "electric-furnace"
+                                },
+                                "count": 230.73850443949395,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "productivity-module-3"
+                                                },
+                                                "amount": 2
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "beacon": {
+                                "proto": {
+                                    "name": "beacon"
+                                },
+                                "amount": 8,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 2
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "iron-plate"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "iron-plate"
+                                        },
+                                        "amount": 75622.38729312136
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "iron-ore"
+                                        },
+                                        "amount": 63018.6559210926
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "electric-furnace"
+                                },
+                                "count": 622.4064809810369,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "productivity-module-3"
+                                                },
+                                                "amount": 2
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "beacon": {
+                                "proto": {
+                                    "name": "beacon"
+                                },
+                                "amount": 4,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 2
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "copper-plate"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "copper-plate"
+                                        },
+                                        "amount": 58483.865256560755
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "copper-ore"
+                                        },
+                                        "amount": 48736.554259428754
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "electric-furnace"
+                                },
+                                "count": 481.34868616897179,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "productivity-module-3"
+                                                },
+                                                "amount": 2
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "beacon": {
+                                "proto": {
+                                    "name": "beacon"
+                                },
+                                "amount": 4,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 2
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "light-oil-cracking"
+                                },
+                                "production_type": "consume"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "petroleum-gas"
+                                        },
+                                        "amount": 55021.46482988891
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "water"
+                                        },
+                                        "amount": 63486.30535463651
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "light-oil"
+                                        },
+                                        "amount": 63486.30535463651
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "chemical-plant"
+                                },
+                                "count": 27.662878344149126,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "productivity-module-3"
+                                                },
+                                                "amount": 3
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "beacon": {
+                                "proto": {
+                                    "name": "beacon"
+                                },
+                                "amount": 4,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 2
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "heavy-oil-cracking"
+                                },
+                                "production_type": "consume"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "light-oil"
+                                        },
+                                        "amount": 38092.1861516296
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "water"
+                                        },
+                                        "amount": 29301.681554339135
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "heavy-oil"
+                                        },
+                                        "amount": 39068.908739118844
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "chemical-plant"
+                                },
+                                "count": 12.767617324536666,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "productivity-module-3"
+                                                },
+                                                "amount": 3
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "beacon": {
+                                "proto": {
+                                    "name": "beacon"
+                                },
+                                "amount": 4,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-3"
+                                                },
+                                                "amount": 2
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "name": "all_science_1000"
+        }
+    ]
+}

@@ -1,0 +1,290 @@
+{
+    "subfactories": [
+        {
+            "timescale": 60,
+            "Ingredient": {
+                "objects": [
+                    {
+                        "proto": {
+                            "name": "sulfur"
+                        },
+                        "amount": 84.98991708107836
+                    },
+                    {
+                        "proto": {
+                            "name": "se-vulcanite"
+                        },
+                        "amount": 1070.6220322545308
+                    },
+                    {
+                        "proto": {
+                            "name": "water"
+                        },
+                        "amount": 769.2307731985342
+                    },
+                    {
+                        "proto": {
+                            "name": "petroleum-gas"
+                        },
+                        "amount": 153.84615463970685
+                    }
+                ]
+            },
+            "Byproduct": {
+                "objects": [
+                    {
+                        "proto": {
+                            "name": "sand"
+                        },
+                        "amount": 16.99798341621567
+                    },
+                    {
+                        "proto": {
+                            "name": "stone"
+                        },
+                        "amount": 55.315471427181417
+                    },
+                    {
+                        "proto": {
+                            "name": "steam-165"
+                        },
+                        "amount": 615.3846185588274
+                    }
+                ]
+            },
+            "Product": {
+                "objects": [
+                    {
+                        "proto": {
+                            "name": "se-vulcanite-block"
+                        },
+                        "amount": 200
+                    }
+                ]
+            },
+            "top_floor": {
+                "Line": {
+                    "objects": [
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "se-vulcanite-block"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "se-vulcanite-block"
+                                        },
+                                        "amount": 200
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "se-vulcanite-crushed"
+                                        },
+                                        "amount": 153.8461546397068
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "se-vulcanite-enriched"
+                                        },
+                                        "amount": 307.6923092794136
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "water"
+                                        },
+                                        "amount": 769.230773198534
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "petroleum-gas"
+                                        },
+                                        "amount": 153.8461546397068
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "steam-165"
+                                        },
+                                        "amount": 615.3846185588272
+                                    }
+                                ]
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "industrial-furnace"
+                                },
+                                "count": 2.56410288299333,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "productivity-module-2"
+                                                },
+                                                "amount": 5
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "se-vulcanite-enriched"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "se-vulcanite-enriched"
+                                        },
+                                        "amount": 285.5661207085411
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "sulfur"
+                                        },
+                                        "amount": 84.98991708107836
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "se-vulcanite-crushed"
+                                        },
+                                        "amount": 509.93950248647016
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "sand"
+                                        },
+                                        "amount": 16.99798341621567
+                                    }
+                                ]
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "centrifuge"
+                                },
+                                "count": 7.455255743978425,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "productivity-module-2"
+                                                },
+                                                "amount": 2
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "beacon": {
+                                "proto": {
+                                    "name": "beacon"
+                                },
+                                "amount": 1,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "speed-module-2"
+                                                },
+                                                "amount": 8
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "se-vulcanite-crushed"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "se-vulcanite-crushed"
+                                        },
+                                        "amount": 663.7856571261769
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "se-vulcanite-enriched"
+                                        },
+                                        "amount": 22.126188570872569
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "se-vulcanite"
+                                        },
+                                        "amount": 1070.6220322545308
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "stone"
+                                        },
+                                        "amount": 55.315471427181417
+                                    }
+                                ]
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "se-pulveriser"
+                                },
+                                "count": 3.7174378335714599,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": [
+                                            {
+                                                "proto": {
+                                                    "name": "productivity-module-2"
+                                                },
+                                                "amount": 4
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "name": "vulcanite-block"
+        }
+    ]
+}

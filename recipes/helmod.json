@@ -1,0 +1,232 @@
+{
+    "id": "model_2",
+    "owner": "alephsyzygy",
+    "blocks": {
+        "block_1": {
+            "id": "block_1",
+            "name": "automation-science-pack",
+            "owner": "alephsyzygy",
+            "count": 1,
+            "power": 852500,
+            "ingredients": {
+                "copper-plate": {
+                    "name": "copper-plate",
+                    "type": "item",
+                    "count": 60,
+                    "state": 2
+                },
+                "iron-gear-wheel": {
+                    "name": "iron-gear-wheel",
+                    "type": "item",
+                    "count": 0,
+                    "state": 2
+                },
+                "iron-plate": {
+                    "name": "iron-plate",
+                    "type": "item",
+                    "count": 120,
+                    "state": 2
+                }
+            },
+            "products": {
+                "automation-science-pack": {
+                    "name": "automation-science-pack",
+                    "type": "item",
+                    "count": 60,
+                    "input": 60,
+                    "state": 1
+                },
+                "iron-gear-wheel": {
+                    "name": "iron-gear-wheel",
+                    "type": "item",
+                    "count": 0,
+                    "state": 2
+                }
+            },
+            "recipes": {
+                "R1": {
+                    "id": "R1",
+                    "index": 0,
+                    "name": "automation-science-pack",
+                    "type": "recipe",
+                    "count": 60,
+                    "production": 1,
+                    "factory": {
+                        "name": "assembling-machine-1",
+                        "type": "entity",
+                        "count": 10,
+                        "energy": 77500,
+                        "speed": 0.5,
+                        "limit": 0,
+                        "modules": {},
+                        "effects": {
+                            "speed": 0,
+                            "productivity": 0,
+                            "consumption": 0,
+                            "pollution": 0
+                        },
+                        "cap": {
+                            "speed": 0,
+                            "productivity": 0,
+                            "consumption": 0,
+                            "pollution": 0
+                        },
+                        "pollution": 0.06666666666666667,
+                        "energy_total": 775000,
+                        "pollution_total": 40
+                    },
+                    "beacon": {
+                        "name": "beacon",
+                        "type": "item",
+                        "count": 0,
+                        "energy": 480000,
+                        "combo": 4,
+                        "per_factory": 0.5,
+                        "per_factory_constant": 3,
+                        "limit": 0,
+                        "modules": {},
+                        "energy_total": 0
+                    },
+                    "time": 60,
+                    "energy_total": 775000,
+                    "pollution_total": 40
+                },
+                "R2": {
+                    "id": "R2",
+                    "index": 1,
+                    "name": "iron-gear-wheel",
+                    "type": "recipe",
+                    "count": 60,
+                    "production": 1,
+                    "factory": {
+                        "name": "assembling-machine-1",
+                        "type": "entity",
+                        "count": 1,
+                        "energy": 77500,
+                        "speed": 0.5,
+                        "limit": 0,
+                        "modules": {},
+                        "effects": {
+                            "speed": 0,
+                            "productivity": 0,
+                            "consumption": 0,
+                            "pollution": 0
+                        },
+                        "cap": {
+                            "speed": 0,
+                            "productivity": 0,
+                            "consumption": 0,
+                            "pollution": 0
+                        },
+                        "pollution": 0.06666666666666667,
+                        "energy_total": 77500,
+                        "pollution_total": 4
+                    },
+                    "beacon": {
+                        "name": "beacon",
+                        "type": "item",
+                        "count": 0,
+                        "energy": 480000,
+                        "combo": 4,
+                        "per_factory": 0.5,
+                        "per_factory_constant": 3,
+                        "limit": 0,
+                        "modules": {},
+                        "energy_total": 0
+                    },
+                    "time": 60,
+                    "energy_total": 77500,
+                    "pollution_total": 4
+                }
+            },
+            "index": 0,
+            "unlinked": true,
+            "type": "recipe",
+            "time": 60,
+            "pollution_total": 44,
+            "summary": {
+                "building": 11,
+                "factories": {
+                    "assembling-machine-1": {
+                        "name": "assembling-machine-1",
+                        "type": "item",
+                        "count": 11
+                    }
+                },
+                "beacons": {
+                    "beacon": {
+                        "name": "beacon",
+                        "type": "item",
+                        "count": 0
+                    }
+                },
+                "modules": {}
+            }
+        }
+    },
+    "ingredients": {
+        "copper-plate": {
+            "index": 3,
+            "name": "copper-plate",
+            "type": "item",
+            "count": 60
+        },
+        "iron-plate": {
+            "index": 5,
+            "name": "iron-plate",
+            "type": "item",
+            "count": 120
+        }
+    },
+    "resources": {},
+    "time": 60,
+    "version": "0.9.35",
+    "index": 0,
+    "block_id": 1,
+    "recipe_id": 2,
+    "products": {
+        "automation-science-pack": {
+            "index": 1,
+            "name": "automation-science-pack",
+            "type": "item",
+            "count": 60
+        }
+    },
+    "summary": {
+        "factories": {
+            "assembling-machine-1": {
+                "name": "assembling-machine-1",
+                "type": "item",
+                "count": 11
+            }
+        },
+        "beacons": {
+            "beacon": {
+                "name": "beacon",
+                "type": "item",
+                "count": 0
+            }
+        },
+        "modules": {},
+        "building": 11,
+        "energy": 852500,
+        "pollution": 44
+    },
+    "generators": {
+        "accumulator": {
+            "name": "accumulator",
+            "type": "item",
+            "count": 20
+        },
+        "solar-panel": {
+            "name": "solar-panel",
+            "type": "item",
+            "count": 24
+        },
+        "steam-engine": {
+            "name": "steam-engine",
+            "type": "item",
+            "count": 2
+        }
+    }
+}

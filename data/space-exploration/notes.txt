@@ -1,0 +1,151 @@
+(9, 9): 4
+   () ['rocket-silo', 'se-space-probe-rocket-silo']
+   ([inputinput-5,2][inputinput-2,-5][inputinput-5,0][inputinput0,-5][inputinput-5,-2][inputinput2,-5][outputoutput-2,5][outputoutput5,2][outputoutput0,5][outputoutput5,0][outputoutput2,5][outputoutput5,-2]) ['se-space-manufactory', 'se-space-manufactory-grounded', 'se-space-biochemical-laboratory', 'se-space-biochemical-laboratory-grounded', 'se-space-growth-facility']
+   ([inputinput0,-5][inputinput-5,0][outputoutput0,5][outputoutput5,0]) ['se-space-material-fabricator', 'se-space-particle-accelerator', 'se-space-particle-collider']
+   ([inputinput0,-5][outputoutput0,5]) ['se-space-telescope-microwave', 'se-space-telescope-radio']
+
+9x9 fit into two categories: rocket-silos and manufactory
+
+(3, 2): 2
+   ([inputinput-output-2,0.5][outputoutput0,-1.5]) ['se-electric-boiler']
+   ([inputinput-output0,-1.5][inputinput-output0,1.5]) ['se-casting-machine']
+
+3x2 have two categories, boilder and casting
+
+(2, 2): 1
+   () ['stone-furnace', 'steel-furnace']
+
+2x2 done
+
+(3, 3): 3
+   () ['electric-furnace', 'burner-assembling-machine', 'assembling-machine-1', 'fuel-processor', 'centrifuge']
+   ([inputinput0,-2][outputoutput0,2]) ['assembling-machine-2', 'assembling-machine-3', 'se-space-assembling-machine', 'se-space-assembling-machine-grounded', 'se-space-radiator', 'se-space-radiator-2', 'se-space-telescope']
+   ([inputinput-1,-2][inputinput1,-2][outputoutput-1,2][outputoutput1,2]) ['chemical-plant']
+
+3x3: 3 categories, but the fluid crafting one should have an output added to handle space
+
+(5, 5): 5
+   ([inputinput-1,-3][inputinput1,-3][inputinput-3,-1][inputinput3,-1][outputoutput-1,3][outputoutput1,3][outputoutput3,1][outputoutput-3,1]) ['industrial-furnace']
+   ([inputinput-1,3][inputinput1,3][outputoutput-2,-3][outputoutput0,-3][outputoutput2,-3]) ['oil-refinery']
+   ([inputinput-1,3][inputinput1,3][outputinput-output-2,-3][outputinput-output0,-3][outputinput-output2,-3]) ['se-fuel-refinery', 'se-fuel-refinery-spaced']
+   ([inputinput0,-3][inputinput-3,0][outputoutput0,3][outputoutput3,0]) ['se-space-hypercooler']
+   ([inputinput0,-3][outputoutput0,3]) ['se-space-astrometrics-laboratory', 'se-space-gravimetrics-laboratory', 'se-space-supercomputer-1', 'se-space-supercomputer-2', 'se-space-supercomputer-3', 'se-space-supercomputer-4', 'se-space-telescope-gammaray', 'se-space-telescope-xray']
+
+5x5 refineries, industrial furnace, ...
+ can we put hypercooler with the space factories?
+
+(7, 7): 3
+   ([inputinput0,-4][inputinput-4,0][outputoutput0,4][outputoutput4,0]) ['se-space-thermodynamics-laboratory', 'se-space-thermodynamics-laboratory-grounded', 'se-space-genetics-laboratory', 'se-space-radiation-laboratory', 'se-space-radiation-laboratory-grounded', 'se-space-electromagnetics-laboratory', 'se-space-laser-laboratory', 'se-space-plasma-generator']
+   ([inputinput0,-4][outputoutput4,0][outputoutput0,4][outputoutput-4,0]) ['se-recycling-facility']
+   ([inputinput1,-4][inputinput-1,-4][outputoutput-4,-1][outputoutput1,4][outputoutput-4,1][outputoutput4,1][outputoutput4,-1][outputoutput-1,4]) ['se-space-mechanical-laboratory', 'se-space-mechanical-laboratory-grounded', 'se-pulveriser']
+
+7x7: three categories: recycling, pulveriser, space
+
+(6, 6): 1
+   ([inputinput-1.5,-3.5][inputinput1.5,-3.5][inputinput-3.5,-1.5][inputinput3.5,-1.5][outputoutput-1.5,3.5][outputoutput1.5,3.5][outputoutput3.5,1.5][outputoutput-3.5,1.5]) ['se-lifesupport-facility', 'se-space-decontamination-facility', 'se-space-decontamination-facility-grounded']
+
+6x6: one category: decontamination/lifesupport
+
+(8, 8): 1
+   () ['se-nexus']
+
+8x8 one category, nexus
+
+
+
+
+Loops:
+
+There is a fluid loop going from index 1 to index 1
+For fluid loops there are (0,1) and (1,1) loops, so at most one item loop
+
+For item loops they go up to 4 items looped
+We need to be able to rearrange item inputs/outputs to use loops
+
+item indexes in loops are all over the place, so we need to be able to rearrange them
+
+
+
+
+
+Template metadata (compatability condition):
+- width  (==)
+- height (==)
+- # item inputs (<=)
+- # item outputs (<=)
+- # fluid inputs (<=)
+- # fluid outputs (<=)
+- # item loops (<=)
+- fluid loops: output-idx to input-idx (subset)
+- fluidbox configuration: (subset)
+  - x location
+  - y location
+  - type
+
+
+ingredient_count: support added
+
+
+3x3 7/8 input: own template
+
+
+
+(3, 2) : 1 0 0 | 1 1 0 | [inputinput-output-2,0.5][outputoutput0,-1.5] ['se-electric-boiler']
+(3, 2) : 1 1 0 | 1 0 0 | [inputinput-output0,-1.5][inputinput-output0,1.5] ['se-casting-machine']
+[X] (2, 2) : 1 1 0 | 0 0 0 |  ['stone-furnace', 'steel-furnace']
+X (3, 3) : 6 4 3 | 0 0 0 |  ['electric-furnace', 'burner-assembling-machine', 'assembling-machine-1', 'fuel-processor', 'centrifuge']
+(3, 3) : 6 2 1 | 1 1 0 | [inputinput0,-2][outputoutput0,2] ['assembling-machine-2', 'assembling-machine-3', 'se-space-assembling-machine', 'se-space-assembling-machine-grounded', 'se-space-radiator', 'se-space-radiator-2', 'se-space-telescope']
+(3, 3) : 3 4 2 | 2 1 0 | [inputinput-1,-2][inputinput1,-2][outputoutput-1,2][outputoutput1,2] ['chemical-plant']
+(5, 5) : 3 2 0 | 2 1 0 | [inputinput-1,-3][inputinput1,-3][inputinput-3,-1][inputinput3,-1][outputoutput-1,3][outputoutput1,3][outputoutput3,1][outputoutput-3,1] ['industrial-furnace']
+|(5, 5) : 3 2 0 | 2 3 1 | [inputinput-1,3][inputinput1,3][outputoutput-2,-3][outputoutput0,-3][outputoutput2,-3] ['oil-refinery']
+|(5, 5) : 1 2 0 | 1 1 0 | [inputinput-1,3][inputinput1,3][outputinput-output-2,-3][outputinput-output0,-3][outputinput-output2,-3] ['se-fuel-refinery', 'se-fuel-refinery-spaced']
+(5, 5) : 3 2 0 | 2 3 1 | [inputinput-1,3][inputinput1,3][outputoutput-2,-3][outputoutput0,-3][outputoutput2,-3] ['oil-refinery']
+(5, 5) : 0 0 0 | 2 2 0 | [inputinput0,-3][inputinput-3,0][outputoutput0,3][outputoutput3,0] ['se-space-hypercooler']
+(5, 5) : 5 3 1 | 1 1 0 | [inputinput0,-3][outputoutput0,3] ['se-space-astrometrics-laboratory', 'se-space-gravimetrics-laboratory', 'se-space-supercomputer-1', 'se-space-supercomputer-2', 'se-space-supercomputer-3', 'se-space-supercomputer-4', 'se-space-telescope-gammaray', 'se-space-telescope-xray']
+(6, 6) : 4 2 0 | 2 2 0 | [inputinput-1.5,-3.5][inputinput1.5,-3.5][inputinput-3.5,-1.5][inputinput3.5,-1.5][outputoutput-1.5,3.5][outputoutput1.5,3.5][outputoutput3.5,1.5][outputoutput-3.5,1.5] ['se-lifesupport-facility', 'se-space-decontamination-facility', 'se-space-decontamination-facility-grounded']
+(7, 7) : 6 4 3 | 2 2 1 | [inputinput0,-4][inputinput-4,0][outputoutput0,4][outputoutput4,0] ['se-space-thermodynamics-laboratory', 'se-space-thermodynamics-laboratory-grounded', 'se-space-genetics-laboratory', 'se-space-radiation-laboratory', 'se-space-radiation-laboratory-grounded', 'se-space-electromagnetics-laboratory', 'se-space-laser-laboratory', 'se-space-plasma-generator']
+(7, 7) : 1 6 0 | 0 1 0 | [inputinput0,-4][outputoutput4,0][outputoutput0,4][outputoutput-4,0] ['se-recycling-facility']
+(7, 7) : 5 5 2 | 1 3 0 | [inputinput1,-4][inputinput-1,-4][outputoutput-4,-1][outputoutput1,4][outputoutput-4,1][outputoutput4,1][outputoutput4,-1][outputoutput-1,4] ['se-space-mechanical-laboratory', 'se-space-mechanical-laboratory-grounded', 'se-pulveriser']
+(8, 8) : 1 1 0 | 0 0 0 |  ['se-nexus']
+[X] (9, 9) : 0 0 0 | 0 0 0 |  ['rocket-silo', 'se-space-probe-rocket-silo']
+(9, 9) : 6 7 2 | 4 3 1 | [inputinput-5,2][inputinput-2,-5][inputinput-5,0][inputinput0,-5][inputinput-5,-2][inputinput2,-5][outputoutput-2,5][outputoutput5,2][outputoutput0,5][outputoutput5,0][outputoutput2,5][outputoutput5,-2] ['se-space-manufactory', 'se-space-manufactory-grounded', 'se-space-biochemical-laboratory', 'se-space-biochemical-laboratory-grounded', 'se-space-growth-facility']  
+(9, 9) : 3 4 1 | 2 2 0 | [inputinput0,-5][inputinput-5,0][outputoutput0,5][outputoutput5,0] ['se-space-material-fabricator', 'se-space-particle-accelerator', 'se-space-particle-collider']
+(9, 9) : 1 1 0 | 1 1 0 | [inputinput0,-5][outputoutput0,5] ['se-space-telescope-microwave', 'se-space-telescope-radio']
+
+
+large:
+(9, 9) : 8 7 2 | 4 3 1 | [inputinput-5,2][inputinput-2,-5][inputinput-5,0][inputinput0,-5][inputinput-5,-2][inputinput2,-5][outputoutput-2,5][outputoutput5,2][outputoutput0,5][outputoutput5,0][outputoutput2,5][outputoutput5,-2] ['se-space-manufactory', 'se-space-manufactory-grounded', 'se-space-biochemical-laboratory', 'se-space-biochemical-laboratory-grounded', 'se-space-growth-facility']  
+
+astrometrics gravimetrics:
+(3, 3) : 8 2 1 | 1 1 0 | [inputinput0,-2][outputoutput0,2] ['assembling-machine-2', 'assembling-machine-3', 'se-space-assembling-machine', 'se-space-assembling-machine-grounded', 'se-space-radiator', 'se-space-radiator-2', 'se-space-telescope']
+
+
+-- centrifuge and assemblers disabled:
+[X] (3, 3) : 1 1 0 | 0 0 0 |  ['electric-furnace', 'burner-assembling-machine', 'assembling-machine-1', 'fuel-processor', 'centrifuge']
+
+-- centrifuge
+(3, 3) : 3 4 3 | 0 0 0 |  ['electric-furnace', 'burner-assembling-machine', 'assembling-machine-1', 'fuel-processor', 'centrifuge']
+
+Final:
+
+[ ] (3, 2) : 1 0 0 | 1 1 0 | se-electric-boiler
+[ ] (3, 2) : 1 1 0 | 1 0 0 | se-casting-machine
+[ ] (3, 3) : 6 2 1 | 1 1 0 | 'se-space-assembling-machine', 'se-space-radiator', 'se-space-radiator-2', 'se-space-telescope'
+[-] (3, 3) : 3 4 2 | 2 1 0 | chemical-plant
+[ ] (3, 3) : 3 4 3 | 0 0 0 | centrifuge
+[ ] (5, 5) : 3 2 0 | 2 1 0 | industrial-furnace
+[-] (5, 5) : 3 2 0 | 2 3 1 | refineries
+[ ] (5, 5) : 0 0 0 | 2 2 0 | se-space-hypercooler
+[ ] (5, 5) : 5 3 1 | 1 1 0 | 'se-space-astrometrics-laboratory', 'se-space-gravimetrics-laboratory', 'se-space-supercomputer-1', 'se-space-supercomputer-2', 'se-space-supercomputer-3', 'se-space-supercomputer-4', 'se-space-telescope-gammaray', 'se-space-telescope-xray'
+[ ] (5, 5) : 8 8 4 | 1 1 0 | 'se-space-astrometrics-laboratory', 'se-space-gravimetrics-laboratory'
+[ ] (6, 6) : 4 2 0 | 2 2 0 | 'se-lifesupport-facility', 'se-space-decontamination-facility'
+[ ] (7, 7) : 6 4 3 | 2 2 1 | 'se-space-thermodynamics-laboratory', 'se-space-thermodynamics-laboratory-grounded', 'se-space-genetics-laboratory', 'se-space-radiation-laboratory', 'se-space-radiation-laboratory-grounded', 'se-space-electromagnetics-laboratory', 'se-space-laser-laboratory', 'se-space-plasma-generator']
+[ ] (7, 7) : 1 6 0 | 0 1 0 | se-recycling-facility
+[ ] (7, 7) : 5 5 2 | 1 3 0 | 'se-space-mechanical-laboratory', 'se-pulveriser'
+[ ] (8, 8) : 1 1 0 | 0 0 0 | se-nexus
+[ ] (9, 9) : 6 7 2 | 4 3 1 | 'se-space-manufactory', 'se-space-manufactory-grounded', 'se-space-biochemical-laboratory', 'se-space-biochemical-laboratory-grounded', 'se-space-growth-facility']  
+[ ] (9, 9) : 3 4 1 | 2 2 0 | 'se-space-material-fabricator', 'se-space-particle-accelerator', 'se-space-particle-collider'
+[ ] (9, 9) : 1 1 0 | 1 1 0 | 'se-space-telescope-microwave', 'se-space-telescope-radio'
+[ ] (9, 9) : 8 7 2 | 4 3 1 | ['se-space-manufactory', 'se-space-manufactory-grounded', 'se-space-biochemical-laboratory', 'se-space-biochemical-laboratory-grounded', 'se-space-growth-facility']  
+[X] (9, 9) : 0 0 0 | 0 0 0 |  ['rocket-silo', 'se-space-probe-rocket-silo']
+

@@ -1,0 +1,147 @@
+{
+    "mod_version": "1.1.60",
+    "export_modset": {
+        "base": "1.1.74",
+        "gvv": "0.5.1",
+        "creative-mod": "1.8.0",
+        "flib": "0.12.4",
+        "FNEI": "0.4.1",
+        "helmod": "0.12.14",
+        "factoryplanner": "1.1.60"
+    },
+    "subfactories": [
+        {
+            "name": "[item=automation-science-pack]Science1",
+            "timescale": 60,
+            "notes": "",
+            "Product": {
+                "objects": [
+                    {
+                        "proto": {
+                            "name": "automation-science-pack",
+                            "simplified": true,
+                            "type": "item"
+                        },
+                        "amount": 60,
+                        "required_amount": {
+                            "defined_by": "amount",
+                            "amount": 60,
+                            "belt_proto": false
+                        },
+                        "top_level": true,
+                        "class": "Product"
+                    }
+                ],
+                "class": "Collection"
+            },
+            "top_floor": {
+                "Line": {
+                    "objects": [
+                        {
+                            "class": "Line",
+                            "recipe": {
+                                "proto": {
+                                    "name": "automation-science-pack",
+                                    "simplified": true,
+                                    "category": "crafting"
+                                },
+                                "production_type": "produce",
+                                "class": "Recipe"
+                            },
+                            "active": true,
+                            "done": false,
+                            "percentage": 100,
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-1",
+                                    "simplified": true,
+                                    "category": "crafting"
+                                },
+                                "force_limit": false,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": {},
+                                        "class": "Collection"
+                                    },
+                                    "module_count": 0,
+                                    "empty_slots": 0,
+                                    "class": "ModuleSet"
+                                },
+                                "class": "Machine",
+                                "count": 10
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "automation-science-pack",
+                                            "simplified": true,
+                                            "type": "item"
+                                        },
+                                        "amount": 60,
+                                        "top_level": false,
+                                        "class": "Product"
+                                    }
+                                ],
+                                "class": "Collection"
+                            }
+                        },
+                        {
+                            "class": "Line",
+                            "recipe": {
+                                "proto": {
+                                    "name": "iron-gear-wheel",
+                                    "simplified": true,
+                                    "category": "crafting"
+                                },
+                                "production_type": "produce",
+                                "class": "Recipe"
+                            },
+                            "active": true,
+                            "done": false,
+                            "percentage": 100,
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-1",
+                                    "simplified": true,
+                                    "category": "crafting"
+                                },
+                                "force_limit": false,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": {},
+                                        "class": "Collection"
+                                    },
+                                    "module_count": 0,
+                                    "empty_slots": 0,
+                                    "class": "ModuleSet"
+                                },
+                                "class": "Machine",
+                                "count": 1
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "iron-gear-wheel",
+                                            "simplified": true,
+                                            "type": "item"
+                                        },
+                                        "amount": 60,
+                                        "top_level": false,
+                                        "class": "Product"
+                                    }
+                                ],
+                                "class": "Collection"
+                            }
+                        }
+                    ],
+                    "class": "Collection"
+                },
+                "level": 1,
+                "class": "Floor"
+            },
+            "class": "Subfactory"
+        }
+    ]
+}

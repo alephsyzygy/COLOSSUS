@@ -1,0 +1,283 @@
+{
+    "subfactories": [
+        {
+            "timescale": 60,
+            "Ingredient": {
+                "objects": [
+                    {
+                        "proto": {
+                            "name": "water"
+                        },
+                        "amount": 4972.602739726027
+                    },
+                    {
+                        "proto": {
+                            "name": "crude-oil"
+                        },
+                        "amount": 7232.876712328766
+                    }
+                ]
+            },
+            "Byproduct": {
+                "objects": {}
+            },
+            "Product": {
+                "objects": [
+                    {
+                        "proto": {
+                            "name": "rocket-fuel"
+                        },
+                        "amount": 60
+                    }
+                ]
+            },
+            "top_floor": {
+                "Line": {
+                    "objects": [
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "rocket-fuel"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "rocket-fuel"
+                                        },
+                                        "amount": 59.999999999999989
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "solid-fuel"
+                                        },
+                                        "amount": 599.9999999999999
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "light-oil"
+                                        },
+                                        "amount": 599.9999999999999
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "assembling-machine-3"
+                                },
+                                "count": 23.999999999999998,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": {}
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "solid-fuel-from-light-oil"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "solid-fuel"
+                                        },
+                                        "amount": 401.09589041095895
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "light-oil"
+                                        },
+                                        "amount": 4010.958904109589
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "chemical-plant"
+                                },
+                                "count": 13.36986301369863,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": {}
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "advanced-oil-processing"
+                                },
+                                "production_type": "produce"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "heavy-oil"
+                                        },
+                                        "amount": 1808.219178082192
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "light-oil"
+                                        },
+                                        "amount": 3254.7945205479456
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "petroleum-gas"
+                                        },
+                                        "amount": 3978.082191780822
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "water"
+                                        },
+                                        "amount": 3616.438356164384
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "crude-oil"
+                                        },
+                                        "amount": 7232.876712328768
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "oil-refinery"
+                                },
+                                "count": 6.027397260273973,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": {}
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "heavy-oil-cracking"
+                                },
+                                "production_type": "consume"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "light-oil"
+                                        },
+                                        "amount": 1356.1643835616438
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "water"
+                                        },
+                                        "amount": 1356.1643835616438
+                                    },
+                                    {
+                                        "proto": {
+                                            "name": "heavy-oil"
+                                        },
+                                        "amount": 1808.2191780821916
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "chemical-plant"
+                                },
+                                "count": 1.506849315068493,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": {}
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "recipe": {
+                                "proto": {
+                                    "name": "solid-fuel-from-petroleum-gas"
+                                },
+                                "production_type": "consume"
+                            },
+                            "Product": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "solid-fuel"
+                                        },
+                                        "amount": 198.9041095890411
+                                    }
+                                ]
+                            },
+                            "Ingredient": {
+                                "objects": [
+                                    {
+                                        "proto": {
+                                            "name": "petroleum-gas"
+                                        },
+                                        "amount": 3978.082191780822
+                                    }
+                                ]
+                            },
+                            "Byproduct": {
+                                "objects": {}
+                            },
+                            "machine": {
+                                "proto": {
+                                    "name": "chemical-plant"
+                                },
+                                "count": 6.63013698630137,
+                                "module_set": {
+                                    "modules": {
+                                        "objects": {}
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "name": "rocket-fuel"
+        }
+    ]
+}

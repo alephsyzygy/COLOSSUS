@@ -1,0 +1,66 @@
+{
+    "water": {
+        "name": "water",
+        "default_temperature": 15,
+        "max_temperature": 100,
+        "fuel_value": 0,
+        "gas_temperature": 1.7976931348623155e308,
+        "hidden": false
+    },
+    "crude-oil": {
+        "name": "crude-oil",
+        "default_temperature": 25,
+        "max_temperature": 25,
+        "fuel_value": 0,
+        "gas_temperature": 1.7976931348623155e308,
+        "hidden": false
+    },
+    "steam": {
+        "name": "steam",
+        "default_temperature": 15,
+        "max_temperature": 5000,
+        "fuel_value": 0,
+        "gas_temperature": 15,
+        "hidden": false
+    },
+    "heavy-oil": {
+        "name": "heavy-oil",
+        "default_temperature": 25,
+        "max_temperature": 25,
+        "fuel_value": 0,
+        "gas_temperature": 1.7976931348623155e308,
+        "hidden": false
+    },
+    "light-oil": {
+        "name": "light-oil",
+        "default_temperature": 25,
+        "max_temperature": 25,
+        "fuel_value": 0,
+        "gas_temperature": 1.7976931348623155e308,
+        "hidden": false
+    },
+    "petroleum-gas": {
+        "name": "petroleum-gas",
+        "default_temperature": 25,
+        "max_temperature": 25,
+        "fuel_value": 0,
+        "gas_temperature": 1.7976931348623155e308,
+        "hidden": false
+    },
+    "sulfuric-acid": {
+        "name": "sulfuric-acid",
+        "default_temperature": 25,
+        "max_temperature": 25,
+        "fuel_value": 0,
+        "gas_temperature": 1.7976931348623155e308,
+        "hidden": false
+    },
+    "lubricant": {
+        "name": "lubricant",
+        "default_temperature": 25,
+        "max_temperature": 25,
+        "fuel_value": 0,
+        "gas_temperature": 1.7976931348623155e308,
+        "hidden": false
+    }
+}
