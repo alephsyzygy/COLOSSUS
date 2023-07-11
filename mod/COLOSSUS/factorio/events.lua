@@ -455,10 +455,10 @@ function Toggle_interface(player, keep_elements)
         player_global.elements = {}
     end
     if player_global.surface == nil then
-        player_global.surface = game.create_surface("colussus_mod_colossus")
+        player_global.surface = game.create_surface("colussus_mod_colossus_" .. player.index)
     end
     if player_global.blueprint_surface == nil then
-        player_global.blueprint_surface = game.create_surface("colussus_mod_colossus_blueprint_surface")
+        player_global.blueprint_surface = game.create_surface("colussus_mod_colossus_blueprint_surface_" .. player.index)
         player_global.blueprint_surface.generate_with_lab_tiles = true
         player_global.blueprint_surface.always_day = true
     end
